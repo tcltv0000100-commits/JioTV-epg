@@ -1,173 +1,264 @@
 <?php
 date_default_timezone_set("UTC");
 
-/* ---------------- CONFIG ---------------- */
+/**
+ * CONFIG
+ */
 $prevEpgDayCount = 7;
 $nextEpgDayCount = 2;
 $langId = 6;
-$parallelRequests = 12; // increase for more speed (10–15 safe)
 
-/* ---------------- CURL HELPERS ---------------- */
+// Output name required by you
+$outputGz = "jio.gz";
 
-function curlHandle($url)
+/**
+ * HTTP GET using cURL
+ */
+function httpGet($url)
 {
     $ch = curl_init($url);
     curl_setopt_array($ch, [
         CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_TIMEOUT => 10,
-        CURLOPT_CONNECTTIMEOUT => 5,
+        CURLOPT_TIMEOUT => 30,
+        CURLOPT_CONNECTTIMEOUT => 15,
         CURLOPT_SSL_VERIFYPEER => false,
+        CURLOPT_SSL_VERIFYHOST => false,
+        CURLOPT_FOLLOWLOCATION => true,
         CURLOPT_HTTPHEADER => [
-            "User-Agent: okhttp/4.9.0",
-            "Accept: application/json"
-        ]
+            // realistic browser UA improves success
+            "User-Agent: Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Mobile Safari/537.36",
+            "Accept: application/json, text/plain, */*",
+            "Accept-Language: en-US,en;q=0.9",
+            "Connection: keep-alive",
+        ],
     ]);
-    return $ch;
+
+    $response = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+    if ($response === false) {
+        echo "cURL error: " . curl_error($ch) . "\n";
+    }
+
+    curl_close($ch);
+    return [$httpCode, $response];
 }
 
+/**
+ * XML escape
+ */
 function xmlEscape($str)
 {
-    return htmlspecialchars((string)$str, ENT_QUOTES | ENT_XML1, 'UTF-8');
+    if ($str === null) return "";
+    return htmlspecialchars((string)$str, ENT_QUOTES | ENT_XML1, "UTF-8");
 }
 
 function formatEpoch($epochMs)
 {
-    return gmdate("YmdHis", intval($epochMs / 1000)) . " +0000";
+    $ts = intval($epochMs / 1000);
+    return gmdate("YmdHis", $ts) . " +0000";
 }
 
-/* ---------------- CHANNELS ---------------- */
-
+/**
+ * Fetch channel list
+ */
 function getChannels()
 {
     $url = "https://jiotv.data.cdn.jio.com/apis/v1.4/getMobileChannelList/get/?os=android&devicetype=phone";
-    $ch = curlHandle($url);
-    $res = curl_exec($ch);
-    curl_close($ch);
+    [$code, $res] = httpGet($url);
 
+    echo "Channel API status: $code\n";
     if (!$res) return [];
+
     $json = json_decode($res, true);
+    if (!is_array($json)) {
+        echo "Channel API invalid JSON response (maybe blocked)\n";
+        echo "Sample: " . substr($res, 0, 200) . "\n";
+        return [];
+    }
+
     return $json["result"] ?? [];
 }
 
-function writeEpgChannel($ch, $fp)
+/**
+ * Fetch EPG
+ */
+function getEpg($channelId, $offset, $langId)
 {
-    fwrite($fp,
-        "\t<channel id=\"{$ch['channel_id']}\">\n" .
-        "\t\t<display-name>" . xmlEscape($ch['channel_name']) . "</display-name>\n" .
-        "\t\t<icon src=\"https://jiotv.catchup.cdn.jio.com/dare_images/images/{$ch['logoUrl']}\" />\n" .
-        "\t</channel>\n"
+    $url = "https://jiotv.data.cdn.jio.com/apis/v1.3/getepg/get?channel_id=" .
+        urlencode($channelId) . "&offset=" . urlencode($offset) . "&langId=" . urlencode($langId);
+
+    [$code, $res] = httpGet($url);
+
+    if ($code != 200 || !$res) return [];
+
+    $json = json_decode($res, true);
+    if (!is_array($json)) return [];
+
+    return $json["epg"] ?? [];
+}
+
+/**
+ * Write channels XML
+ */
+function writeChannelsXml($channels, $file)
+{
+    $fp = fopen($file, "w");
+    foreach ($channels as $c) {
+        $id = $c["channel_id"] ?? null;
+        $name = $c["channel_name"] ?? null;
+        $logo = $c["logoUrl"] ?? "";
+
+        if ($id === null || $name === null) continue;
+
+        fwrite($fp, "\t<channel id=\"" . $id . "\">\n");
+        fwrite($fp, "\t\t<display-name>" . xmlEscape($name) . "</display-name>\n");
+        fwrite($fp, "\t\t<icon src=\"https://jiotv.catchup.cdn.jio.com/dare_images/images/" . xmlEscape($logo) . "\"></icon>\n");
+        fwrite($fp, "\t</channel>\n");
+    }
+    fclose($fp);
+}
+
+/**
+ * Write programmes into programX.xml
+ */
+function writeProgramXmlForDay($day, $channels, $langId)
+{
+    echo "Generating program$day.xml\n";
+    $fp = fopen("program$day.xml", "w");
+
+    $i = 0;
+    $total = count($channels);
+
+    foreach ($channels as $c) {
+        $cid = $c["channel_id"] ?? null;
+        if (!$cid) continue;
+
+        $epgData = getEpg($cid, $day, $langId);
+
+        foreach ($epgData as $epg) {
+            $progStart = formatEpoch($epg["startEpoch"] ?? 0);
+            $progEnd = formatEpoch($epg["endEpoch"] ?? 0);
+            $title = xmlEscape($epg["showname"] ?? "");
+
+            $desc = $epg["episode_desc"] ?? ($epg["description"] ?? "");
+            $desc = xmlEscape($desc);
+
+            $category = xmlEscape($epg["showCategory"] ?? "");
+            $episodeNum = $epg["episode_num"] ?? "";
+            $poster = $epg["episodePoster"] ?? "";
+
+            fwrite($fp, "\t<programme start=\"$progStart\" stop=\"$progEnd\" channel=\"$cid\">\n");
+            fwrite($fp, "\t\t<title lang=\"en\">$title</title>\n");
+            fwrite($fp, "\t\t<desc lang=\"en\">$desc</desc>\n");
+
+            if (!empty($category)) {
+                fwrite($fp, "\t\t<category lang=\"en\">$category</category>\n");
+            }
+            if (!empty($episodeNum)) {
+                fwrite($fp, "\t\t<episode-num system=\"onscreen\">" . xmlEscape((string)$episodeNum) . "</episode-num>\n");
+            }
+            if (!empty($poster)) {
+                fwrite($fp, "\t\t<icon src=\"https://jiotv.catchup.cdn.jio.com/dare_images/shows/" . xmlEscape($poster) . "\"></icon>\n");
+            }
+
+            fwrite($fp, "\t</programme>\n");
+        }
+
+        $i++;
+        if ($i % 50 == 0) echo "Progress: $i/$total\n";
+    }
+
+    fclose($fp);
+}
+
+/**
+ * Merge XML into gzip directly (no RAM blow)
+ */
+function buildGzEpg($outputGz, $channelsFile, $prevEpgDayCount, $nextEpgDayCount)
+{
+    // header/footer temp files
+    $header = "tv_header.xml";
+    $footer = "tv_footer.xml";
+
+    file_put_contents($header,
+        "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" .
+        "<!DOCTYPE tv SYSTEM \"xmltv.dtd\">\n" .
+        "<tv generator-info-name=\"JioTV-EPG\" generator-info-url=\"https://github.com/\">\n"
     );
+    file_put_contents($footer, "</tv>\n");
+
+    // write gz
+    $gz = gzopen($outputGz, "w9");
+    if (!$gz) {
+        echo "ERROR: can't create $outputGz\n";
+        return false;
+    }
+
+    foreach ([$header, $channelsFile] as $f) {
+        $fp = fopen($f, "r");
+        while (!feof($fp)) {
+            $chunk = fread($fp, 1024 * 1024);
+            if ($chunk !== false && $chunk !== "") gzwrite($gz, $chunk);
+        }
+        fclose($fp);
+    }
+
+    for ($day = ($prevEpgDayCount * -1); $day < $nextEpgDayCount; $day++) {
+        $file = "program$day.xml";
+        if (!file_exists($file)) continue;
+
+        $fp = fopen($file, "r");
+        while (!feof($fp)) {
+            $chunk = fread($fp, 1024 * 1024);
+            if ($chunk !== false && $chunk !== "") gzwrite($gz, $chunk);
+        }
+        fclose($fp);
+    }
+
+    // footer
+    $fp = fopen($footer, "r");
+    while (!feof($fp)) {
+        $chunk = fread($fp, 1024 * 1024);
+        if ($chunk !== false && $chunk !== "") gzwrite($gz, $chunk);
+    }
+    fclose($fp);
+
+    gzclose($gz);
+
+    @unlink($header);
+    @unlink($footer);
+
+    echo "Created: $outputGz (" . round(filesize($outputGz) / 1024 / 1024, 2) . " MB)\n";
+    return true;
 }
 
-/* ---------------- PROGRAM WRITE ---------------- */
-
-function writeEpgProgram($cid, $epg, $fp)
-{
-    $start = formatEpoch($epg["startEpoch"] ?? 0);
-    $end   = formatEpoch($epg["endEpoch"] ?? 0);
-
-    fwrite($fp, "\t<programme start=\"$start\" stop=\"$end\" channel=\"$cid\">\n");
-    fwrite($fp, "\t\t<title lang=\"en\">" . xmlEscape($epg["showname"] ?? "") . "</title>\n");
-    fwrite($fp, "\t\t<desc lang=\"en\">" . xmlEscape($epg["episode_desc"] ?? $epg["description"] ?? "") . "</desc>\n");
-
-    if (!empty($epg["showCategory"])) {
-        fwrite($fp, "\t\t<category lang=\"en\">" . xmlEscape($epg["showCategory"]) . "</category>\n");
-    }
-
-    if (!empty($epg["episode_num"])) {
-        fwrite($fp, "\t\t<episode-num system=\"onscreen\">" . xmlEscape($epg["episode_num"]) . "</episode-num>\n");
-    }
-
-    if (!empty($epg["episodePoster"])) {
-        fwrite($fp, "\t\t<icon src=\"https://jiotv.catchup.cdn.jio.com/dare_images/shows/{$epg['episodePoster']}\" />\n");
-    }
-
-    fwrite($fp, "\t</programme>\n");
-}
-
-/* ---------------- PARALLEL EPG FETCH ---------------- */
-
-function fetchEpgParallel($requests)
-{
-    $mh = curl_multi_init();
-    $handles = [];
-
-    foreach ($requests as $key => $url) {
-        $ch = curlHandle($url);
-        curl_multi_add_handle($mh, $ch);
-        $handles[$key] = $ch;
-    }
-
-    do {
-        curl_multi_exec($mh, $running);
-        curl_multi_select($mh);
-    } while ($running);
-
-    $results = [];
-    foreach ($handles as $key => $ch) {
-        $results[$key] = curl_multi_getcontent($ch);
-        curl_multi_remove_handle($mh, $ch);
-        curl_close($ch);
-    }
-
-    curl_multi_close($mh);
-    return $results;
-}
-
-/* ---------------- MAIN ---------------- */
-
-@unlink("epg.xml");
-@unlink("jio.gz");
-
+/**
+ * MAIN
+ */
 echo "Fetching channels...\n";
 $channels = getChannels();
-if (!$channels) die("No channels found\n");
 
-$fp = fopen("epg.xml", "w");
-
-fwrite($fp, "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n");
-fwrite($fp, "<!DOCTYPE tv SYSTEM \"xmltv.dtd\">\n");
-fwrite($fp, "<tv generator-info-name=\"Arnab Ghosh\">\n");
-
-/* channels */
-foreach ($channels as $ch) {
-    writeEpgChannel($ch, $fp);
+if (count($channels) == 0) {
+    echo "No channels found. (Jio API blocked on this IP?)\n";
+    exit(1);
 }
 
-/* programs */
-for ($day = -$prevEpgDayCount; $day < $nextEpgDayCount; $day++) {
-    echo "Day $day\n";
+echo "Channels: " . count($channels) . "\n";
 
-    $queue = [];
-    foreach ($channels as $ch) {
-        $queue[] = [
-            "cid" => $ch["channel_id"],
-            "url" => "https://jiotv.data.cdn.jio.com/apis/v1.3/getepg/get?channel_id={$ch['channel_id']}&offset=$day&langId=$langId"
-        ];
-    }
+// clean old
+@unlink("channels.xml");
+@unlink($outputGz);
 
-    $chunks = array_chunk($queue, $parallelRequests);
-    foreach ($chunks as $batch) {
-        $req = [];
-        foreach ($batch as $i => $b) $req[$i] = $b["url"];
+// write channel xml
+writeChannelsXml($channels, "channels.xml");
 
-        $responses = fetchEpgParallel($req);
-
-        foreach ($responses as $i => $res) {
-            $json = json_decode($res, true);
-            if (empty($json["epg"])) continue;
-
-            foreach ($json["epg"] as $epg) {
-                writeEpgProgram($batch[$i]["cid"], $epg, $fp);
-            }
-        }
-    }
+// generate days
+for ($day = ($prevEpgDayCount * -1); $day < $nextEpgDayCount; $day++) {
+    writeProgramXmlForDay($day, $channels, $langId);
 }
 
-fwrite($fp, "</tv>\n");
-fclose($fp);
+// build gz final
+buildGzEpg($outputGz, "channels.xml", $prevEpgDayCount, $nextEpgDayCount);
 
-/* gzip */
-file_put_contents("jio.gz", gzencode(file_get_contents("epg.xml"), 9));
-
-echo "DONE ✅ Output: jio.gz\n";
+echo "DONE\n";
