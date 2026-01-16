@@ -1,11 +1,8 @@
 <?php
 date_default_timezone_set("UTC");
 
-/* ---------------- CONFIG ---------------- */
 $sourceUrl = "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz";
-$outFile = "epg.xml.gz";
-
-/* ---------------- HELPERS ---------------- */
+$outFile   = "epg.xml.gz";
 
 function downloadFile($url, $dest)
 {
@@ -14,7 +11,7 @@ function downloadFile($url, $dest)
     curl_setopt_array($ch, [
         CURLOPT_FILE => $fp,
         CURLOPT_FOLLOWLOCATION => true,
-        CURLOPT_TIMEOUT => 180,
+        CURLOPT_TIMEOUT => 300,
         CURLOPT_CONNECTTIMEOUT => 30,
         CURLOPT_SSL_VERIFYPEER => false,
         CURLOPT_SSL_VERIFYHOST => false,
@@ -37,14 +34,14 @@ function xmlEscape($str)
 
 /* ---------------- MAIN ---------------- */
 
-$tmpGz = "source.xml.gz";
+$tmpGz  = "source.xml.gz";
 $tmpXml = "source.xml";
 
 @unlink($tmpGz);
 @unlink($tmpXml);
 @unlink($outFile);
 
-echo "Downloading source...\n";
+echo "Downloading...\n";
 if (!downloadFile($sourceUrl, $tmpGz)) {
     die("Download failed\n");
 }
@@ -58,29 +55,31 @@ while (!gzeof($in)) {
 gzclose($in);
 fclose($out);
 
-echo "Parsing channels (building map)...\n";
-
 /**
- * STEP 1: Read channels and build mapping:
- * oldId => displayName
+ * STEP 1: Build map oldId => display-name
  */
+echo "Building channel-id map...\n";
 $map = [];
 
-$reader = new XMLReader();
-$reader->open($tmpXml);
+$r = new XMLReader();
+$r->open($tmpXml);
 
-while ($reader->read()) {
-    if ($reader->nodeType === XMLReader::ELEMENT && $reader->name === "channel") {
-        $oldId = $reader->getAttribute("id");
-
-        $channelNode = $reader->expand();
-        $sx = simplexml_import_dom($channelNode);
-
-        // Take first display-name (en preferred)
+while ($r->read()) {
+    if ($r->nodeType === XMLReader::ELEMENT && $r->name === "channel") {
+        $oldId = $r->getAttribute("id");
         $display = "";
-        foreach ($sx->{'display-name'} as $dn) {
-            $display = trim((string)$dn);
-            if ($display !== "") break;
+
+        // read inside <channel> ... </channel>
+        while ($r->read()) {
+            // <display-name>
+            if ($r->nodeType === XMLReader::ELEMENT && $r->name === "display-name") {
+                $display = trim($r->readString());
+                break;
+            }
+            // end channel
+            if ($r->nodeType === XMLReader::END_ELEMENT && $r->name === "channel") {
+                break;
+            }
         }
 
         if ($oldId && $display) {
@@ -88,32 +87,33 @@ while ($reader->read()) {
         }
     }
 }
-$reader->close();
+$r->close();
 
 echo "Mapped channels: " . count($map) . "\n";
-
-echo "Rewriting XML -> output gzip...\n";
+if (count($map) == 0) {
+    die("ERROR: channel map empty (source xml issue?)\n");
+}
 
 /**
- * STEP 2: Stream rewrite into gz:
- * - rewrite <channel id="old"> -> id="display"
- * - rewrite <programme channel="old"> -> channel="display"
- * - display-name stays same
+ * STEP 2: Rewrite source xml -> output gzip
+ * - <channel id="OLD"> becomes <channel id="DISPLAY">
+ * - <programme channel="OLD"> becomes <programme channel="DISPLAY">
  */
+echo "Rewriting output gzip...\n";
 $in = fopen($tmpXml, "rb");
 $gz = gzopen($outFile, "wb9");
 
 while (!feof($in)) {
     $chunk = fread($in, 1024 * 1024);
 
-    // Replace channel id="OLD"
+    // replace channel id
     $chunk = preg_replace_callback('/<channel id="([^"]+)">/', function ($m) use ($map) {
         $old = $m[1];
         $new = $map[$old] ?? $old;
         return '<channel id="' . xmlEscape($new) . '">';
     }, $chunk);
 
-    // Replace programme channel="OLD"
+    // replace programme channel
     $chunk = preg_replace_callback('/<programme([^>]+)channel="([^"]+)"([^>]*)>/', function ($m) use ($map) {
         $before = $m[1];
         $old = $m[2];
@@ -128,4 +128,4 @@ while (!feof($in)) {
 fclose($in);
 gzclose($gz);
 
-echo "DONE ✅ Output: $outFile (" . round(filesize($outFile) / 1024 / 1024, 2) . " MB)\n";
+echo "DONE ✅ Output: $outFile (" . round(filesize($outFile)/1024/1024, 2) . " MB)\n";
