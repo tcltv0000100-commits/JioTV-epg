@@ -1,8 +1,8 @@
-name: Update Jio EPG
+name: Update EPG Daily
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"   # daily 00:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -21,13 +21,13 @@ jobs:
         with:
           php-version: "8.2"
 
-      - name: Run generator
+      - name: Run updater
         run: php epg.php
 
-      - name: Commit and push
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add jio.gz channels.xml program*.xml || true
-          git commit -m "Auto update EPG" || exit 0
+          git add epg.xml.gz
+          git commit -m "Daily EPG update" || exit 0
           git push
