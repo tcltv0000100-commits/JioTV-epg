@@ -153,6 +153,9 @@ CHANNELS = {
     "SkySp.Cricket.uk",
     "Astro.Cricket.hk",
     "FoxCricket.alt.au",
+    " Willow.Cricket.HD.us2", 
+    "Willow.Xtra.us2", 
+    " SuperSport.School.HD.za", 
 }
 
 def clean_channel_id(source_id: str) -> str:
