@@ -88,7 +88,6 @@ CHANNELS = {
     "SONY.SPORTS.TEN.2.in",
     "SONY.SPORTS.TEN.3.HD.in",
     "SONY.SPORTS.TEN.3.in",
-    "SONY.SPORTS.TEN.4.TAMIL.in",
     "SONY.SPORTS.TEN.5.HD.in",
     "SONY.SPORTS.TEN.5.in",
     "SONY.WAH.in",
@@ -143,23 +142,29 @@ CHANNELS = {
     "ZOOM.in",
     "SkySp.Cricket.uk",
     "Astro.Cricket.hk",
-    "FoxCricket.alt.au",
+    "FoxCricket.au",
     "Willow.Cricket.HD.us2",
     "Willow.Xtra.us2",
     "SuperSport.School.HD.za",
     "Mastiii.in",
     "Music.India.in",
     "Star.Sports.First.in",
-    "SuperSport.1.al",
     "Music.India.in",
     "COOKING.ACTIVE.in",
     "Baby.TV.English.(GB,EN).no",
+    "Star.Life.al",
+    "The.Q.in",
+    "Goldmines.in",
+    "MTV.HD.it",
+    "Haryana.Beats.in",
+    "VH1.HD.us2",
+    "Bollywood.HD.pl",
 }
 
 def clean_channel_id(source_id: str) -> str:
     """
     Convert source ID to display-style ID:
-      DD.Bangla.in -> DD Bangla
+      DD.Bangla.in -> DD Bangla"
       SONY.MAX.1.in -> SONY MAX 1
     """
     s = source_id
