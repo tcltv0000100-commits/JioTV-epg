@@ -24,7 +24,7 @@ jobs:
           echo "Downloading EPG source..."
           curl -L --fail -A "Mozilla/5.0" \
             -o epg_ripper_ALL_SOURCES1.gz \
-            "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.gz"
+            "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
           echo "Downloaded file info:"
           ls -lh epg_ripper_ALL_SOURCES1.gz
