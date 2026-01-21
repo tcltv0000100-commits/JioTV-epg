@@ -1,0 +1,35 @@
+name: Update Filtered EPG Daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # रोज 00:00 UTC (India: सुबह 5:30)
+  workflow_dispatch:
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Download latest epg source
+        run: |
+          curl -L -o epg_ripper_ALL_SOURCES1.gz "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.gz"
+
+      - name: Run filter script
+        run: |
+          python filter_epg.py
+
+      - name: Commit & Push updated EPG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add filtered_epg.xml filtered_epg.xml.gz
+          git commit -m "Auto update filtered EPG" || exit 0
+          git push
