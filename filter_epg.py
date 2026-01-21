@@ -1,12 +1,10 @@
 import gzip
 import xml.etree.ElementTree as ET
 from datetime import datetime
-import sys
 
 SOURCE_GZ = "epg_ripper_ALL_SOURCES1.gz"
 OUTPUT_XML = "filtered_epg.xml"
-OUTPUT_GZ  = "filtered_epg.xml.gz"
-
+OUTPUT_GZ = "filtered_epg.xml.gz"
 
 # ✅ Your exact channel list
 CHANNELS = {
@@ -571,60 +569,53 @@ CHANNELS = {
 "FoxCricket.alt.au"
 }
 
-
 def main():
-    print("Loading source:", SOURCE_GZ)
-
-    with gzip.open(SOURCE_GZ, "rb") as f:
-        tree = ET.parse(f)
-
-    root = tree.getroot()
-
-    # XMLTV format uses root <tv> with <channel> and <programme>
-    channels = root.findall("channel")
-    programmes = root.findall("programme")
-
-    # Keep only requested channels
-    kept_channels = []
     kept_ids = set()
+    kept_channels = 0
+    kept_programmes = 0
 
-    for ch in channels:
-        ch_id = ch.attrib.get("id", "")
-        if ch_id in CHANNELS:
-            kept_channels.append(ch)
-            kept_ids.add(ch_id)
+    print("Reading:", SOURCE_GZ)
 
-    kept_programmes = []
-    for p in programmes:
-        cid = p.attrib.get("channel", "")
-        if cid in kept_ids:
-            kept_programmes.append(p)
+    with open(OUTPUT_XML, "wb") as out:
+        out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+        out.write(
+            f'<tv generator-info-name="filtered_epg_generator" date="{datetime.utcnow().strftime("%Y%m%d%H%M%S +0000")}">\n'
+            .encode("utf-8")
+        )
 
-    # Create new XML
-    new_root = ET.Element("tv")
-    new_root.set("generator-info-name", "filtered_epg_generator")
-    new_root.set("date", datetime.utcnow().strftime("%Y%m%d%H%M%S +0000"))
+        with gzip.open(SOURCE_GZ, "rb") as f:
+            context = ET.iterparse(f, events=("end",))
 
-    for ch in kept_channels:
-        new_root.append(ch)
+            for event, elem in context:
+                tag = elem.tag
 
-    for p in kept_programmes:
-        new_root.append(p)
+                if tag == "channel":
+                    ch_id = elem.attrib.get("id", "")
+                    if ch_id in CHANNELS:
+                        kept_ids.add(ch_id)
+                        out.write(ET.tostring(elem, encoding="utf-8"))
+                        out.write(b"\n")
+                        kept_channels += 1
+                    elem.clear()
 
-    new_tree = ET.ElementTree(new_root)
+                elif tag == "programme":
+                    cid = elem.attrib.get("channel", "")
+                    if cid in kept_ids:
+                        out.write(ET.tostring(elem, encoding="utf-8"))
+                        out.write(b"\n")
+                        kept_programmes += 1
+                    elem.clear()
 
-    # Save xml
-    new_tree.write(OUTPUT_XML, encoding="utf-8", xml_declaration=True)
-    print("Saved:", OUTPUT_XML)
+        out.write(b"</tv>\n")
 
-    # Save gz
+    # compress output
     with open(OUTPUT_XML, "rb") as f_in, gzip.open(OUTPUT_GZ, "wb") as f_out:
         f_out.writelines(f_in)
 
-    print("Saved:", OUTPUT_GZ)
-    print("Channels kept:", len(kept_channels))
-    print("Programmes kept:", len(kept_programmes))
-
+    print("✅ Saved:", OUTPUT_XML)
+    print("✅ Saved:", OUTPUT_GZ)
+    print("✅ Channels kept:", kept_channels)
+    print("✅ Programmes kept:", kept_programmes)
 
 if __name__ == "__main__":
     main()
