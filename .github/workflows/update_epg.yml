@@ -20,7 +20,7 @@ jobs:
 
       - name: Download latest epg source
         run: |
-          curl -L -o epg_ripper_ALL_SOURCES1.gz "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.gz"
+          curl -L -o epg_ripper_ALL_SOURCES1.gz "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
       - name: Run filter script
         run: |
