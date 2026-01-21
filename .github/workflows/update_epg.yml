@@ -1,9 +1,9 @@
-name: Update Filtered EPG Daily (Auto Gist)
+name: Update Filtered EPG Daily
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Daily 00:00 UTC (India ~ 5:30 AM)
+  workflow_dispatch:      # Manual run button enable
 
 jobs:
   update-epg:
@@ -21,100 +21,34 @@ jobs:
 
       - name: Download latest EPG source
         run: |
+          echo "Downloading EPG source..."
           curl -L --fail -A "Mozilla/5.0" \
             -o epg_ripper_ALL_SOURCES1.gz \
             "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
+          echo "Downloaded file info:"
           ls -lh epg_ripper_ALL_SOURCES1.gz
           file epg_ripper_ALL_SOURCES1.gz
 
+          # Fail if HTML downloaded instead of gzip
           if file epg_ripper_ALL_SOURCES1.gz | grep -qi html; then
-            echo "ERROR: Downloaded HTML instead of gz"
+            echo "ERROR: Downloaded HTML instead of .gz"
             exit 1
           fi
 
       - name: Run filter script
         run: |
           python filter_epg.py
-          ls -lh filtered_epg.xml
 
-      # ✅ Auto create gist if not present
-      - name: Create or Update Gist (filtered_epg.xml)
-        env:
-          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-        run: |
-          python - << 'PY'
-          import os, json, urllib.request, urllib.error
-
-          token = os.environ["GIST_TOKEN"].strip()
-          file_name = "filtered_epg.xml"
-
-          with open(file_name, "r", encoding="utf-8") as f:
-              content = f.read()
-
-          headers = {
-              "Authorization": f"token {token}",
-              "Accept": "application/vnd.github+json",
-              "User-Agent": "github-actions"
-          }
-
-          gist_id_file = "gist_id.txt"
-
-          def api_request(url, data=None, method="GET"):
-              req = urllib.request.Request(url, data=data, method=method)
-              for k, v in headers.items():
-                  req.add_header(k, v)
-              return urllib.request.urlopen(req)
-
-          # If gist_id.txt exists, update it
-          gist_id = None
-          if os.path.exists(gist_id_file):
-              with open(gist_id_file, "r", encoding="utf-8") as f:
-                  gist_id = f.read().strip()
-
-          payload = {"files": {file_name: {"content": content}}}
-
-          if gist_id:
-              # Update existing gist
-              url = f"https://api.github.com/gists/{gist_id}"
-              data = json.dumps(payload).encode("utf-8")
-              try:
-                  with api_request(url, data=data, method="PATCH") as resp:
-                      print("✅ Updated gist:", resp.status)
-              except urllib.error.HTTPError as e:
-                  print("❌ Failed updating gist:", e.code, e.read().decode())
-                  raise
-          else:
-              # Create new gist
-              payload["description"] = "Auto updated filtered EPG"
-              payload["public"] = False
-              data = json.dumps(payload).encode("utf-8")
-
-              url = "https://api.github.com/gists"
-              try:
-                  with api_request(url, data=data, method="POST") as resp:
-                      res = json.loads(resp.read().decode("utf-8"))
-                      gist_id = res["id"]
-                      print("✅ Created new gist:", gist_id)
-
-                      # save gist id to file
-                      with open(gist_id_file, "w", encoding="utf-8") as f:
-                          f.write(gist_id)
-              except urllib.error.HTTPError as e:
-                  print("❌ Failed creating gist:", e.code, e.read().decode())
-                  raise
-
-          print("Gist ID:", gist_id)
-          print("✅ RAW URL should be:")
-          print(f"https://gist.githubusercontent.com/<USERNAME>/{gist_id}/raw/{file_name}")
-          PY
-
-      - name: Commit gist_id.txt (if created)
+      - name: Commit & Push updated EPG
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add gist_id.txt || true
-          git diff --cached --quiet && echo "No gist_id changes" && exit 0
-          git commit -m "Save gist id"
+          git add filtered_epg.xml filtered_epg.xml.gz || true
+
+          # Commit only if changed
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          git commit -m "Auto update filtered EPG"
           git push
