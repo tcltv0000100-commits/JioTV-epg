@@ -1,4 +1,4 @@
-name: Update Filtered EPG Daily (Gist)
+name: Update Filtered EPG Daily (Auto Gist)
 
 on:
   schedule:
@@ -23,7 +23,7 @@ jobs:
         run: |
           curl -L --fail -A "Mozilla/5.0" \
             -o epg_ripper_ALL_SOURCES1.gz \
-            "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+            "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.gz"
 
           ls -lh epg_ripper_ALL_SOURCES1.gz
           file epg_ripper_ALL_SOURCES1.gz
@@ -36,47 +36,85 @@ jobs:
       - name: Run filter script
         run: |
           python filter_epg.py
-          ls -lh filtered_epg.xml.gz
+          ls -lh filtered_epg.xml
 
-      # ✅ Upload to Gist
-      - name: Upload filtered EPG to Gist
+      # ✅ Auto create gist if not present
+      - name: Create or Update Gist (filtered_epg.xml)
         env:
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
         run: |
           python - << 'PY'
-          import os, json, base64, urllib.request
+          import os, json, urllib.request, urllib.error
 
-          gist_id = os.environ["GIST_ID"]
-          token = os.environ["GIST_TOKEN"]
+          token = os.environ["GIST_TOKEN"].strip()
+          file_name = "filtered_epg.xml"
 
-          filename = "filtered_epg.xml.gz"
-          with open(filename, "rb") as f:
-              content_b64 = base64.b64encode(f.read()).decode("utf-8")
+          with open(file_name, "r", encoding="utf-8") as f:
+              content = f.read()
 
-          # Gist API expects plain text, so we'll send base64 and decode is not needed by tivimate? ❌
-          # Better: Upload binary by converting to Latin-1 safe string (works for gz).
-          with open(filename, "rb") as f:
-              raw = f.read().decode("latin-1")
-
-          payload = {
-              "files": {
-                  filename: {
-                      "content": raw
-                  }
-              }
+          headers = {
+              "Authorization": f"token {token}",
+              "Accept": "application/vnd.github+json",
+              "User-Agent": "github-actions"
           }
 
-          data = json.dumps(payload).encode("utf-8")
+          gist_id_file = "gist_id.txt"
 
-          req = urllib.request.Request(
-              f"https://api.github.com/gists/{gist_id}",
-              data=data,
-              method="PATCH"
-          )
-          req.add_header("Authorization", f"token {token}")
-          req.add_header("Accept", "application/vnd.github+json")
+          def api_request(url, data=None, method="GET"):
+              req = urllib.request.Request(url, data=data, method=method)
+              for k, v in headers.items():
+                  req.add_header(k, v)
+              return urllib.request.urlopen(req)
 
-          with urllib.request.urlopen(req) as resp:
-              print("Gist updated:", resp.status)
+          # If gist_id.txt exists, update it
+          gist_id = None
+          if os.path.exists(gist_id_file):
+              with open(gist_id_file, "r", encoding="utf-8") as f:
+                  gist_id = f.read().strip()
+
+          payload = {"files": {file_name: {"content": content}}}
+
+          if gist_id:
+              # Update existing gist
+              url = f"https://api.github.com/gists/{gist_id}"
+              data = json.dumps(payload).encode("utf-8")
+              try:
+                  with api_request(url, data=data, method="PATCH") as resp:
+                      print("✅ Updated gist:", resp.status)
+              except urllib.error.HTTPError as e:
+                  print("❌ Failed updating gist:", e.code, e.read().decode())
+                  raise
+          else:
+              # Create new gist
+              payload["description"] = "Auto updated filtered EPG"
+              payload["public"] = False
+              data = json.dumps(payload).encode("utf-8")
+
+              url = "https://api.github.com/gists"
+              try:
+                  with api_request(url, data=data, method="POST") as resp:
+                      res = json.loads(resp.read().decode("utf-8"))
+                      gist_id = res["id"]
+                      print("✅ Created new gist:", gist_id)
+
+                      # save gist id to file
+                      with open(gist_id_file, "w", encoding="utf-8") as f:
+                          f.write(gist_id)
+              except urllib.error.HTTPError as e:
+                  print("❌ Failed creating gist:", e.code, e.read().decode())
+                  raise
+
+          print("Gist ID:", gist_id)
+          print("✅ RAW URL should be:")
+          print(f"https://gist.githubusercontent.com/<USERNAME>/{gist_id}/raw/{file_name}")
           PY
+
+      - name: Commit gist_id.txt (if created)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add gist_id.txt || true
+          git diff --cached --quiet && echo "No gist_id changes" && exit 0
+          git commit -m "Save gist id"
+          git push
