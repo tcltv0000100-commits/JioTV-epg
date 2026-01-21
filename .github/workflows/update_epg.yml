@@ -2,25 +2,39 @@ name: Update Filtered EPG Daily
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # रोज 00:00 UTC (India: सुबह 5:30)
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Daily 00:00 UTC (India ~ 5:30 AM)
+  workflow_dispatch:      # Manual run button enable
 
 jobs:
   update-epg:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Download latest epg source
+      - name: Download latest EPG source
         run: |
-          curl -L -o epg_ripper_ALL_SOURCES1.gz "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+          echo "Downloading EPG source..."
+          curl -L --fail -A "Mozilla/5.0" \
+            -o epg_ripper_ALL_SOURCES1.gz \
+            "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.gz"
+
+          echo "Downloaded file info:"
+          ls -lh epg_ripper_ALL_SOURCES1.gz
+          file epg_ripper_ALL_SOURCES1.gz
+
+          # Fail if HTML downloaded instead of gzip
+          if file epg_ripper_ALL_SOURCES1.gz | grep -qi html; then
+            echo "ERROR: Downloaded HTML instead of .gz"
+            exit 1
+          fi
 
       - name: Run filter script
         run: |
@@ -30,6 +44,11 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add filtered_epg.xml filtered_epg.xml.gz
-          git commit -m "Auto update filtered EPG" || exit 0
+
+          git add filtered_epg.xml filtered_epg.xml.gz || true
+
+          # Commit only if changed
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          git commit -m "Auto update filtered EPG"
           git push
