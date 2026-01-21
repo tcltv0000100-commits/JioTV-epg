@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg_generator" date="20260121111407 +0000">
+<tv generator-info-name="filtered_epg_generator" date="20260121124757 +0000">
 <channel id="FoxCricket alt au">
     <display-name lang="en">Fox Cricket</display-name>
   </channel>
@@ -2253,6 +2253,7 @@
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/72/96/757296_p23818606_b_h9_aa_360.jpg" />
     <episode-num system="onscreen">S2026</episode-num>
   </programme>
+  
 <programme start="20260123033000 +0800" stop="20260123040000 +0800" channel="FoxCricket alt au">
     <title lang="en">Fox Cricket Specials</title>
     <sub-title lang="en">Speed 'n Spin</sub-title>
@@ -3169,7 +3170,6 @@
     <country lang="en">Australia</country>
     <episode-num system="onscreen">S2023</episode-num>
   </programme>
-  
 <programme start="20260125130000 +0800" stop="20260125140000 +0800" channel="FoxCricket alt au">
     <title lang="en">BBL Classic Best Ofs</title>
     <sub-title lang="en">Best of The Final: BBL14 HUR v THU</sub-title>
@@ -3315,70 +3315,6 @@
     <category lang="en">Series</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/80/11/31/801131_p26275540_b_h9_aa_360.jpg" />
     <episode-num system="onscreen">S2025</episode-num>
-  </programme>
-  
-<programme channel="Astro Cricket hk" start="20260120071500 +0000" stop="20260120153000 +0000">
-    <title lang="en">ICC Men's Under-19 World Cup 2026</title>
-    <sub-title lang="en">Match 15: BAN v NZ</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
-  </programme>
-  
-<programme channel="Astro Cricket hk" start="20260120153000 +0000" stop="20260120190000 +0000">
-    <title lang="en">Big Bash League 2025/26</title>
-    <sub-title lang="en">Match 35: HH v BH</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
-  </programme>
-  
-<programme channel="Astro Cricket hk" start="20260120190000 +0000" stop="20260120223000 +0000">
-    <title lang="en">Big Bash League 2025/26</title>
-    <sub-title lang="en">Qualifier</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
-  </programme>
-  
-<programme channel="Astro Cricket hk" start="20260120223000 +0000" stop="20260121030500 +0000">
-    <title lang="en">ICC Men's Under-19 World Cup 2026</title>
-    <sub-title lang="en">Match 9: NZ v USA</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
-  </programme>
-  
-<programme channel="Astro Cricket hk" start="20260121030500 +0000" stop="20260121040000 +0000">
-    <title lang="en">ICC Women's World Cup 2025</title>
-    <sub-title lang="en">Match 2</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
-  </programme>
-  
-<programme channel="Astro Cricket hk" start="20260121040000 +0000" stop="20260121070000 +0000">
-    <title lang="en">Big Bash League 2025/26</title>
-    <sub-title lang="en">Match 41: Qualifier</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
-  </programme>
-  
-<programme channel="Astro Cricket hk" start="20260121070000 +0000" stop="20260121075000 +0000">
-    <title lang="en">ICC Women's World Cup 2025</title>
-    <sub-title lang="en">Match 1</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
-  </programme>
-  
-<programme channel="Astro Cricket hk" start="20260121075000 +0000" stop="20260121082000 +0000">
-    <title lang="en">IPL 2025 Highlights</title>
-    <sub-title lang="en">Match 14</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
   </programme>
   
 <programme channel="Astro Cricket hk" start="20260121082000 +0000" stop="20260121115500 +0000">
@@ -3552,6 +3488,62 @@
 <programme channel="Astro Cricket hk" start="20260123132000 +0000" stop="20260123173000 +0000">
     <title lang="en">New Zealand tour of India 2025/26</title>
     <sub-title lang="en">2nd T20i</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
+  </programme>
+  
+<programme channel="Astro Cricket hk" start="20260123173000 +0000" stop="20260123210000 +0000">
+    <title lang="en">Big Bash League 2025/26</title>
+    <sub-title lang="en">Match 36: MR v PS</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
+  </programme>
+  
+<programme channel="Astro Cricket hk" start="20260123210000 +0000" stop="20260123220000 +0000">
+    <title lang="en">ICC Women's World Cup 2025</title>
+    <sub-title lang="en">Match 6</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
+  </programme>
+  
+<programme channel="Astro Cricket hk" start="20260123220000 +0000" stop="20260124060000 +0000">
+    <title lang="en">ICC Men's Under-19 World Cup 2026</title>
+    <sub-title lang="en">Match 13: IRE v SL</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
+  </programme>
+  
+<programme channel="Astro Cricket hk" start="20260124060000 +0000" stop="20260124063500 +0000">
+    <title lang="en">IPL 2025 Highlights</title>
+    <sub-title lang="en">Match 12</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
+  </programme>
+  
+<programme channel="Astro Cricket hk" start="20260124063500 +0000" stop="20260124071500 +0000">
+    <title lang="en">IPL 2025 Highlights</title>
+    <sub-title lang="en">Match 15</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
+  </programme>
+  
+<programme channel="Astro Cricket hk" start="20260124071500 +0000" stop="20260124153000 +0000">
+    <title lang="en">ICC Men's Under-19 World Cup 2026</title>
+    <sub-title lang="en">Match 24: IND v NZ</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
+  </programme>
+  
+<programme channel="Astro Cricket hk" start="20260124153000 +0000" stop="20260124190000 +0000">
+    <title lang="en">Big Bash League 2025/26</title>
+    <sub-title lang="en">Match 37: SS v ST</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Cricket/Match</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch674_160_115" />
@@ -3825,6 +3817,7 @@
     <episode-num system="onscreen">E828</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260121210000 +0530" stop="20260121220000 +0530" channel="SET HD">
     <title lang="hi-IN">मास्टर शेफ इंडिया</title>
     <sub-title lang="hi-IN">Aspiring chefs and food lovers from various parts of India showcase their culinary skills in front of prominent judges to win the title and grand prize money</sub-title>
@@ -3982,7 +3975,6 @@
     <episode-num system="onscreen">E13</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260122084000 +0530" stop="20260122100000 +0530" channel="SET HD">
     <title lang="hi-IN">Best of the Kapil Sharma Show</title>
     <sub-title lang="hi-IN">A compilation of the best moments from 'The Kapil Sharma Show' celebrates top highlights, playful roasts and the vibrant energy that defines its comedy</sub-title>
@@ -4539,6 +4531,7 @@
     <episode-num system="onscreen">E187</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260124022000 +0530" stop="20260124030000 +0530" channel="SET HD">
     <title lang="hi-IN">बेस्ट ऑफ़ क्राइम पेट्रोल</title>
     <sub-title lang="hi-IN">A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own</sub-title>
@@ -5115,6 +5108,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/324a984e34ce6608890d1120f86dda60.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260121220000 +0530" stop="20260121223000 +0530" channel="9X Jalwa">
     <title lang="hi-IN">जलवा क्लासिक्स</title>
     <desc lang="hi-IN">A comprehensive complication of popular songs composed and performed by renowned artists is played back-to-back to entertain the audience.</desc>
@@ -5370,6 +5364,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a0b079d7bbea9b5a30ff2a38ad5920b9.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260122143000 +0530" stop="20260122150000 +0530" channel="9X Jalwa">
     <title lang="hi-IN">जलवा मेलोडी वाली वाइब</title>
     <desc lang="hi-IN">A comprehensive compilaion of melodious and soulful movie songs, composed by talented muscians is played to enthral the audience.</desc>
@@ -6767,7 +6762,6 @@
     <episode-num system="onscreen">E7</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260122082300 +0530" stop="20260122092100 +0530" channel="TLC HD">
     <title lang="en-GB">Restaurant: Impossible</title>
     <desc lang="en-GB">In Charlotte, NC, the owner of 7th Restaurant and Lounge, Don, never asks for help, despite becoming paralysed after being robbed at gunpoint. Robert Irvine works to convince Don that running a restaurant takes a village.</desc>
@@ -6800,6 +6794,7 @@
     <episode-num system="onscreen">E2</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260122110800 +0530" stop="20260122113400 +0530" channel="TLC HD">
     <title lang="en-GB">Mountain Life</title>
     <desc lang="en-GB">Kellen and Sonja are new parents searching for a mountain home that will allow them to grow their family in the resort town of Coeur d'Alene, Idaho; she wants ample living space, while he has his heart set on a picture-perfect view of the lake.</desc>
@@ -7627,7 +7622,6 @@
     <episode-num system="onscreen">E3</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260124200000 +0530" stop="20260124200800 +0530" channel="TLC HD">
     <title lang="en-GB">Future Makers</title>
     <desc lang="en-GB">Take a look at how India's homegrown payment powerhouse UPI has the highest transactions per second and Bengaluru is a clear leader in this fintech revolution.</desc>
@@ -8070,7 +8064,6 @@
     <episode-num system="onscreen">E8</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260122000000 +0530" stop="20260122005000 +0530" channel="Discovery Science">
     <title lang="en-GB">What Could Possibly Go Wrong?</title>
     <desc lang="en-GB">Kevin and Grant modify a go-kart to beat a truck in a head-to-head drag race. Plus, the guys play paintball in the dark with homemade night vision goggles.</desc>
@@ -8353,7 +8346,6 @@
     <episode-num system="onscreen">E2</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260122181100 +0530" stop="20260122190600 +0530" channel="Discovery Science">
     <title lang="en-GB">What Could Possibly Go Wrong?</title>
     <desc lang="en-GB">Kevin and Grant find a way to chill a drink in less than a minute. Plus, they play backyard astronaut in an attempt to send a camera to the edge of space.</desc>
@@ -8930,7 +8922,6 @@
     <episode-num system="onscreen">E3</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260124060000 +0530" stop="20260124065400 +0530" channel="Discovery Science">
     <title lang="en-GB">What Could Possibly Go Wrong?</title>
     <desc lang="en-GB">Kevin and Grant find a way to chill a drink in less than a minute. Plus, they play backyard astronaut in an attempt to send a camera to the edge of space.</desc>
@@ -9567,6 +9558,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/144c7cdf54e9ccc095b77f97e005982a.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260121211500 +0530" stop="20260121213000 +0530" channel="9XM">
     <title lang="hi-IN">9एक्सएम म्यूजिक इधर है</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the hit songs composed by renowned artists and musicians is played back-to-back along with some popular jokes.</desc>
@@ -12923,6 +12915,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/50b99d9994d4d572d5bb833d65314c52.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260123004500 +0530" stop="20260123010000 +0530" channel="Star Sports Khel">
     <title lang="hi-IN">क्रिकेट हाइलाइट्स</title>
     <sub-title lang="hi-IN">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title</sub-title>
@@ -17770,6 +17763,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p30514065_b_h9_ac.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E104</episode-num>
   </programme>
+  
 <programme channel="ZEE TV HD" start="20260122020000 +0530" stop="20260122021500 +0530">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
     <desc lang="en">After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
@@ -18106,7 +18100,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p11173690_b_h9_ac.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E65</episode-num>
   </programme>
-  
 <programme channel="ZING" start="20260121120000 +0530" stop="20260121130000 +0530">
     <title lang="en">Pyaar Tune Kya Kiya</title>
     <desc lang="en">The host narrates different stories of love and loss, depicting the drastic steps that young lovers take to protect their relationship.</desc>
@@ -18433,7 +18426,6 @@
     <category lang="en">Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p26735490_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="ZING HOME D2H" start="20260122030000 +0530" stop="20260122060000 +0530">
     <title lang="en">Zing Home</title>
     <desc lang="en">This is TV Show - Entertainment Category.</desc>
@@ -18952,6 +18944,7 @@
     <category lang="en">Entertainment</category>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_502,h_282,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050070-20260121133000/list/ZEETVMELaxmiNivas20006858137625ee7624097a03d93313563cd38.jpg" />
   </programme>
+  
 <programme channel="Zee TV ME" start="20260121083000 +0530" stop="20260121090000 +0530">
     <title lang="en">Jaane Anjaane Hum Mile</title>
     <desc lang="en">Reet, a determined journalist, navigates the struggles of her 'atta-satta' marriage, uncovering family secrets and challenging societal norms in her quest for justice and true love.</desc>
@@ -19140,6 +19133,7 @@
     <category lang="en">Entertainment</category>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_502,h_282,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-000050070-20260122030000/list/ZEETVMELaxmiNivas2000685b99a0020cc9a40dbbc4fb00f178942e5.jpg" />
   </programme>
+  
 <programme channel="Zee TV ME" start="20260121220000 +0530" stop="20260121223000 +0530">
     <title lang="en">Jaane Anjaane Hum Mile</title>
     <desc lang="en">Reet, a determined journalist, navigates the struggles of her 'atta-satta' marriage, uncovering family secrets and challenging societal norms in her quest for justice and true love.</desc>
@@ -20238,6 +20232,7 @@
     <category lang="en">Music</category>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_502,h_282,c_scale,f_webp,q_auto:eco/resources/0-10-CHN-801470002-20260123110000/list/ZINGUSASpotlight1648662504cdc24514b40859c1c216714be56be.jpg" />
   </programme>
+  
 <programme channel="Zing USA" start="20260123060000 +0530" stop="20260123063000 +0530">
     <title lang="en">Pyaar Tune Kya Kiya</title>
     <desc lang="en">Jai, a fashion photographer, finds his perfect marriage shaken when a model develops feelings for him. Will he resist temptation or risk losing everything he holds dear?</desc>
@@ -20603,7 +20598,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/43fd2db4f49312b1450d1539a8374d6d.jpg" />
     <premiere />
   </programme>
-  
 <programme channel="9X Jalwa" start="20260121010000 +0530" stop="20260121013000 +0530">
     <title lang="hi-IN">रात भर</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -20635,6 +20629,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/43fd2db4f49312b1450d1539a8374d6d.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9X Jalwa" start="20260121030000 +0530" stop="20260121033000 +0530">
     <title lang="hi-IN">रात भर</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -21650,6 +21645,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a0b079d7bbea9b5a30ff2a38ad5920b9.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9X Jalwa" start="20260123200000 +0530" stop="20260123203000 +0530">
     <title lang="hi-IN">जलवा मेलोडी वाली वाइब</title>
     <desc lang="hi-IN">A comprehensive compilaion of melodious and soulful movie songs, composed by talented muscians is played to enthral the audience.</desc>
@@ -21873,7 +21869,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ee03c67a1485abe803d2accfe9eea467.jpg" />
     <premiere />
   </programme>
-  
 <programme channel="9X Jalwa" start="20260124103000 +0530" stop="20260124110000 +0530">
     <title lang="hi-IN">सुपर सुबह (ब्रेकलेस)</title>
     <desc lang="hi-IN">A comprehensive compilation of energetic and peppy songs every morning to get one in a good mood every day along with a dose of some fun and laughter.</desc>
@@ -21905,6 +21900,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d2d0fa8027882dbb964f6164d82061cf.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9X Jalwa" start="20260124123000 +0530" stop="20260124130000 +0530">
     <title lang="hi-IN">सुपर स्वैग</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the latest and popular songs composed by various artists and bands is played back to back.</desc>
@@ -22482,7 +22478,6 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p195303_b_h9_bf.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="NICK HD+" start="20260121130000 +0530" stop="20260121133000 +0530">
     <title lang="en">The Casagrandes</title>
     <desc lang="en">An 11-year-old adjusts to her new life living under one roof with her multigenerational Mexican-American family and over a market which serves as a gathering place for everyone in the neighbourhood.</desc>
@@ -22886,6 +22881,7 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p195303_b_h9_bf.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="NICK HD+" start="20260122050000 +0530" stop="20260122060000 +0530">
     <title lang="en">The Penguins of Madagascar</title>
     <desc lang="en">A rookery of penguins with attitude in Central Park Zoo embark on what they see as a series of strike-force missions until confronting an unwelcome challenge to its dominance.</desc>
@@ -23235,6 +23231,7 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p13000950_b_h9_ah.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="NICK JR" start="20260122060000 +0530" stop="20260122070000 +0530">
     <title lang="en">Rusty Rivets</title>
     <desc lang="en">Rusty Rivets uses engineering, imagination and resourcefulness to repurpose spare parts and other objects he finds to come up with wild and cool contraptions, and save the day.</desc>
@@ -23889,7 +23886,6 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="POGO" start="20260122090000 +0530" stop="20260122093000 +0530">
     <title lang="en">Chhota Bheem</title>
     <desc lang="en">Bheem is an extremely brave, strong and intelligent young boy. He often manages to solve everyone's problems which endears him to the townspeople of Dholakpur.</desc>
@@ -24340,6 +24336,7 @@
     <category lang="en">Thriller</category>
     <icon src="https://dtil.tmsimg.com/assets/p8991665_v_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="SAB HD" start="20260121100000 +0530" stop="20260121103000 +0530">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The residents of a housing society help each other find solutions when they face common real-life challenges and get involved in sticky situations.</desc>
@@ -24886,7 +24883,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p8862533_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E2128</episode-num>
   </programme>
-  
 <programme channel="SAB HD" start="20260121193000 +0530" stop="20260121200000 +0530">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">Upon discovering Tanvi's father's refusal to let her attend school, Daya and her friends rally to persuade Sunita to allow Tanvi to pursue her education.</desc>
@@ -27661,7 +27657,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p12774701_b_h9_ae.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  
 <programme channel="SONY BBC EARTH" start="20260122090600 +0530" stop="20260122095200 +0530">
     <title lang="en">The Green Planet</title>
     <desc lang="en">As more plants face the threat of extinction, environmentally conscious people come up with new and innovative ways to prevent this fate.</desc>
@@ -27999,7 +27994,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p19360364_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  
 <programme channel="SONY BBC EARTH HD" start="20260122015100 +0530" stop="20260122021500 +0530">
     <title lang="en">Deadly 60</title>
     <desc lang="en">Steve and the team are in the frozen north of Norway as he highlights how animals face serious challenges while trying to survive in sub-zero temperatures.</desc>
@@ -28038,6 +28032,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p16637272_b_h9_ag.jpg?lock=880x660" />
     <episode-num system="onscreen">S5 E10</episode-num>
   </programme>
+  
 <programme channel="SONY BBC EARTH HD" start="20260122032500 +0530" stop="20260122042300 +0530">
     <title lang="en">South America with Simon Reeve</title>
     <desc lang="en">Simon starts his journey at the world-famous ruins of Machu Picchu, one of the glories of the ancient Inca civilization situated in Peru.</desc>
@@ -30255,6 +30250,7 @@
     <category lang="en">Action</category>
     <icon src="https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="SONY PIX HD" start="20260121152300 +0530" stop="20260121165600 +0530">
     <title lang="en">Hotel Transylvania</title>
     <desc lang="en">Count Dracula runs a high-end resort for monsters and is overprotective of his daughter, Mavis. When Johnny, a human, enters the hotel, Count Dracula tries to prevent Mavis from falling for him.</desc>
@@ -32492,6 +32488,7 @@
     <category lang="en">Sport</category>
     <icon src="https://dtil.tmsimg.com/assets/p30279686_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="SONY SPORTS TEN 1" start="20260122044500 +0530" stop="20260122051000 +0530">
     <title lang="en">2026 Mumbai Marathon; Marathon Highlights</title>
     <desc lang="en">The host presents the highlights of a marathon, a people-driven initiative for a noble cause. Numerous participants join the run, showcasing community spirit and charitable efforts.</desc>
@@ -32755,6 +32752,7 @@
     <category lang="en">Football</category>
     <icon src="https://dtil.tmsimg.com/assets/p969763_b_h9_ar.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="SONY SPORTS TEN 2" start="20260121203000 +0530" stop="20260121210000 +0530">
     <title lang="en">Internazionale - Arsenal; UEFA Champions League Highlights</title>
     <desc lang="en">Highlights and analysis of memorable moments and key plays executed by Europe's top football clubs at the UEFA Champions League.</desc>
@@ -34600,6 +34598,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p16041045_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E492</episode-num>
   </programme>
+  
 <programme channel="STAR BHARAT" start="20260122083000 +0530" stop="20260122090000 +0530">
     <title lang="en">RadhaKrishn</title>
     <desc lang="en">While Dhannantari's Amrita fails to wake Mahadev, Lakshmana mixes poison into Radha's dish. Banasur performs Anirudha and Usha's Tilak ceremony.</desc>
@@ -36807,7 +36806,6 @@
     <category lang="en">Action</category>
     <icon src="https://dtil.tmsimg.com/assets/p164907_v_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR MOVIES HD" start="20260121210000 +0530" stop="20260121224500 +0530">
     <title lang="en">Predators</title>
     <desc lang="en">When a mixed bag of mercenaries and militias find themselves being hunted on an alien planet that acts as a game preserve, they must join forces to combat a merciless race of aliens.</desc>
@@ -37182,7 +37180,6 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p8033989_v_h9_ad.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR MOVIES SELECT" start="20260121224200 +0530" stop="20260122004400 +0530">
     <title lang="en">Captain America: The First Avenger</title>
     <desc lang="en">During World War II, Steve Rogers undergoes an experiment to become Captain America and battles the evil Red Skull, who leads the Nazi-backed HYDRA organisation in a bid for global domination.</desc>
@@ -38249,7 +38246,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p18094069_b_h9_ae.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E1903</episode-num>
   </programme>
-  
 <programme channel="STAR PLUS HD" start="20260121113000 +0530" stop="20260121120000 +0530">
     <title lang="en">Kahaani Ghar Ghar Ki</title>
     <desc lang="en">After getting married into a joint family, Parvati along with her husband, Om Aggarwal, navigates through several challenges of life.</desc>
@@ -39280,7 +39276,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p21766402_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E1259</episode-num>
   </programme>
-  
 <programme channel="STAR PRAVAAH HD" start="20260122040000 +0530" stop="20260122043000 +0530">
     <title lang="en">Shubh Vivah</title>
     <desc lang="en">Bhumi, a young girl, is forced to marry a man with a mental disability by her step-sister Poornima. These decisions unfold new chapters in her life.</desc>
@@ -40890,6 +40885,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="STAR SPORTS 1 HD" start="20260121130000 +0530" stop="20260121133000 +0530">
     <title lang="en">3rd T20- India vs. South Africa; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
@@ -41125,7 +41121,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR SPORTS 1 HD" start="20260122020000 +0530" stop="20260122023000 +0530">
     <title lang="en">3rd T20- India vs. South Africa; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
@@ -41157,6 +41152,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="STAR SPORTS 1 HD" start="20260122033000 +0530" stop="20260122034500 +0530">
     <title lang="en">Tata Ipl 2023: CSK vs RR - 17th Match; Cricket Highlights</title>
     <desc lang="en">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
@@ -41959,6 +41955,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p32210430_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">E1</episode-num>
   </programme>
+  
 <programme channel="STAR SPORTS 1 HINDI" start="20260121161500 +0530" stop="20260121163000 +0530">
     <title lang="en">Captain Rohit's Roadmap</title>
     <desc lang="en">This is TV Show - Entertainment Category.</desc>
@@ -42184,7 +42181,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR SPORTS 1 HINDI" start="20260122050000 +0530" stop="20260122053000 +0530">
     <title lang="en">Gujarat Giants v Royal Challengers Bengaluru; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
@@ -42216,6 +42212,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="STAR SPORTS 1 HINDI" start="20260122063000 +0530" stop="20260122070000 +0530">
     <title lang="en">Gujarat Giants v Royal Challengers Bengaluru; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
@@ -42487,6 +42484,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="STAR SPORTS 2" start="20260121200000 +0530" stop="20260121201500 +0530">
     <title lang="en">Mumbai Indians v UP Warriorz; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
@@ -42750,6 +42748,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="STAR SPORTS 2" start="20260122100000 +0530" stop="20260122101500 +0530">
     <title lang="en">Follow The Blues</title>
     <desc lang="en">The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
@@ -43248,7 +43247,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR SPORTS 2 HINDI" start="20260121103000 +0530" stop="20260121110000 +0530">
     <title lang="en">ICC WT20 Highlights</title>
     <desc lang="en">Highlights from the matches held during the ICC World T20 championship wherein international cricket teams compete against each other for the title..</desc>
@@ -43524,7 +43522,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR SPORTS 2 HINDI" start="20260121201500 +0530" stop="20260121203000 +0530">
     <title lang="en">Joburg Super Kings v Paarl Royals; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
@@ -44321,7 +44318,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR SPORTS 2 HINDI HD" start="20260122093000 +0530" stop="20260122094500 +0530">
     <title lang="en">UP Warriorz v Mumbai Indians; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
@@ -44354,6 +44350,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="STAR SPORTS 3" start="20260121101500 +0530" stop="20260121103000 +0530">
     <title lang="en">3rd ODI: Australia v India; One-Day International Cricket</title>
     <desc lang="en">An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
@@ -44951,7 +44948,6 @@
     <category lang="en">Magazine Programme</category>
     <icon src="https://dtil.tmsimg.com/assets/p29032772_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR SPORTS SELECT 1 HD" start="20260121170000 +0530" stop="20260121173000 +0530">
     <title lang="en">Manchester United v Sunderland; Premier League: Match Highlights</title>
     <desc lang="en">Premier League match highlights show top goals, best plays and key moments, while these exciting clips sum up games and keep fans updated on the league.</desc>
@@ -45731,7 +45727,6 @@
     <category lang="en">Sport</category>
     <icon src="https://dtil.tmsimg.com/assets/p32145411_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="STAR SPORTS SELECT 2 HD" start="20260122080000 +0530" stop="20260122081500 +0530">
     <title lang="en">The Knockout: Hobart Hurricanes vs Melbourne Stars; Big Bash League Highlights</title>
     <desc lang="en">Professional cricket players compete against each other to emerge victorious and win the trophy of the 2025 Big Bash League.</desc>
@@ -48382,6 +48377,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24103923_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E17</episode-num>
   </programme>
+  
 <programme channel="Sony yay" start="20260122012900 +0530" stop="20260122014000 +0530">
     <title lang="en">Honey Bunny Ka Jholmaal</title>
     <desc lang="en">Honey and Bunny, two cats who are twin brothers, go on exciting adventures while protecting each other from enemies at every turn.</desc>
@@ -49031,7 +49027,6 @@
     <category lang="en">Comedy</category>
     <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
-  
 <programme channel="Star Gold Select HD" start="20260122024900 +0530" stop="20260122054400 +0530">
     <title lang="en">Aiyaary</title>
     <desc lang="en">Major Jai Bakshi relinquishes his position to take up arms against the higher-ups after catching wind of a large-scale corruption scheme brewing within the military.</desc>
@@ -50850,7 +50845,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p29056055_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S35 E8</episode-num>
   </programme>
-  
 <programme channel="TLC HD" start="20260122040000 +0530" stop="20260122060000 +0530">
     <title lang="en">90 Day Fiancé: The Other Way</title>
     <desc lang="en">Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?</desc>
@@ -52166,7 +52160,6 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p29087607_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="TV9 MARATHI" start="20260122073000 +0530" stop="20260122080000 +0530">
     <title lang="en">Superfast 50</title>
     <desc lang="en">The host presents the top 50 news and developments pertaining to various social, political and economic issues in quick succession.</desc>
@@ -52198,6 +52191,7 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p28832556_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="TV9 MARATHI" start="20260122093000 +0530" stop="20260122100000 +0530">
     <title lang="en">TV9 Bulletin</title>
     <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economy, politics, sports and entertainment.</desc>
@@ -55237,6 +55231,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p26206096_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
+  
 <programme channel="and PRIVE HD" start="20260122033000 +0530" stop="20260122042000 +0530">
     <title lang="en">Chef vs Fridge</title>
     <desc lang="en">Thinking outside the box is not going to cut it. These chefs must think inside the mystery refrigerator to prove their culinary skills and creativity.</desc>
@@ -56221,7 +56216,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p32049984_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E2770</episode-num>
   </programme>
-  
 <programme channel="and TV HD" start="20260121163000 +0530" stop="20260121170000 +0530">
     <title lang="en">Gharwali Pedwali</title>
     <desc lang="en">Jeetu Pandey finds himself caught living a life of duality. He juggles his time with two mothers, two contrasting belief systems, and two spouses while hiding one from another.</desc>
@@ -56951,6 +56945,7 @@
     <category lang="en">Action</category>
     <icon src="https://dtil.tmsimg.com/assets/p14172495_v_h9_ac.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="and flix" start="20260121190000 +0530" stop="20260121204000 +0530">
     <title lang="en">Jackdaw</title>
     <desc lang="en">A former athlete and veteran cares for his younger brother amid financial woes. He takes a perilous job, leading to a dangerous adventure through a barren landscape.</desc>
@@ -57232,6 +57227,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p7859053_b_h9_ac.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="9X JHAKAAS" start="20260121143000 +0530" stop="20260121150000 +0530">
     <title lang="en">SOLID HITS</title>
     <desc lang="en">A compilation of some of the greatest hits songs in popular Bollywood movies featuring renowned singers, musicians and artists.</desc>
@@ -58364,7 +58360,6 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p25647328_b_h9_af.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="AAJ TAK" start="20260121170000 +0530" stop="20260121173000 +0530">
     <title lang="en">Dangal</title>
     <desc lang="en">The host interacts with a panel of experts with contradicting opinions who talk about current social and political issues in the country.</desc>
@@ -58742,7 +58737,6 @@
     <category lang="en">Factual Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p28416865_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="ANIMAL PLANET" start="20260121125500 +0530" stop="20260121134600 +0530">
     <title lang="en">Deadliest Snakes of South Africa</title>
     <desc lang="en">Kurdt Greenwood is on a quest to seek out South Africa's twelve most deadly snakes, as well as to educate and inspire people to see the value of these often misunderstood creatures.</desc>
@@ -59089,6 +59083,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p19071761_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
+  
 <programme channel="ANIMAL PLANET HD WORLD" start="20260121115800 +0530" stop="20260121125500 +0530">
     <title lang="en">Africas Secret Creatures</title>
     <desc lang="en">This is Documentary - Factual Entertainment Category.</desc>
@@ -62046,7 +62041,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p26746185_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E656</episode-num>
   </programme>
-  
 <programme channel="COLORS HD" start="20260121210000 +0530" stop="20260121213000 +0530">
     <title lang="en">Mangal Lakshmi - Lakshmi Ka Safar</title>
     <desc lang="en">The emotional ups and downs and struggles in Lakshmi's life that transform her from a weak woman to a fearless warrior who tackles her problems head on.</desc>
@@ -62403,7 +62397,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p27958297_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S16 E14</episode-num>
   </programme>
-  
 <programme channel="COLORS INFINITY" start="20260121130000 +0530" stop="20260121140000 +0530">
     <title lang="en">Game of Thrones</title>
     <desc lang="en">Lord Baelish arrives at Renly's camp and Daenerys and her company are welcomed into the city of Qarth. Elsewhere, Arya, Gendry, and Hot Pie are imprisoned at Harrenhal.</desc>
@@ -65305,6 +65298,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p28425936_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="DHOOM MUSIC" start="20260121103000 +0530" stop="20260121110000 +0530">
     <title lang="en">JukeBOX</title>
     <desc lang="en">This is Music - Music Category.</desc>
@@ -65596,7 +65590,6 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p28425936_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="DHOOM MUSIC" start="20260122100000 +0530" stop="20260122103000 +0530">
     <title lang="en">Muzik</title>
     <desc lang="en">A comprehensive compilation of various popular songs written and composed by renowned artists and musicians is played back to back.</desc>
@@ -69578,7 +69571,6 @@
     <category lang="en">Wrestling</category>
     <icon src="https://dtil.tmsimg.com/assets/p28173017_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="EUROSPORTS HD" start="20260121160000 +0530" stop="20260121171500 +0530">
     <title lang="en">Women's Singles: PV Sindhu vs. Nguyen Thuy Linh; BWF World Tour Badminton</title>
     <desc lang="en">This is Sport - Sport Category.</desc>
@@ -69859,7 +69851,6 @@
     <category lang="en">Events/Festivals</category>
     <icon src="https://dtil.tmsimg.com/assets/p3565439_b_h9_au.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="HISTORY CHANNEL" start="20260121102400 +0530" stop="20260121104800 +0530">
     <title lang="en">Storage Wars</title>
     <desc lang="en">Kenny spots a familiar truck and trails it to Lancaster while Rene looks for new opportunities after experiencing failure in Vegas.</desc>
@@ -71621,7 +71612,6 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p28547202_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="INDIA TV" start="20260121145800 +0530" stop="20260121152800 +0530">
     <title lang="en">Rajdharma</title>
     <desc lang="en">The host examines political decisions, ethics in public office as well as their impact on society, offering insightful analysis.</desc>
@@ -71653,6 +71643,7 @@
     <category lang="en">Special Report</category>
     <icon src="https://dtil.tmsimg.com/assets/p12883154_b_h9_af.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="INDIA TV" start="20260121175800 +0530" stop="20260121185800 +0530">
     <title lang="en">Coffee Par Kurukshetra</title>
     <desc lang="en">The host provides insightful discussions on current affairs, centered around critical national and global issues, exploring key developments shaping India today.</desc>
@@ -73698,6 +73689,7 @@
     <category lang="en">Action</category>
     <icon src="https://dtil.tmsimg.com/assets/p9957538_v_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="MOVIES NOW" start="20260121230000 +0530" stop="20260122002500 +0530">
     <title lang="en">Rush Hour 3</title>
     <desc lang="en">Inspector Lee and Detective Carter arrive in Paris following an assassination attempt on Ambassador Han. There, they encounter a woman who may hold the key to uncovering the Triad's secret leaders.</desc>
@@ -76003,6 +75995,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/8a71b063-9064-498a-8209-9dcac1f8d611/16-9" />
     <episode-num system="xmltv_ns">.40.</episode-num>
   </programme>
+  
 <programme channel="SkySp Cricket uk" start="20260120114500 +0000" stop="20260120120000 +0000">
     <title lang="en">ICC Men's T20 WC: ENG v SA 2016</title>
     <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's 2016 clash with South Africa.</desc>
@@ -76013,7 +76006,6 @@
       <value>U</value>
     </rating>
   </programme>
-  
 <programme channel="SkySp Cricket uk" start="20260120120000 +0000" stop="20260120125500 +0000">
     <title lang="en">BBL: Brisbane H v Sydney S</title>
     <desc lang="en">In the last BBL regular-season match, Brisbane Heat and Sydney Sixers go head to head in a winner-takes-all race for the final spot in the top four at the Gabba. (18.</desc>
@@ -76539,6 +76531,7 @@
     <icon src="https://images.metadata.sky.com/pd-image/23b0f639-69f2-4cfe-8acc-1c5710c901e8/16-9" />
     <episode-num system="onscreen">01</episode-num>
   </programme>
+  
 <programme channel="SkySp Cricket uk" start="20260123000000 +0000" stop="20260123010000 +0000">
     <title lang="en">WPL Gujarat G v UP Warriorz Hlts</title>
     <desc lang="en">Gujarat Giants take on UP Warriorz in the WPL. After opening the campaign with consecutive wins, Ashleigh Gardner's Giants have since slipped to three defeats on the spin. (22.</desc>
@@ -76547,7 +76540,6 @@
     <icon src="https://images.metadata.sky.com/pd-image/4c64c05b-e1b5-4c27-9064-595fd5f48be2/16-9" />
     <episode-num system="onscreen">01</episode-num>
   </programme>
-  
 <programme channel="SkySp Cricket uk" start="20260123010000 +0000" stop="20260123020000 +0000">
     <title lang="en">SA20  Eliminator</title>
     <desc lang="en">A win-or-go-home SA20 Eliminator gets underway in Centurion as Joburg Super Kings and Paarl Royals go toe to toe for a place in the second Qualifier and a shot at making the final. (22.</desc>
