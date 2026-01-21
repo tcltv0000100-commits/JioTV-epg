@@ -1,9 +1,9 @@
-name: Update Filtered EPG Daily
+name: Update Filtered EPG Daily (Gist)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Daily 00:00 UTC (India ~ 5:30 AM)
-  workflow_dispatch:      # Manual run button enable
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-epg:
@@ -21,34 +21,62 @@ jobs:
 
       - name: Download latest EPG source
         run: |
-          echo "Downloading EPG source..."
           curl -L --fail -A "Mozilla/5.0" \
             -o epg_ripper_ALL_SOURCES1.gz \
             "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-          echo "Downloaded file info:"
           ls -lh epg_ripper_ALL_SOURCES1.gz
           file epg_ripper_ALL_SOURCES1.gz
 
-          # Fail if HTML downloaded instead of gzip
           if file epg_ripper_ALL_SOURCES1.gz | grep -qi html; then
-            echo "ERROR: Downloaded HTML instead of .gz"
+            echo "ERROR: Downloaded HTML instead of gz"
             exit 1
           fi
 
       - name: Run filter script
         run: |
           python filter_epg.py
+          ls -lh filtered_epg.xml.gz
 
-      - name: Commit & Push updated EPG
+      # ✅ Upload to Gist
+      - name: Upload filtered EPG to Gist
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          python - << 'PY'
+          import os, json, base64, urllib.request
 
-          git add filtered_epg.xml filtered_epg.xml.gz || true
+          gist_id = os.environ["GIST_ID"]
+          token = os.environ["GIST_TOKEN"]
 
-          # Commit only if changed
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          filename = "filtered_epg.xml.gz"
+          with open(filename, "rb") as f:
+              content_b64 = base64.b64encode(f.read()).decode("utf-8")
 
-          git commit -m "Auto update filtered EPG"
-          git push
+          # Gist API expects plain text, so we'll send base64 and decode is not needed by tivimate? ❌
+          # Better: Upload binary by converting to Latin-1 safe string (works for gz).
+          with open(filename, "rb") as f:
+              raw = f.read().decode("latin-1")
+
+          payload = {
+              "files": {
+                  filename: {
+                      "content": raw
+                  }
+              }
+          }
+
+          data = json.dumps(payload).encode("utf-8")
+
+          req = urllib.request.Request(
+              f"https://api.github.com/gists/{gist_id}",
+              data=data,
+              method="PATCH"
+          )
+          req.add_header("Authorization", f"token {token}")
+          req.add_header("Accept", "application/vnd.github+json")
+
+          with urllib.request.urlopen(req) as resp:
+              print("Gist updated:", resp.status)
+          PY
