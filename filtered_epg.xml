@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg_generator" date="20260122095243 +0000">
+<tv generator-info-name="filtered_epg_generator" date="20260122095529 +0000">
 <channel id="Star Life">
     <display-name lang="sq">Star Life</display-name>
     <icon src="https://vimg.ipko.tv/logo/color/starlife.png" />
@@ -7,7 +7,7 @@
     <url>http://www.ipko.com</url>
   </channel>
   
-<channel id="FoxCricket au">
+<channel id="FoxCricket">
     <display-name lang="en">Fox Cricket</display-name>
     <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_425x243.png" />
     <url>http://www.foxtel.com</url>
@@ -1601,7 +1601,7 @@
     <icon src="https://vimg.ipko.tv/mtcms/3c/9/5/3c955bfd-61b3-4c90-acc1-6d921a69edce.jpg" />
   </programme>
   
-<programme start="20260121000000 +0000" stop="20260121010000 +0000" channel="FoxCricket au">
+<programme start="20260121000000 +0000" stop="20260121010000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -1615,7 +1615,7 @@
     </rating>
   </programme>
   
-<programme start="20260121010000 +0000" stop="20260121042000 +0000" channel="FoxCricket au">
+<programme start="20260121010000 +0000" stop="20260121042000 +0000" channel="FoxCricket">
     <title lang="en">Live: NZ Super Smash</title>
     <sub-title lang="en">Canterbury Magicians v Otago Sparks W</sub-title>
     <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
@@ -1629,7 +1629,7 @@
     </rating>
   </programme>
   
-<programme start="20260121042000 +0000" stop="20260121044000 +0000" channel="FoxCricket au">
+<programme start="20260121042000 +0000" stop="20260121044000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -1642,7 +1642,7 @@
     </rating>
   </programme>
   
-<programme start="20260121044000 +0000" stop="20260121050000 +0000" channel="FoxCricket au">
+<programme start="20260121044000 +0000" stop="20260121050000 +0000" channel="FoxCricket">
     <title lang="en">Best of Hurricanes: BBL12 HUR v REN</title>
     <sub-title lang="en">Best of Hurricanes: BBL12 HUR v REN</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -1656,7 +1656,7 @@
     </rating>
   </programme>
   
-<programme start="20260121050000 +0000" stop="20260121060000 +0000" channel="FoxCricket au">
+<programme start="20260121050000 +0000" stop="20260121060000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -1670,7 +1670,7 @@
     </rating>
   </programme>
   
-<programme start="20260121060000 +0000" stop="20260121062000 +0000" channel="FoxCricket au">
+<programme start="20260121060000 +0000" stop="20260121062000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: DC v MI</title>
     <sub-title lang="en">DC v MI</sub-title>
     <desc lang="en">Leg-spinner Alana King looks to make a statement on the Mumbai Indians hitters in her first major stint for the Delhi Capitals.</desc>
@@ -1683,7 +1683,7 @@
     </rating>
   </programme>
   
-<programme start="20260121062000 +0000" stop="20260121064000 +0000" channel="FoxCricket au">
+<programme start="20260121062000 +0000" stop="20260121064000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -1696,7 +1696,7 @@
     </rating>
   </programme>
   
-<programme start="20260121064000 +0000" stop="20260121070000 +0000" channel="FoxCricket au">
+<programme start="20260121064000 +0000" stop="20260121070000 +0000" channel="FoxCricket">
     <title lang="en">Best of Stars: BBL11 STA v HUR</title>
     <sub-title lang="en">Best of Stars: BBL11 STA v HUR</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -1710,7 +1710,7 @@
     </rating>
   </programme>
   
-<programme start="20260121070000 +0000" stop="20260121080000 +0000" channel="FoxCricket au">
+<programme start="20260121070000 +0000" stop="20260121080000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -1724,7 +1724,7 @@
     </rating>
   </programme>
   
-<programme start="20260121080000 +0000" stop="20260121083000 +0000" channel="FoxCricket au">
+<programme start="20260121080000 +0000" stop="20260121083000 +0000" channel="FoxCricket">
     <title lang="en">Live: B4 The Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">The complete pre-match build-up-toss, pitch, interviews, and analysis-will be covered b4 the bash.</desc>
@@ -1738,7 +1738,7 @@
     </rating>
   </programme>
   
-<programme start="20260121083000 +0000" stop="20260121100000 +0000" channel="FoxCricket au">
+<programme start="20260121083000 +0000" stop="20260121100000 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash: The Knockout IN1</title>
     <sub-title lang="en">The Knockout IN1</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -1752,7 +1752,7 @@
     </rating>
   </programme>
   
-<programme start="20260121100000 +0000" stop="20260121101500 +0000" channel="FoxCricket au">
+<programme start="20260121100000 +0000" stop="20260121101500 +0000" channel="FoxCricket">
     <title lang="en">Live: The Big Break</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">The game may be taking a break but don't go away. The Big Break brings you exclusive interviews, team strategies, highlights and much more.</desc>
@@ -1765,7 +1765,7 @@
     </rating>
   </programme>
   
-<programme start="20260121101500 +0000" stop="20260121114500 +0000" channel="FoxCricket au">
+<programme start="20260121101500 +0000" stop="20260121114500 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash: The Knockout IN2</title>
     <sub-title lang="en">The Knockout IN2</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -1779,7 +1779,7 @@
     </rating>
   </programme>
   
-<programme start="20260121114500 +0000" stop="20260121120000 +0000" channel="FoxCricket au">
+<programme start="20260121114500 +0000" stop="20260121120000 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash Post Game</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Even after the final ball is bowled the fun doesn't stop! Join the Fox Cricket team for an in-depth wrap up of all the Big Bash action, plus latest news and stories on everything cricket.</desc>
@@ -1792,7 +1792,7 @@
     </rating>
   </programme>
   
-<programme start="20260121120000 +0000" stop="20260121122000 +0000" channel="FoxCricket au">
+<programme start="20260121120000 +0000" stop="20260121122000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -1805,7 +1805,7 @@
     </rating>
   </programme>
   
-<programme start="20260121122000 +0000" stop="20260121124000 +0000" channel="FoxCricket au">
+<programme start="20260121122000 +0000" stop="20260121124000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: DC v MI</title>
     <sub-title lang="en">DC v MI</sub-title>
     <desc lang="en">Leg-spinner Alana King looks to make a statement on the Mumbai Indians hitters in her first major stint for the Delhi Capitals.</desc>
@@ -1818,7 +1818,7 @@
     </rating>
   </programme>
   
-<programme start="20260121124000 +0000" stop="20260121130000 +0000" channel="FoxCricket au">
+<programme start="20260121124000 +0000" stop="20260121130000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -1831,7 +1831,7 @@
     </rating>
   </programme>
   
-<programme start="20260121130000 +0000" stop="20260121132000 +0000" channel="FoxCricket au">
+<programme start="20260121130000 +0000" stop="20260121132000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: DC v MI</title>
     <sub-title lang="en">DC v MI</sub-title>
     <desc lang="en">Leg-spinner Alana King looks to make a statement on the Mumbai Indians hitters in her first major stint for the Delhi Capitals.</desc>
@@ -1844,7 +1844,7 @@
     </rating>
   </programme>
   
-<programme start="20260121132000 +0000" stop="20260121173000 +0000" channel="FoxCricket au">
+<programme start="20260121132000 +0000" stop="20260121173000 +0000" channel="FoxCricket">
     <title lang="en">Live: T20: IND v NZL Game 1</title>
     <sub-title lang="en">IND v NZL Game 1</sub-title>
     <desc lang="en">With the T20 World Cup looming, preparations and auditions get underway for players on both sides looking to cement their spots.</desc>
@@ -1857,7 +1857,7 @@
     </rating>
   </programme>
   
-<programme start="20260121173000 +0000" stop="20260121175000 +0000" channel="FoxCricket au">
+<programme start="20260121173000 +0000" stop="20260121175000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: REN v HEA</title>
     <sub-title lang="en">REN v HEA</sub-title>
     <desc lang="en">Two sides hoping to improve on last season's poor performance clash at GMHBA Stadium.</desc>
@@ -1870,7 +1870,7 @@
     </rating>
   </programme>
   
-<programme start="20260121175000 +0000" stop="20260121181000 +0000" channel="FoxCricket au">
+<programme start="20260121175000 +0000" stop="20260121181000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: SIX v HEA</title>
     <sub-title lang="en">SIX v HEA</sub-title>
     <desc lang="en">The Sixers return to Coffs Harbour for their annual game against the Brisbane Heat.</desc>
@@ -1883,7 +1883,7 @@
     </rating>
   </programme>
   
-<programme start="20260121181000 +0000" stop="20260121183000 +0000" channel="FoxCricket au">
+<programme start="20260121181000 +0000" stop="20260121183000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: REN v STA</title>
     <sub-title lang="en">REN v STA</sub-title>
     <desc lang="en">After Melbourne was turned red in their last encounter, the stars are looking for revenge at Marvel Stadium.</desc>
@@ -1896,7 +1896,7 @@
     </rating>
   </programme>
   
-<programme start="20260121183000 +0000" stop="20260121185000 +0000" channel="FoxCricket au">
+<programme start="20260121183000 +0000" stop="20260121185000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: STR v SCO</title>
     <sub-title lang="en">STR v SCO</sub-title>
     <desc lang="en">The Strikers are out for redemption against The Scorchers at Adelaide Oval with the return of Alex Carey.</desc>
@@ -1909,7 +1909,7 @@
     </rating>
   </programme>
   
-<programme start="20260121185000 +0000" stop="20260121191000 +0000" channel="FoxCricket au">
+<programme start="20260121185000 +0000" stop="20260121191000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: STR v THU</title>
     <sub-title lang="en">STR v THU</sub-title>
     <desc lang="en">Chris Lynn's Strikers look to defend home turf against a dangerous Thunder attack at the Adelaide Oval.</desc>
@@ -1922,7 +1922,7 @@
     </rating>
   </programme>
   
-<programme start="20260121191000 +0000" stop="20260121193000 +0000" channel="FoxCricket au">
+<programme start="20260121191000 +0000" stop="20260121193000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: THU v HUR</title>
     <sub-title lang="en">THU v HUR</sub-title>
     <desc lang="en">A must-win for the Thunder as they try to upset the second-place Hurricanes.</desc>
@@ -1935,7 +1935,7 @@
     </rating>
   </programme>
   
-<programme start="20260121193000 +0000" stop="20260121195000 +0000" channel="FoxCricket au">
+<programme start="20260121193000 +0000" stop="20260121195000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: SCO v REN</title>
     <sub-title lang="en">SCO v REN</sub-title>
     <desc lang="en">Fresh off an upset win over their cross-town rivals, the Renegades are looking to topple the Scorchers at the Furnace.</desc>
@@ -1948,7 +1948,7 @@
     </rating>
   </programme>
   
-<programme start="20260121195000 +0000" stop="20260121201000 +0000" channel="FoxCricket au">
+<programme start="20260121195000 +0000" stop="20260121201000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: HEA v SCO</title>
     <sub-title lang="en">HEA v SCO</sub-title>
     <desc lang="en">The Heat are looking for their first win as they go up against the Scorchers hoping to make it two from two.</desc>
@@ -1961,7 +1961,7 @@
     </rating>
   </programme>
   
-<programme start="20260121201000 +0000" stop="20260121203000 +0000" channel="FoxCricket au">
+<programme start="20260121201000 +0000" stop="20260121203000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: REN v SCO</title>
     <sub-title lang="en">REN v SCO</sub-title>
     <desc lang="en">Scorchers' Mitch Marsh and Josh Inglis try to reclaim the top spot, while the Renegades have one last chance to make finals contention.</desc>
@@ -1974,7 +1974,7 @@
     </rating>
   </programme>
   
-<programme start="20260121203000 +0000" stop="20260121205000 +0000" channel="FoxCricket au">
+<programme start="20260121203000 +0000" stop="20260121205000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -1987,7 +1987,7 @@
     </rating>
   </programme>
   
-<programme start="20260121205000 +0000" stop="20260121211000 +0000" channel="FoxCricket au">
+<programme start="20260121205000 +0000" stop="20260121211000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2000,7 +2000,7 @@
     </rating>
   </programme>
   
-<programme start="20260121211000 +0000" stop="20260121213000 +0000" channel="FoxCricket au">
+<programme start="20260121211000 +0000" stop="20260121213000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2013,7 +2013,7 @@
     </rating>
   </programme>
   
-<programme start="20260121213000 +0000" stop="20260121223000 +0000" channel="FoxCricket au">
+<programme start="20260121213000 +0000" stop="20260121223000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2027,7 +2027,7 @@
     </rating>
   </programme>
   
-<programme start="20260121223000 +0000" stop="20260121233000 +0000" channel="FoxCricket au">
+<programme start="20260121223000 +0000" stop="20260121233000 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 1</title>
     <sub-title lang="en">IND v NZL Game 1</sub-title>
     <desc lang="en">With the T20 World Cup looming, preparations and auditions get underway for players on both sides looking to cement their spots.</desc>
@@ -2040,7 +2040,7 @@
     </rating>
   </programme>
   
-<programme start="20260121233000 +0000" stop="20260122025500 +0000" channel="FoxCricket au">
+<programme start="20260121233000 +0000" stop="20260122025500 +0000" channel="FoxCricket">
     <title lang="en">Live: NZ Super Smash</title>
     <sub-title lang="en">Auckland Hearts v Northern Brave W</sub-title>
     <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
@@ -2054,7 +2054,7 @@
     </rating>
   </programme>
   
-<programme start="20260122025500 +0000" stop="20260122031500 +0000" channel="FoxCricket au">
+<programme start="20260122025500 +0000" stop="20260122031500 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2067,7 +2067,7 @@
     </rating>
   </programme>
   
-<programme start="20260122031500 +0000" stop="20260122070000 +0000" channel="FoxCricket au">
+<programme start="20260122031500 +0000" stop="20260122070000 +0000" channel="FoxCricket">
     <title lang="en">Live: NZ Super Smash</title>
     <sub-title lang="en">Auckland Aces v Northern Brave</sub-title>
     <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
@@ -2081,7 +2081,7 @@
     </rating>
   </programme>
   
-<programme start="20260122070000 +0000" stop="20260122080000 +0000" channel="FoxCricket au">
+<programme start="20260122070000 +0000" stop="20260122080000 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 1</title>
     <sub-title lang="en">IND v NZL Game 1</sub-title>
     <desc lang="en">With the T20 World Cup looming, preparations and auditions get underway for players on both sides looking to cement their spots.</desc>
@@ -2094,7 +2094,7 @@
     </rating>
   </programme>
   
-<programme start="20260122080000 +0000" stop="20260122090000 +0000" channel="FoxCricket au">
+<programme start="20260122080000 +0000" stop="20260122090000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2108,7 +2108,7 @@
     </rating>
   </programme>
   
-<programme start="20260122090000 +0000" stop="20260122092000 +0000" channel="FoxCricket au">
+<programme start="20260122090000 +0000" stop="20260122092000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2121,7 +2121,7 @@
     </rating>
   </programme>
   
-<programme start="20260122092000 +0000" stop="20260122094000 +0000" channel="FoxCricket au">
+<programme start="20260122092000 +0000" stop="20260122094000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2134,7 +2134,7 @@
     </rating>
   </programme>
   
-<programme start="20260122094000 +0000" stop="20260122100000 +0000" channel="FoxCricket au">
+<programme start="20260122094000 +0000" stop="20260122100000 +0000" channel="FoxCricket">
     <title lang="en">T20 Mini IND v NZL</title>
     <sub-title lang="en">Game 1</sub-title>
     <desc lang="en">With the T20 World Cup looming, preparations and auditions get underway for players on both sides looking to cement their spots.</desc>
@@ -2147,7 +2147,7 @@
     </rating>
   </programme>
   
-<programme start="20260122100000 +0000" stop="20260122110000 +0000" channel="FoxCricket au">
+<programme start="20260122100000 +0000" stop="20260122110000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2161,7 +2161,7 @@
     </rating>
   </programme>
   
-<programme start="20260122110000 +0000" stop="20260122120000 +0000" channel="FoxCricket au">
+<programme start="20260122110000 +0000" stop="20260122120000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2175,7 +2175,7 @@
     </rating>
   </programme>
   
-<programme start="20260122120000 +0000" stop="20260122130000 +0000" channel="FoxCricket au">
+<programme start="20260122120000 +0000" stop="20260122130000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2189,7 +2189,7 @@
     </rating>
   </programme>
   
-<programme start="20260122130000 +0000" stop="20260122140000 +0000" channel="FoxCricket au">
+<programme start="20260122130000 +0000" stop="20260122140000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2203,7 +2203,7 @@
     </rating>
   </programme>
   
-<programme start="20260122140000 +0000" stop="20260122150000 +0000" channel="FoxCricket au">
+<programme start="20260122140000 +0000" stop="20260122150000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2217,7 +2217,7 @@
     </rating>
   </programme>
   
-<programme start="20260122150000 +0000" stop="20260122193000 +0000" channel="FoxCricket au">
+<programme start="20260122150000 +0000" stop="20260122193000 +0000" channel="FoxCricket">
     <title lang="en">Live: SA20: Eliminator</title>
     <sub-title lang="en">Eliminator</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in Qualifier 2.</desc>
@@ -2230,7 +2230,7 @@
     </rating>
   </programme>
   
-<programme start="20260122193000 +0000" stop="20260122200000 +0000" channel="FoxCricket au">
+<programme start="20260122193000 +0000" stop="20260122200000 +0000" channel="FoxCricket">
     <title lang="en">Speed 'n Spin</title>
     <sub-title lang="en">Speed 'n Spin</sub-title>
     <desc lang="en">An exclusive Fox Cricket interview with four of Australia's greatest test bowlers ahead of the highly anticipated Ashes series.</desc>
@@ -2244,7 +2244,7 @@
     </rating>
   </programme>
   
-<programme start="20260122200000 +0000" stop="20260122210000 +0000" channel="FoxCricket au">
+<programme start="20260122200000 +0000" stop="20260122210000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2258,7 +2258,7 @@
     </rating>
   </programme>
   
-<programme start="20260122210000 +0000" stop="20260122220000 +0000" channel="FoxCricket au">
+<programme start="20260122210000 +0000" stop="20260122220000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2272,7 +2272,7 @@
     </rating>
   </programme>
   
-<programme start="20260122220000 +0000" stop="20260122222000 +0000" channel="FoxCricket au">
+<programme start="20260122220000 +0000" stop="20260122222000 +0000" channel="FoxCricket">
     <title lang="en">Greatest Ton: BBL12 Steve Smith</title>
     <sub-title lang="en">Greatest Ton: BBL12 Steve Smith</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -2286,7 +2286,7 @@
     </rating>
   </programme>
   
-<programme start="20260122222000 +0000" stop="20260122224000 +0000" channel="FoxCricket au">
+<programme start="20260122222000 +0000" stop="20260122224000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Sydney Smash: BBL9</title>
     <sub-title lang="en">Best of The Sydney Smash: BBL9</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -2300,7 +2300,7 @@
     </rating>
   </programme>
   
-<programme start="20260122224000 +0000" stop="20260122230000 +0000" channel="FoxCricket au">
+<programme start="20260122224000 +0000" stop="20260122230000 +0000" channel="FoxCricket">
     <title lang="en">T20 Mini IND v NZL</title>
     <sub-title lang="en">Game 1</sub-title>
     <desc lang="en">With the T20 World Cup looming, preparations and auditions get underway for players on both sides looking to cement their spots.</desc>
@@ -2313,7 +2313,7 @@
     </rating>
   </programme>
   
-<programme start="20260122230000 +0000" stop="20260122232000 +0000" channel="FoxCricket au">
+<programme start="20260122230000 +0000" stop="20260122232000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2326,7 +2326,7 @@
     </rating>
   </programme>
   
-<programme start="20260122232000 +0000" stop="20260122234000 +0000" channel="FoxCricket au">
+<programme start="20260122232000 +0000" stop="20260122234000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2339,7 +2339,7 @@
     </rating>
   </programme>
   
-<programme start="20260122234000 +0000" stop="20260123000000 +0000" channel="FoxCricket au">
+<programme start="20260122234000 +0000" stop="20260123000000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: GG v UPW</title>
     <sub-title lang="en">GG v UPW</sub-title>
     <desc lang="en">Former National teammates Ashleigh Gardner and Meg Lanning go head-to-head in a blockbuster.</desc>
@@ -2352,7 +2352,7 @@
     </rating>
   </programme>
   
-<programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="FoxCricket au">
+<programme start="20260123000000 +0000" stop="20260123010000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2366,7 +2366,7 @@
     </rating>
   </programme>
   
-<programme start="20260123010000 +0000" stop="20260123042500 +0000" channel="FoxCricket au">
+<programme start="20260123010000 +0000" stop="20260123042500 +0000" channel="FoxCricket">
     <title lang="en">Live: NZ Super Smash</title>
     <sub-title lang="en">Canterbury Magicians v Wellington Blaze W</sub-title>
     <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
@@ -2380,7 +2380,7 @@
     </rating>
   </programme>
   
-<programme start="20260123042500 +0000" stop="20260123044500 +0000" channel="FoxCricket au">
+<programme start="20260123042500 +0000" stop="20260123044500 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: GG v UPW</title>
     <sub-title lang="en">GG v UPW</sub-title>
     <desc lang="en">Former National teammates Ashleigh Gardner and Meg Lanning go head-to-head in a blockbuster.</desc>
@@ -2393,7 +2393,7 @@
     </rating>
   </programme>
   
-<programme start="20260123044500 +0000" stop="20260123054500 +0000" channel="FoxCricket au">
+<programme start="20260123044500 +0000" stop="20260123054500 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 1</title>
     <sub-title lang="en">IND v NZL Game 1</sub-title>
     <desc lang="en">With the T20 World Cup looming, preparations and auditions get underway for players on both sides looking to cement their spots.</desc>
@@ -2406,7 +2406,7 @@
     </rating>
   </programme>
   
-<programme start="20260123054500 +0000" stop="20260123064500 +0000" channel="FoxCricket au">
+<programme start="20260123054500 +0000" stop="20260123064500 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2420,7 +2420,7 @@
     </rating>
   </programme>
   
-<programme start="20260123064500 +0000" stop="20260123074500 +0000" channel="FoxCricket au">
+<programme start="20260123064500 +0000" stop="20260123074500 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2434,7 +2434,7 @@
     </rating>
   </programme>
   
-<programme start="20260123074500 +0000" stop="20260123081500 +0000" channel="FoxCricket au">
+<programme start="20260123074500 +0000" stop="20260123081500 +0000" channel="FoxCricket">
     <title lang="en">Live: B4 The Bash: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The complete pre-match build-up-toss, pitch, interviews, and analysis-will be covered b4 the bash.</desc>
@@ -2448,7 +2448,7 @@
     </rating>
   </programme>
   
-<programme start="20260123081500 +0000" stop="20260123094500 +0000" channel="FoxCricket au">
+<programme start="20260123081500 +0000" stop="20260123094500 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash: The Challenger IN1</title>
     <sub-title lang="en">The Challenger IN1</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make the Grand Final.</desc>
@@ -2462,7 +2462,7 @@
     </rating>
   </programme>
   
-<programme start="20260123094500 +0000" stop="20260123100000 +0000" channel="FoxCricket au">
+<programme start="20260123094500 +0000" stop="20260123100000 +0000" channel="FoxCricket">
     <title lang="en">Live: The Big Break</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The game may be taking a break but don't go away. The Big Break brings you exclusive interviews, team strategies, highlights and much more.</desc>
@@ -2475,7 +2475,7 @@
     </rating>
   </programme>
   
-<programme start="20260123100000 +0000" stop="20260123113000 +0000" channel="FoxCricket au">
+<programme start="20260123100000 +0000" stop="20260123113000 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash: The Challenger IN2</title>
     <sub-title lang="en">The Challenger IN2</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make the Grand Final.</desc>
@@ -2489,7 +2489,7 @@
     </rating>
   </programme>
   
-<programme start="20260123113000 +0000" stop="20260123114500 +0000" channel="FoxCricket au">
+<programme start="20260123113000 +0000" stop="20260123114500 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash Post Game</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">Even after the final ball is bowled the fun doesn't stop! Join the Fox Cricket team for an in-depth wrap up of all the Big Bash action, plus latest news and stories on everything cricket.</desc>
@@ -2502,7 +2502,7 @@
     </rating>
   </programme>
   
-<programme start="20260123114500 +0000" stop="20260123120500 +0000" channel="FoxCricket au">
+<programme start="20260123114500 +0000" stop="20260123120500 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2515,7 +2515,7 @@
     </rating>
   </programme>
   
-<programme start="20260123120500 +0000" stop="20260123122500 +0000" channel="FoxCricket au">
+<programme start="20260123120500 +0000" stop="20260123122500 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: GG v UPW</title>
     <sub-title lang="en">GG v UPW</sub-title>
     <desc lang="en">Former National teammates Ashleigh Gardner and Meg Lanning go head-to-head in a blockbuster.</desc>
@@ -2528,7 +2528,7 @@
     </rating>
   </programme>
   
-<programme start="20260123122500 +0000" stop="20260123124500 +0000" channel="FoxCricket au">
+<programme start="20260123122500 +0000" stop="20260123124500 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2541,7 +2541,7 @@
     </rating>
   </programme>
   
-<programme start="20260123124500 +0000" stop="20260123130000 +0000" channel="FoxCricket au">
+<programme start="20260123124500 +0000" stop="20260123130000 +0000" channel="FoxCricket">
     <title lang="en">Captains Chat</title>
     <sub-title lang="en">Captains Chat</sub-title>
     <desc lang="en">Australian Captains Pat Cummins and Alyssa Healy chat with newbies Cameron Green and Georgia Voll.</desc>
@@ -2555,7 +2555,7 @@
     </rating>
   </programme>
   
-<programme start="20260123130000 +0000" stop="20260123132000 +0000" channel="FoxCricket au">
+<programme start="20260123130000 +0000" stop="20260123132000 +0000" channel="FoxCricket">
     <title lang="en">T20 Mini IND v NZL</title>
     <sub-title lang="en">Game 1</sub-title>
     <desc lang="en">With the T20 World Cup looming, preparations and auditions get underway for players on both sides looking to cement their spots.</desc>
@@ -2568,7 +2568,7 @@
     </rating>
   </programme>
   
-<programme start="20260123132000 +0000" stop="20260123173000 +0000" channel="FoxCricket au">
+<programme start="20260123132000 +0000" stop="20260123173000 +0000" channel="FoxCricket">
     <title lang="en">Live: T20: IND v NZL Game 2</title>
     <sub-title lang="en">IND v NZL Game 2</sub-title>
     <desc lang="en">India host New Zealand in game two of a five match series in Atal Nagar-Nava Raipur.</desc>
@@ -2581,7 +2581,7 @@
     </rating>
   </programme>
   
-<programme start="20260123173000 +0000" stop="20260123180000 +0000" channel="FoxCricket au">
+<programme start="20260123173000 +0000" stop="20260123180000 +0000" channel="FoxCricket">
     <title lang="en">Mitchell Starc Strikes</title>
     <sub-title lang="en">Mitchell Starc Strikes</sub-title>
     <desc lang="en">Witness the very best of Mitchell Starc, delivering instant carnage and claiming crucial wickets in the very first over.</desc>
@@ -2595,7 +2595,7 @@
     </rating>
   </programme>
   
-<programme start="20260123180000 +0000" stop="20260123190000 +0000" channel="FoxCricket au">
+<programme start="20260123180000 +0000" stop="20260123190000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2609,7 +2609,7 @@
     </rating>
   </programme>
   
-<programme start="20260123190000 +0000" stop="20260123200000 +0000" channel="FoxCricket au">
+<programme start="20260123190000 +0000" stop="20260123200000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2623,7 +2623,7 @@
     </rating>
   </programme>
   
-<programme start="20260123200000 +0000" stop="20260123202000 +0000" channel="FoxCricket au">
+<programme start="20260123200000 +0000" stop="20260123202000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2636,7 +2636,7 @@
     </rating>
   </programme>
   
-<programme start="20260123202000 +0000" stop="20260123204000 +0000" channel="FoxCricket au">
+<programme start="20260123202000 +0000" stop="20260123204000 +0000" channel="FoxCricket">
     <title lang="en">Sport Special</title>
     <date>2018</date>
     <category lang="en">Sport</category>
@@ -2647,7 +2647,7 @@
     </rating>
   </programme>
   
-<programme start="20260123204000 +0000" stop="20260123210000 +0000" channel="FoxCricket au">
+<programme start="20260123204000 +0000" stop="20260123210000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2660,7 +2660,7 @@
     </rating>
   </programme>
   
-<programme start="20260123210000 +0000" stop="20260123212000 +0000" channel="FoxCricket au">
+<programme start="20260123210000 +0000" stop="20260123212000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: GG v RCB</title>
     <sub-title lang="en">GG v RCB</sub-title>
     <desc lang="en">Ashleigh Gardner's Giants face Smriti Mandhana's Challengers in a battle for top of the table dominance.</desc>
@@ -2673,7 +2673,7 @@
     </rating>
   </programme>
   
-<programme start="20260123212000 +0000" stop="20260123214000 +0000" channel="FoxCricket au">
+<programme start="20260123212000 +0000" stop="20260123214000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: DC v MI</title>
     <sub-title lang="en">DC v MI</sub-title>
     <desc lang="en">Leg-spinner Alana King looks to make a statement on the Mumbai Indians hitters in her first major stint for the Delhi Capitals.</desc>
@@ -2686,7 +2686,7 @@
     </rating>
   </programme>
   
-<programme start="20260123214000 +0000" stop="20260123220000 +0000" channel="FoxCricket au">
+<programme start="20260123214000 +0000" stop="20260123220000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: GG v UPW</title>
     <sub-title lang="en">GG v UPW</sub-title>
     <desc lang="en">Former National teammates Ashleigh Gardner and Meg Lanning go head-to-head in a blockbuster.</desc>
@@ -2699,7 +2699,7 @@
     </rating>
   </programme>
   
-<programme start="20260123220000 +0000" stop="20260123230000 +0000" channel="FoxCricket au">
+<programme start="20260123220000 +0000" stop="20260123230000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2713,7 +2713,7 @@
     </rating>
   </programme>
   
-<programme start="20260123230000 +0000" stop="20260124000000 +0000" channel="FoxCricket au">
+<programme start="20260123230000 +0000" stop="20260124000000 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 2</title>
     <sub-title lang="en">IND v NZL Game 2</sub-title>
     <desc lang="en">India host New Zealand in game two of a five match series in Atal Nagar-Nava Raipur.</desc>
@@ -2726,7 +2726,7 @@
     </rating>
   </programme>
   
-<programme start="20260124000000 +0000" stop="20260124010000 +0000" channel="FoxCricket au">
+<programme start="20260124000000 +0000" stop="20260124010000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2740,7 +2740,7 @@
     </rating>
   </programme>
   
-<programme start="20260124010000 +0000" stop="20260124042500 +0000" channel="FoxCricket au">
+<programme start="20260124010000 +0000" stop="20260124042500 +0000" channel="FoxCricket">
     <title lang="en">Live: NZ Super Smash</title>
     <sub-title lang="en">Central Hinds v Otago Sparks W</sub-title>
     <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
@@ -2754,7 +2754,7 @@
     </rating>
   </programme>
   
-<programme start="20260124042500 +0000" stop="20260124044500 +0000" channel="FoxCricket au">
+<programme start="20260124042500 +0000" stop="20260124044500 +0000" channel="FoxCricket">
     <title lang="en">T20 Mini IND v NZL</title>
     <sub-title lang="en">Game 2</sub-title>
     <desc lang="en">India host New Zealand in game two of a five match series in Atal Nagar-Nava Raipur.</desc>
@@ -2767,7 +2767,7 @@
     </rating>
   </programme>
   
-<programme start="20260124044500 +0000" stop="20260124082000 +0000" channel="FoxCricket au">
+<programme start="20260124044500 +0000" stop="20260124082000 +0000" channel="FoxCricket">
     <title lang="en">Live: NZ Super Smash</title>
     <sub-title lang="en">Central Stags v Otago Volts</sub-title>
     <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
@@ -2781,7 +2781,7 @@
     </rating>
   </programme>
   
-<programme start="20260124082000 +0000" stop="20260124092000 +0000" channel="FoxCricket au">
+<programme start="20260124082000 +0000" stop="20260124092000 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 2</title>
     <sub-title lang="en">IND v NZL Game 2</sub-title>
     <desc lang="en">India host New Zealand in game two of a five match series in Atal Nagar-Nava Raipur.</desc>
@@ -2794,7 +2794,7 @@
     </rating>
   </programme>
   
-<programme start="20260124092000 +0000" stop="20260124094000 +0000" channel="FoxCricket au">
+<programme start="20260124092000 +0000" stop="20260124094000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2807,7 +2807,7 @@
     </rating>
   </programme>
   
-<programme start="20260124094000 +0000" stop="20260124100000 +0000" channel="FoxCricket au">
+<programme start="20260124094000 +0000" stop="20260124100000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2820,7 +2820,7 @@
     </rating>
   </programme>
   
-<programme start="20260124100000 +0000" stop="20260124102000 +0000" channel="FoxCricket au">
+<programme start="20260124100000 +0000" stop="20260124102000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2833,7 +2833,7 @@
     </rating>
   </programme>
   
-<programme start="20260124102000 +0000" stop="20260124112000 +0000" channel="FoxCricket au">
+<programme start="20260124102000 +0000" stop="20260124112000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2847,7 +2847,7 @@
     </rating>
   </programme>
   
-<programme start="20260124112000 +0000" stop="20260124114000 +0000" channel="FoxCricket au">
+<programme start="20260124112000 +0000" stop="20260124114000 +0000" channel="FoxCricket">
     <title lang="en">Greatest Ton: BBL12 Steve Smith</title>
     <sub-title lang="en">Greatest Ton: BBL12 Steve Smith</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -2861,7 +2861,7 @@
     </rating>
   </programme>
   
-<programme start="20260124114000 +0000" stop="20260124120000 +0000" channel="FoxCricket au">
+<programme start="20260124114000 +0000" stop="20260124120000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Sydney Smash: BBL9</title>
     <sub-title lang="en">Best of The Sydney Smash: BBL9</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -2875,7 +2875,7 @@
     </rating>
   </programme>
   
-<programme start="20260124120000 +0000" stop="20260124122000 +0000" channel="FoxCricket au">
+<programme start="20260124120000 +0000" stop="20260124122000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Sydney Smash: BBL4</title>
     <sub-title lang="en">Best of The Sydney Smash: BBL4</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -2889,7 +2889,7 @@
     </rating>
   </programme>
   
-<programme start="20260124122000 +0000" stop="20260124132000 +0000" channel="FoxCricket au">
+<programme start="20260124122000 +0000" stop="20260124132000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2903,7 +2903,7 @@
     </rating>
   </programme>
   
-<programme start="20260124132000 +0000" stop="20260124142000 +0000" channel="FoxCricket au">
+<programme start="20260124132000 +0000" stop="20260124142000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -2917,7 +2917,7 @@
     </rating>
   </programme>
   
-<programme start="20260124142000 +0000" stop="20260124152000 +0000" channel="FoxCricket au">
+<programme start="20260124142000 +0000" stop="20260124152000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2931,7 +2931,7 @@
     </rating>
   </programme>
   
-<programme start="20260124152000 +0000" stop="20260124162000 +0000" channel="FoxCricket au">
+<programme start="20260124152000 +0000" stop="20260124162000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2945,7 +2945,7 @@
     </rating>
   </programme>
   
-<programme start="20260124162000 +0000" stop="20260124172000 +0000" channel="FoxCricket au">
+<programme start="20260124162000 +0000" stop="20260124172000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -2959,7 +2959,7 @@
     </rating>
   </programme>
   
-<programme start="20260124172000 +0000" stop="20260124182000 +0000" channel="FoxCricket au">
+<programme start="20260124172000 +0000" stop="20260124182000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -2973,7 +2973,7 @@
     </rating>
   </programme>
   
-<programme start="20260124182000 +0000" stop="20260124192000 +0000" channel="FoxCricket au">
+<programme start="20260124182000 +0000" stop="20260124192000 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 1</title>
     <sub-title lang="en">IND v NZL Game 1</sub-title>
     <desc lang="en">With the T20 World Cup looming, preparations and auditions get underway for players on both sides looking to cement their spots.</desc>
@@ -2986,7 +2986,7 @@
     </rating>
   </programme>
   
-<programme start="20260124192000 +0000" stop="20260124202000 +0000" channel="FoxCricket au">
+<programme start="20260124192000 +0000" stop="20260124202000 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 2</title>
     <sub-title lang="en">IND v NZL Game 2</sub-title>
     <desc lang="en">India host New Zealand in game two of a five match series in Atal Nagar-Nava Raipur.</desc>
@@ -2999,7 +2999,7 @@
     </rating>
   </programme>
   
-<programme start="20260124202000 +0000" stop="20260124204000 +0000" channel="FoxCricket au">
+<programme start="20260124202000 +0000" stop="20260124204000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -3012,7 +3012,7 @@
     </rating>
   </programme>
   
-<programme start="20260124204000 +0000" stop="20260124210000 +0000" channel="FoxCricket au">
+<programme start="20260124204000 +0000" stop="20260124210000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -3025,7 +3025,7 @@
     </rating>
   </programme>
   
-<programme start="20260124210000 +0000" stop="20260124212000 +0000" channel="FoxCricket au">
+<programme start="20260124210000 +0000" stop="20260124212000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -3038,7 +3038,7 @@
     </rating>
   </programme>
   
-<programme start="20260124212000 +0000" stop="20260124214000 +0000" channel="FoxCricket au">
+<programme start="20260124212000 +0000" stop="20260124214000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL10 SIX v SCO</title>
     <sub-title lang="en">Best of The Final: BBL10 SIX v SCO</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3052,7 +3052,7 @@
     </rating>
   </programme>
   
-<programme start="20260124214000 +0000" stop="20260124220000 +0000" channel="FoxCricket au">
+<programme start="20260124214000 +0000" stop="20260124220000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL8 REN v STA</title>
     <sub-title lang="en">Best of The Final: BBL8 REN v STA</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3066,7 +3066,7 @@
     </rating>
   </programme>
   
-<programme start="20260124220000 +0000" stop="20260124222000 +0000" channel="FoxCricket au">
+<programme start="20260124220000 +0000" stop="20260124222000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL12 SCO v HEA</title>
     <sub-title lang="en">Best of The Final: BBL12 SCO v HEA</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3080,7 +3080,7 @@
     </rating>
   </programme>
   
-<programme start="20260124222000 +0000" stop="20260124224000 +0000" channel="FoxCricket au">
+<programme start="20260124222000 +0000" stop="20260124224000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL5 STA v THU</title>
     <sub-title lang="en">Best of The Final: BBL5 STA v THU</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3094,7 +3094,7 @@
     </rating>
   </programme>
   
-<programme start="20260124224000 +0000" stop="20260124230000 +0000" channel="FoxCricket au">
+<programme start="20260124224000 +0000" stop="20260124230000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL11 SIX v SCO</title>
     <sub-title lang="en">Best of The Final: BBL11 SIX v SCO</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3108,7 +3108,7 @@
     </rating>
   </programme>
   
-<programme start="20260124230000 +0000" stop="20260125000000 +0000" channel="FoxCricket au">
+<programme start="20260124230000 +0000" stop="20260125000000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash</title>
     <date>2025</date>
     <category lang="en">Sport</category>
@@ -3119,7 +3119,7 @@
     </rating>
   </programme>
   
-<programme start="20260125000000 +0000" stop="20260125010000 +0000" channel="FoxCricket au">
+<programme start="20260125000000 +0000" stop="20260125010000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash</title>
     <date>2025</date>
     <category lang="en">Sport</category>
@@ -3130,7 +3130,7 @@
     </rating>
   </programme>
   
-<programme start="20260125010000 +0000" stop="20260125012000 +0000" channel="FoxCricket au">
+<programme start="20260125010000 +0000" stop="20260125012000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -3143,7 +3143,7 @@
     </rating>
   </programme>
   
-<programme start="20260125012000 +0000" stop="20260125014000 +0000" channel="FoxCricket au">
+<programme start="20260125012000 +0000" stop="20260125014000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -3156,7 +3156,7 @@
     </rating>
   </programme>
   
-<programme start="20260125014000 +0000" stop="20260125020000 +0000" channel="FoxCricket au">
+<programme start="20260125014000 +0000" stop="20260125020000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -3169,7 +3169,7 @@
     </rating>
   </programme>
   
-<programme start="20260125020000 +0000" stop="20260125022000 +0000" channel="FoxCricket au">
+<programme start="20260125020000 +0000" stop="20260125022000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL4 SCO v SIX</title>
     <sub-title lang="en">Best of The Final: BBL4 SCO v SIX</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3183,7 +3183,7 @@
     </rating>
   </programme>
   
-<programme start="20260125022000 +0000" stop="20260125024000 +0000" channel="FoxCricket au">
+<programme start="20260125022000 +0000" stop="20260125024000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL10 SIX v SCO</title>
     <sub-title lang="en">Best of The Final: BBL10 SIX v SCO</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3197,7 +3197,7 @@
     </rating>
   </programme>
   
-<programme start="20260125024000 +0000" stop="20260125030000 +0000" channel="FoxCricket au">
+<programme start="20260125024000 +0000" stop="20260125030000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL8 REN v STA</title>
     <sub-title lang="en">Best of The Final: BBL8 REN v STA</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3211,7 +3211,7 @@
     </rating>
   </programme>
   
-<programme start="20260125030000 +0000" stop="20260125032000 +0000" channel="FoxCricket au">
+<programme start="20260125030000 +0000" stop="20260125032000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL12 SCO v HEA</title>
     <sub-title lang="en">Best of The Final: BBL12 SCO v HEA</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3225,7 +3225,7 @@
     </rating>
   </programme>
   
-<programme start="20260125032000 +0000" stop="20260125034000 +0000" channel="FoxCricket au">
+<programme start="20260125032000 +0000" stop="20260125034000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL5 STA v THU</title>
     <sub-title lang="en">Best of The Final: BBL5 STA v THU</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3239,7 +3239,7 @@
     </rating>
   </programme>
   
-<programme start="20260125034000 +0000" stop="20260125040000 +0000" channel="FoxCricket au">
+<programme start="20260125034000 +0000" stop="20260125040000 +0000" channel="FoxCricket">
     <title lang="en">Best of The Final: BBL11 SIX v SCO</title>
     <sub-title lang="en">Best of The Final: BBL11 SIX v SCO</sub-title>
     <desc lang="en">Look back at some of the instant classic BBL's of recent years!</desc>
@@ -3253,7 +3253,7 @@
     </rating>
   </programme>
   
-<programme start="20260125040000 +0000" stop="20260125050000 +0000" channel="FoxCricket au">
+<programme start="20260125040000 +0000" stop="20260125050000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash</title>
     <date>2025</date>
     <category lang="en">Sport</category>
@@ -3264,7 +3264,7 @@
     </rating>
   </programme>
   
-<programme start="20260125050000 +0000" stop="20260125060000 +0000" channel="FoxCricket au">
+<programme start="20260125050000 +0000" stop="20260125060000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash</title>
     <date>2025</date>
     <category lang="en">Sport</category>
@@ -3275,7 +3275,7 @@
     </rating>
   </programme>
   
-<programme start="20260125060000 +0000" stop="20260125062000 +0000" channel="FoxCricket au">
+<programme start="20260125060000 +0000" stop="20260125062000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -3288,7 +3288,7 @@
     </rating>
   </programme>
   
-<programme start="20260125062000 +0000" stop="20260125064000 +0000" channel="FoxCricket au">
+<programme start="20260125062000 +0000" stop="20260125064000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -3301,7 +3301,7 @@
     </rating>
   </programme>
   
-<programme start="20260125064000 +0000" stop="20260125070000 +0000" channel="FoxCricket au">
+<programme start="20260125064000 +0000" stop="20260125070000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -3314,7 +3314,7 @@
     </rating>
   </programme>
   
-<programme start="20260125070000 +0000" stop="20260125081500 +0000" channel="FoxCricket au">
+<programme start="20260125070000 +0000" stop="20260125081500 +0000" channel="FoxCricket">
     <title lang="en">Live: B4 The Bash: The Final</title>
     <sub-title lang="en">The Final</sub-title>
     <desc lang="en">The complete pre-match build-up-toss, pitch, interviews, and analysis-will be covered b4 the bash.</desc>
@@ -3328,7 +3328,7 @@
     </rating>
   </programme>
   
-<programme start="20260125081500 +0000" stop="20260125094500 +0000" channel="FoxCricket au">
+<programme start="20260125081500 +0000" stop="20260125094500 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash: The Decider IN1</title>
     <sub-title lang="en">The Decider IN1</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3342,7 +3342,7 @@
     </rating>
   </programme>
   
-<programme start="20260125094500 +0000" stop="20260125100000 +0000" channel="FoxCricket au">
+<programme start="20260125094500 +0000" stop="20260125100000 +0000" channel="FoxCricket">
     <title lang="en">Live: The Big Break</title>
     <sub-title lang="en">The Final</sub-title>
     <desc lang="en">The game may be taking a break but don't go away. The Big Break brings you exclusive interviews, team strategies, highlights and much more.</desc>
@@ -3355,7 +3355,7 @@
     </rating>
   </programme>
   
-<programme start="20260125100000 +0000" stop="20260125113000 +0000" channel="FoxCricket au">
+<programme start="20260125100000 +0000" stop="20260125113000 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash: The Decider IN2</title>
     <sub-title lang="en">The Decider IN2</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3369,7 +3369,7 @@
     </rating>
   </programme>
   
-<programme start="20260125113000 +0000" stop="20260125115000 +0000" channel="FoxCricket au">
+<programme start="20260125113000 +0000" stop="20260125115000 +0000" channel="FoxCricket">
     <title lang="en">Live: Big Bash Post Game</title>
     <sub-title lang="en">The Final</sub-title>
     <desc lang="en">Even after the final ball is bowled the fun doesn't stop! Join the Fox Cricket team for an in-depth wrap up of all the Big Bash action, plus latest news and stories on everything cricket.</desc>
@@ -3382,7 +3382,7 @@
     </rating>
   </programme>
   
-<programme start="20260125115000 +0000" stop="20260125121000 +0000" channel="FoxCricket au">
+<programme start="20260125115000 +0000" stop="20260125121000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -3394,7 +3394,7 @@
       <value>NC</value>
     </rating>
   </programme>
-<programme start="20260125121000 +0000" stop="20260125123000 +0000" channel="FoxCricket au">
+<programme start="20260125121000 +0000" stop="20260125123000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -3407,7 +3407,7 @@
     </rating>
   </programme>
   
-<programme start="20260125123000 +0000" stop="20260125130000 +0000" channel="FoxCricket au">
+<programme start="20260125123000 +0000" stop="20260125130000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3420,7 +3420,7 @@
     </rating>
   </programme>
   
-<programme start="20260125130000 +0000" stop="20260125132000 +0000" channel="FoxCricket au">
+<programme start="20260125130000 +0000" stop="20260125132000 +0000" channel="FoxCricket">
     <title lang="en">Sport Special</title>
     <date>2018</date>
     <category lang="en">Sport</category>
@@ -3431,7 +3431,7 @@
     </rating>
   </programme>
   
-<programme start="20260125132000 +0000" stop="20260125173000 +0000" channel="FoxCricket au">
+<programme start="20260125132000 +0000" stop="20260125173000 +0000" channel="FoxCricket">
     <title lang="en">Live: T20: IND v NZL Game 3</title>
     <sub-title lang="en">IND v NZL Game 3</sub-title>
     <desc lang="en">India host New Zealand in game three of a five match series in Guwahati.</desc>
@@ -3444,7 +3444,7 @@
     </rating>
   </programme>
   
-<programme start="20260125173000 +0000" stop="20260125183000 +0000" channel="FoxCricket au">
+<programme start="20260125173000 +0000" stop="20260125183000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Qualifier</title>
     <sub-title lang="en">The Qualifier</sub-title>
     <desc lang="en">The top two teams battle it out to advance straight to The Decider.</desc>
@@ -3458,7 +3458,7 @@
     </rating>
   </programme>
   
-<programme start="20260125183000 +0000" stop="20260125193000 +0000" channel="FoxCricket au">
+<programme start="20260125183000 +0000" stop="20260125193000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Knockout</title>
     <sub-title lang="en">The Knockout</sub-title>
     <desc lang="en">Third meets fourth in a must-win clash for a spot in The Challenger.</desc>
@@ -3472,7 +3472,7 @@
     </rating>
   </programme>
   
-<programme start="20260125193000 +0000" stop="20260125203000 +0000" channel="FoxCricket au">
+<programme start="20260125193000 +0000" stop="20260125203000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Challenger</title>
     <sub-title lang="en">The Challenger</sub-title>
     <desc lang="en">The Eliminator winner meets the Qualifier loser in a last chance game to make The Decider.</desc>
@@ -3486,7 +3486,7 @@
     </rating>
   </programme>
   
-<programme start="20260125203000 +0000" stop="20260125233000 +0000" channel="FoxCricket au">
+<programme start="20260125203000 +0000" stop="20260125233000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3500,7 +3500,7 @@
     </rating>
   </programme>
   
-<programme start="20260125233000 +0000" stop="20260126025500 +0000" channel="FoxCricket au">
+<programme start="20260125233000 +0000" stop="20260126025500 +0000" channel="FoxCricket">
     <title lang="en">Live: NZ Super Smash</title>
     <sub-title lang="en">Auckland Hearts v Central Hinds W</sub-title>
     <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
@@ -3514,7 +3514,7 @@
     </rating>
   </programme>
   
-<programme start="20260126025500 +0000" stop="20260126031500 +0000" channel="FoxCricket au">
+<programme start="20260126025500 +0000" stop="20260126031500 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini</title>
     <date>2026</date>
     <category lang="en">Sport</category>
@@ -3524,7 +3524,7 @@
     </rating>
   </programme>
   
-<programme start="20260126031500 +0000" stop="20260126070000 +0000" channel="FoxCricket au">
+<programme start="20260126031500 +0000" stop="20260126070000 +0000" channel="FoxCricket">
     <title lang="en">Live: NZ Super Smash</title>
     <sub-title lang="en">Auckland Aces v Central Stags</sub-title>
     <desc lang="en">New Zealand's premier Twenty20 domestic competition sees men's and women's sides compete alongside each other for Super Smash glory.</desc>
@@ -3538,7 +3538,7 @@
     </rating>
   </programme>
   
-<programme start="20260126070000 +0000" stop="20260126080000 +0000" channel="FoxCricket au">
+<programme start="20260126070000 +0000" stop="20260126080000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3552,7 +3552,7 @@
     </rating>
   </programme>
   
-<programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="FoxCricket au">
+<programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 3</title>
     <sub-title lang="en">IND v NZL Game 3</sub-title>
     <desc lang="en">India host New Zealand in game three of a five match series in Guwahati.</desc>
@@ -3565,7 +3565,7 @@
     </rating>
   </programme>
   
-<programme start="20260126090000 +0000" stop="20260126092000 +0000" channel="FoxCricket au">
+<programme start="20260126090000 +0000" stop="20260126092000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3578,7 +3578,7 @@
     </rating>
   </programme>
   
-<programme start="20260126092000 +0000" stop="20260126094000 +0000" channel="FoxCricket au">
+<programme start="20260126092000 +0000" stop="20260126094000 +0000" channel="FoxCricket">
     <title lang="en">Sport Special</title>
     <date>2018</date>
     <category lang="en">Sport</category>
@@ -3589,7 +3589,7 @@
     </rating>
   </programme>
   
-<programme start="20260126094000 +0000" stop="20260126100000 +0000" channel="FoxCricket au">
+<programme start="20260126094000 +0000" stop="20260126100000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: RCB v DC</title>
     <sub-title lang="en">RCB v DC</sub-title>
     <desc lang="en">Smriti Mandhana's star-studded Bengaluru side tests the young leadership of Jemimah Rodrigues Capitals.</desc>
@@ -3602,7 +3602,7 @@
     </rating>
   </programme>
   
-<programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="FoxCricket au">
+<programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3616,7 +3616,7 @@
     </rating>
   </programme>
   
-<programme start="20260126110000 +0000" stop="20260126120000 +0000" channel="FoxCricket au">
+<programme start="20260126110000 +0000" stop="20260126120000 +0000" channel="FoxCricket">
     <title lang="en">SA20: Final</title>
     <sub-title lang="en">Final</sub-title>
     <desc lang="en">The tournament comes to an end with the 2026 Grand Final.</desc>
@@ -3629,7 +3629,7 @@
     </rating>
   </programme>
   
-<programme start="20260126120000 +0000" stop="20260126130000 +0000" channel="FoxCricket au">
+<programme start="20260126120000 +0000" stop="20260126130000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3643,7 +3643,7 @@
     </rating>
   </programme>
   
-<programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="FoxCricket au">
+<programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="FoxCricket">
     <title lang="en">Sport Special</title>
     <date>2018</date>
     <category lang="en">Sport</category>
@@ -3654,7 +3654,7 @@
     </rating>
   </programme>
   
-<programme start="20260126133000 +0000" stop="20260126135000 +0000" channel="FoxCricket au">
+<programme start="20260126133000 +0000" stop="20260126135000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3667,7 +3667,7 @@
     </rating>
   </programme>
   
-<programme start="20260126135000 +0000" stop="20260126180000 +0000" channel="FoxCricket au">
+<programme start="20260126135000 +0000" stop="20260126180000 +0000" channel="FoxCricket">
     <title lang="en">Live: WPL: Challengers v Mumbai</title>
     <sub-title lang="en">Challengers v Mumbai</sub-title>
     <desc lang="en">Georgia Voll looks to make her mark for Bengaluru against Mumbai Indians' Australian recruit Nicola Carey.</desc>
@@ -3681,7 +3681,7 @@
     </rating>
   </programme>
   
-<programme start="20260126180000 +0000" stop="20260126210000 +0000" channel="FoxCricket au">
+<programme start="20260126180000 +0000" stop="20260126210000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3695,7 +3695,7 @@
     </rating>
   </programme>
   
-<programme start="20260126210000 +0000" stop="20260126220000 +0000" channel="FoxCricket au">
+<programme start="20260126210000 +0000" stop="20260126220000 +0000" channel="FoxCricket">
     <title lang="en">T20: IND v NZL Game 3</title>
     <sub-title lang="en">IND v NZL Game 3</sub-title>
     <desc lang="en">India host New Zealand in game three of a five match series in Guwahati.</desc>
@@ -3708,7 +3708,7 @@
     </rating>
   </programme>
   
-<programme start="20260126220000 +0000" stop="20260126230000 +0000" channel="FoxCricket au">
+<programme start="20260126220000 +0000" stop="20260126230000 +0000" channel="FoxCricket">
     <title lang="en">SA20: Final</title>
     <sub-title lang="en">Final</sub-title>
     <desc lang="en">The tournament comes to an end with the 2026 Grand Final.</desc>
@@ -3721,7 +3721,7 @@
     </rating>
   </programme>
   
-<programme start="20260126230000 +0000" stop="20260126232000 +0000" channel="FoxCricket au">
+<programme start="20260126230000 +0000" stop="20260126232000 +0000" channel="FoxCricket">
     <title lang="en">Big Bash Mini: The Decider</title>
     <sub-title lang="en">The Decider</sub-title>
     <desc lang="en">The journey concludes as one team is crowned the BBL|15 Champion.</desc>
@@ -3734,7 +3734,7 @@
     </rating>
   </programme>
   
-<programme start="20260126232000 +0000" stop="20260126234000 +0000" channel="FoxCricket au">
+<programme start="20260126232000 +0000" stop="20260126234000 +0000" channel="FoxCricket">
     <title lang="en">Sport Special</title>
     <date>2018</date>
     <category lang="en">Sport</category>
@@ -3745,7 +3745,7 @@
     </rating>
   </programme>
   
-<programme start="20260126234000 +0000" stop="20260127000000 +0000" channel="FoxCricket au">
+<programme start="20260126234000 +0000" stop="20260127000000 +0000" channel="FoxCricket">
     <title lang="en">WPL Mini: RCB v MI</title>
     <sub-title lang="en">RCB v MI</sub-title>
     <desc lang="en">Georgia Voll looks to make her mark for Bengaluru against Mumbai Indians' Australian recruit Nicola Carey.</desc>
