@@ -137,7 +137,7 @@ def clean_channel_id(source_id: str) -> str:
     s = source_id.strip()
 
     # suffix list (remove if exists at end)
-    suffixes = [".in", ".no", ".za", ".al", ".uk", ".hk", ".pl", ".us2", ".us"]
+    suffixes = [".in", ".no", ".au",".za", ".al", ".uk", ".hk", ".pl", ".us2", ".us"]
 
     for suf in suffixes:
         if s.endswith(suf):
