@@ -130,15 +130,24 @@ CHANNELS = {
 def clean_channel_id(source_id: str) -> str:
     """
     Convert source ID to display-style ID:
-      DD.Bangla.in -> DD Bangla"
+      DD.Bangla.in -> DD Bangla
       SONY.MAX.1.in -> SONY MAX 1
+      ABC.NEWS.us2 -> ABC NEWS
     """
-    s = source_id
-    if s.endswith(".in"):
-        s = s[:-3]
+    s = source_id.strip()
+
+    # suffix list (remove if exists at end)
+    suffixes = [".in", ".no", ".za", ".al", ".uk", ".hk", ".pl", ".us2", ".us"]
+
+    for suf in suffixes:
+        if s.endswith(suf):
+            s = s[:-len(suf)]
+            break
+
     s = s.replace(".", " ")
     s = " ".join(s.split())
     return s
+
 
 def main():
     kept_ids = set()      # original ids
