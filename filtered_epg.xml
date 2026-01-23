@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg_generator" date="20260123035809 +0000">
+<tv generator-info-name="filtered_epg_generator" date="20260123044407 +0000">
 <channel id="Star Life">
     <display-name lang="sq">Star Life</display-name>
     <icon src="https://vimg.ipko.tv/logo/color/starlife.png" />
@@ -149,6 +149,11 @@
     <url>http://www.tvwish.com</url>
   </channel>
   
+<channel id="Movies Now">
+    <display-name lang="en">Movies Now</display-name>
+    <url>http://www.tvwish.com</url>
+  </channel>
+  
 <channel id="B4U Movies">
     <display-name lang="en">B4U Movies</display-name>
     <icon src="https://tvwish.com/Img/Channel/22.png" />
@@ -156,10 +161,10 @@
     <url>http://www.tvwish.com</url>
   </channel>
   
-<channel id="Goldmines Movies">
-    <display-name lang="en">Goldmines Movies</display-name>
-    <icon src="https://tvwish.com/Img/Channel/1557.png" />
-    <icon src="https://tvwish.com/Img/Channel/745.png" />
+<channel id="MTV">
+    <display-name lang="en">MTV</display-name>
+    <icon src="https://tvwish.com/Img/Channel/105.png" />
+    <icon src="https://tvwish.com/Img/Channel/105.png" />
     <url>http://www.tvwish.com</url>
   </channel>
   
@@ -213,6 +218,12 @@
 <channel id="Dangal 2">
     <display-name lang="en">Dangal 2</display-name>
     <icon src="https://tvwish.com/Img/Channel/1287.png" />
+    <url>http://www.tvwish.com</url>
+  </channel>
+  
+<channel id="Goldmines Bollywood">
+    <display-name lang="en">Goldmines Bollywood</display-name>
+    <icon src="https://tvwish.com/Img/Channel/1568.png" />
     <url>http://www.tvwish.com</url>
   </channel>
   
@@ -284,6 +295,13 @@
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mhmx6AmO.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">ZEE TV HD</display-name>
+  </channel>
+  
+<channel id="STAR SPORTS 1 HD">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5KSkBXcJ.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5KSkBXcJ.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR SPORTS 1 HD</display-name>
   </channel>
   
 <channel id="SONY SPORTS TEN 1 HD">
@@ -622,13 +640,6 @@
     <display-name lang="en">and PICTURES HD</display-name>
   </channel>
   
-<channel id="STAR SPORTS 1">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VmljN1kZ.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VmljN1kZ.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS 1</display-name>
-  </channel>
-  
 <channel id="DANGAL">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/neiqmb6i.png" />
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/neiqmb6i.png" />
@@ -725,6 +736,13 @@
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ArxHAGxh.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">STAR SPORTS 3</display-name>
+  </channel>
+  
+<channel id="MTV">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cVfreH6f.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cVfreH6f.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">MTV</display-name>
   </channel>
   
 <channel id="9XM">
@@ -18058,6 +18076,435 @@
     <icon src="https://tvwish.com/Img/Program/770221.jpg" />
   </programme>
   
+<programme start="20260122010500 +0000" stop="20260122033500 +0000" channel="Movies Now">
+    <title lang="en">Wonder Woman 1984</title>
+    <desc lang="en">A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <actor role="Diana Prince / Wonder Woman">Gal Gadot</actor>
+      <actor role="Steve Trevor">Chris Pine</actor>
+      <actor role="Barbara Minerva / Cheetah">Kristen Wiig</actor>
+      <actor role="Maxwell Lord">Pedro Pascal</actor>
+      <actor role="Antiope">Robin Wright</actor>
+      <actor role="Hippolyta">Connie Nielsen</actor>
+      <actor role="Young Diana">Lilly Aspell</actor>
+      <actor role="Emir Said Bin Abydos">Amr Waked</actor>
+      <actor role="Handsome Man">Kristoffer Polaha</actor>
+      <actor role="Carol (Co-Worker)">Natasha Rothwell</actor>
+    </credits>
+    <date>2020</date>
+    <icon src="https://tvwish.com/Img/Program/560309.jpg" />
+  </programme>
+  
+<programme start="20260122033500 +0000" stop="20260122051500 +0000" channel="Movies Now">
+    <title lang="en">Hercules</title>
+    <desc lang="en">Fourteen hundred years ago, a tormented soul walked the earth that was neither man nor god. Hercules was the powerful son of the god king Zeus, for this he received nothing but suffering his entire l.</desc>
+    <credits>
+      <actor role="Hercules">Dwayne Johnson</actor>
+      <actor role="Amphiarus">Ian McShane</actor>
+      <actor role="Cotys">John Hurt</actor>
+      <actor role="Autolycus">Rufus Sewell</actor>
+      <actor role="Tydeus">Aksel Hennie</actor>
+      <actor role="Atalanta">Ingrid Bolsø Berdal</actor>
+      <actor role="Iolaus">Reece Ritchie</actor>
+      <actor role="King Eurystheus">Joseph Fiennes</actor>
+      <actor role="Rhesus">Tobias Santelmann</actor>
+      <actor role="Sitacles">Peter Mullan</actor>
+    </credits>
+    <date>2014</date>
+    <icon src="https://tvwish.com/Img/Program/1544.jpg" />
+  </programme>
+  
+<programme start="20260122051500 +0000" stop="20260122071500 +0000" channel="Movies Now">
+    <title lang="en">Mission: Impossible III</title>
+    <desc lang="en">Retired from active duty to train new IMF agents, Ethan Hunt is called back into action to confront sadistic arms dealer, Owen Davian. Hunt must try to protect his girlfriend while working with his new team to complete the mission.</desc>
+    <credits>
+      <actor role="Ethan Hunt">Tom Cruise</actor>
+      <actor role="Owen Davian">Philip Seymour Hoffman</actor>
+      <actor role="Luther Stickell">Ving Rhames</actor>
+      <actor role="John Musgrave">Billy Crudup</actor>
+      <actor role="Julia Meade">Michelle Monaghan</actor>
+      <actor role="Declan Gormley">Jonathan Rhys Meyers</actor>
+      <actor role="Lindsey Farris">Keri Russell</actor>
+      <actor role="Zhen Lei">Maggie Q</actor>
+      <actor role="Theodore Brassel">Laurence Fishburne</actor>
+      <actor role="Benjamin &quot;Benji&quot; Dunn">Simon Pegg</actor>
+    </credits>
+    <date>2006</date>
+    <icon src="https://tvwish.com/Img/Program/504.jpg" />
+  </programme>
+  
+<programme start="20260122071500 +0000" stop="20260122093000 +0000" channel="Movies Now">
+    <title lang="en">Godzilla: King Of The Monsters</title>
+    <desc lang="en">Follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species - thought to be mere myths - rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.</desc>
+    <credits>
+      <director>Michael Dougherty</director>
+      <actor role="Mark Russell">Kyle Chandler</actor>
+      <actor role="Emma Russell">Vera Farmiga</actor>
+      <actor role="Madison Russell">Millie Bobby Brown</actor>
+      <actor role="Dr. Ishiro Serizawa">Ken Watanabe</actor>
+      <actor role="Dr. Ilene Chen / Dr. Ling">Zhang Ziyi</actor>
+      <actor role="Dr. Rick Stanton">Bradley Whitford</actor>
+      <actor role="Dr. Vivienne Graham">Sally Hawkins</actor>
+      <actor role="Alan Jonah">Charles Dance</actor>
+      <actor role="Sam Coleman">Thomas Middleditch</actor>
+      <actor role="Colonel Diane Foster">Aisha Hinds</actor>
+    </credits>
+    <date>2019</date>
+    <icon src="https://tvwish.com/Img/Program/520877.jpg" />
+  </programme>
+  
+<programme start="20260122093000 +0000" stop="20260122133500 +0000" channel="Movies Now">
+    <title lang="en">The Amazing Spider-Man II</title>
+    <desc lang="en">For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.</desc>
+    <credits>
+      <director>Marc Webb</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://tvwish.com/Img/Program/159559.jpg" />
+  </programme>
+  
+<programme start="20260122133500 +0000" stop="20260122151500 +0000" channel="Movies Now">
+    <title lang="en">Rambo III</title>
+    <desc lang="en">Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.</desc>
+    <credits>
+      <director>Peter MacDonald</director>
+      <actor role="Rambo">Sylvester Stallone</actor>
+      <actor role="Trautman">Richard Crenna</actor>
+      <actor role="Griggs">Kurtwood Smith</actor>
+      <actor role="Masoud">Spiros Focás</actor>
+      <actor role="Mousa">Sasson Gabai</actor>
+      <actor role="Hamid">Doudi Shoua</actor>
+      <actor role="Kourov">Randy Raney</actor>
+      <actor role="Tomask">Marcus Gilbert</actor>
+      <actor role="Nissem">Alon Aboutboul</actor>
+      <actor role="Rahim">Mahmoud Assadollahi</actor>
+    </credits>
+    <date>1988</date>
+    <icon src="https://tvwish.com/Img/Program/1210.jpg" />
+  </programme>
+<programme start="20260122151500 +0000" stop="20260122165000 +0000" channel="Movies Now">
+    <title lang="en">The Angry Birds Movie 2</title>
+    <desc lang="en">Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an island covered in ice are planning to use an elaborate weapon to destroy the fowl and swine.</desc>
+    <credits>
+      <director>Thurop Van Orman</director>
+      <actor role="Red (voice)">Jason Sudeikis</actor>
+      <actor role="Chuck (voice)">Josh Gad</actor>
+      <actor role="Bomb (voice)">Danny McBride</actor>
+      <actor role="Leonard (voice)">Bill Hader</actor>
+      <actor role="Mighty Eagle (voice)">Peter Dinklage</actor>
+      <actor role="Garry (voice)">Sterling K. Brown</actor>
+      <actor role="Zeta (voice)">Leslie Jones</actor>
+      <actor role="Courtney (voice)">Awkwafina</actor>
+      <actor role="Silver (voice)">Rachel Bloom</actor>
+      <actor role="Carl (voice)">Zach Woods</actor>
+    </credits>
+    <date>2019</date>
+    <icon src="https://tvwish.com/Img/Program/518690.jpg" />
+  </programme>
+  
+<programme start="20260122165000 +0000" stop="20260122183500 +0000" channel="Movies Now">
+    <title lang="en">Quantum of solace</title>
+    <desc lang="en">Quantum of Solace continues the adventures of James Bond after Casino Royale. Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.</desc>
+    <credits>
+      <actor role="James Bond">Daniel Craig</actor>
+      <actor role="Camille Montes">Olga Kurylenko</actor>
+      <actor role="Dominic Greene">Mathieu Amalric</actor>
+      <actor role="M">Judi Dench</actor>
+      <actor role="René Mathis">Giancarlo Giannini</actor>
+      <actor role="Strawberry Fields">Gemma Arterton</actor>
+      <actor role="Felix Leiter">Jeffrey Wright</actor>
+      <actor role="Gregg Beam">David Harbour</actor>
+      <actor role="Mr. White">Jesper Christensen</actor>
+      <actor role="Elvis">Anatole Taubman</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://tvwish.com/Img/Program/249.jpg" />
+  </programme>
+  
+<programme start="20260122183500 +0000" stop="20260122201000 +0000" channel="Movies Now">
+    <title lang="en">The Kidnapping of Freddy Heineken</title>
+    <desc lang="en">The true story of the kidnapping of Freddy Heineken, the grandson of the founder of the Heineken brewery, and his driver. They were released after a ransom of 35 million Dutch guilders was paid.</desc>
+    <credits>
+      <actor role="Freddy Heineken">Anthony Hopkins</actor>
+      <actor role="Cor Van Hout">Jim Sturgess</actor>
+      <actor role="Willem Holleeder">Sam Worthington</actor>
+      <actor role="Jan 'Cat' Boellard">Ryan Kwanten</actor>
+      <actor role="Frans 'Spikes' Meijer">Mark van Eeuwen</actor>
+      <actor role="Martin 'Brakes' Erkamps">Thomas Cocquerel</actor>
+      <actor role="Sonja Holleeder">Jemima West</actor>
+      <actor role="Ab Doderer">David Dencik</actor>
+      <actor role="Ma Holleeder">Vera Van Dooren</actor>
+      <actor role="Karin">Kat Lindsay</actor>
+    </credits>
+    <date>2015</date>
+    <icon src="https://tvwish.com/Img/Program/878633.jpg" />
+  </programme>
+  
+<programme start="20260122201000 +0000" stop="20260122213600 +0000" channel="Movies Now">
+    <title lang="en">Reasonable Doubt</title>
+    <desc lang="en">When up-and-coming District Attorney Mitch Brockden commits a fatal hit-and-run, he feels compelled to throw the case against the accused criminal who was found with the body and blamed for the crime. Following the trial, Mitch's worst fears come true when he realizes that he acquitted a guilty man, and he soon finds himself on the hunt for the killer before more victims pile up.</desc>
+    <credits>
+      <director>Peter Howitt</director>
+      <actor role="Clinton Davis">Samuel L. Jackson</actor>
+      <actor role="Mitch Brockden">Dominic Cooper</actor>
+      <actor role="Rachel Brockden">Erin Karpluk</actor>
+      <actor role="Detective Blake Kanon">Gloria Reuben</actor>
+      <actor role="Jimmy Logan">Ryan Robbins</actor>
+      <actor role="DA Jones">Philippe Brenninkmeyer</actor>
+      <actor role="Stuart Wilson">Dylan Taylor</actor>
+      <actor role="Emma">Lane Styles</actor>
+      <actor role="Judge G. Mckenna">John B. Lowe</actor>
+      <actor role="Secretary">Jessica Burleson</actor>
+    </credits>
+    <date>2014</date>
+    <icon src="https://tvwish.com/Img/Program/2616.jpg" />
+  </programme>
+  
+<programme start="20260122213600 +0000" stop="20260122231500 +0000" channel="Movies Now">
+    <title lang="en">DSC</title>
+    <desc lang="en">Talented directors provide an entertaining insight into the most intriguing stories and anecdotes concerning some of their best works.</desc>
+    <date>2013</date>
+    <icon src="https://tvwish.com/Img/Program/1992.jpg" />
+  </programme>
+  
+<programme start="20260122231500 +0000" stop="20260123003500 +0000" channel="Movies Now">
+    <title lang="en">Mune</title>
+    <desc lang="en">When a faun named Mune becomes the Guardian of the Moon, little did he had unprepared experience with the Moon and an accident that could put both the Moon and the Sun in danger, including a corrupt titan named Necross who wants the Sun for himself and placing the balance of night and day in great peril. Now with the help of a wax-child named Glim and the warrior, Sohone who also became the Sun Guardian, they go out on an exciting journey to get the Sun back and restore the Moon to their rightfu.</desc>
+    <credits>
+      <director>Alexandre Heboyan</director>
+      <actor role="Mune">Michael Gregorio</actor>
+      <actor role="Sohone">Omar Sy</actor>
+      <actor role="Cire">Izïa Higelin</actor>
+      <actor role="Le père de Mune">Patrick Préjean</actor>
+      <actor role="Leeyoon">Féodor Atkine</actor>
+      <actor role="Mox">Michel Mella</actor>
+      <actor role="Spleen">Fabrice Josso</actor>
+      <actor role="Necross (voice)">Eric Herson-Macarel</actor>
+      <actor role="Sohone (English)">Rob Lowe</actor>
+      <actor role="Leeyoon (English)">Christian Slater</actor>
+    </credits>
+    <date>2015</date>
+    <icon src="https://tvwish.com/Img/Program/488820.jpg" />
+  </programme>
+  
+<programme start="20260123003500 +0000" stop="20260123024500 +0000" channel="Movies Now">
+    <title lang="en">Blood Ties</title>
+    <desc lang="en">Two brothers, on either side of the law, face off over organized crime in Brooklyn during the 1970s.</desc>
+    <credits>
+      <director>Guillaume Canet</director>
+      <actor role="Chris Pierzynski">Clive Owen</actor>
+      <actor role="Frank">Billy Crudup</actor>
+      <actor role="Monica">Marion Cotillard</actor>
+      <actor role="Natalie">Mila Kunis</actor>
+      <actor role="Vanessa">Zoe Saldaña</actor>
+      <actor role="Anthony Scarfo">Matthias Schoenaerts</actor>
+      <actor role="Leon">James Caan</actor>
+      <actor role="Lt. Colon">Noah Emmerich</actor>
+      <actor role="Marie">Lili Taylor</actor>
+      <actor role="Mike">Domenick Lombardozzi</actor>
+    </credits>
+    <date>2013</date>
+    <icon src="https://tvwish.com/Img/Program/652519.jpg" />
+  </programme>
+  
+<programme start="20260123024500 +0000" stop="20260123041000 +0000" channel="Movies Now">
+    <title lang="en">Johnny English</title>
+    <desc lang="en">Rowan plays the eponymous lead character in a spoof spy thriller. During the course of the story we follow our hero as he attempts to single-handedly save the country from falling into the hands of a despot.</desc>
+    <credits>
+      <actor role="Johnny English">Rowan Atkinson</actor>
+      <actor role="Pascal Sauvage, the Greedy Frenchman">John Malkovich</actor>
+      <actor role="Lorna Campbell">Natalie Imbruglia</actor>
+      <actor role="Countess Alexandra - Exotic Woman">Tasha de Vasconcelos</actor>
+      <actor role="Bough, English's Sidekick">Ben Miller</actor>
+      <actor role="Agent One">Greg Wise</actor>
+      <actor role="Carlos Vendetta">Douglas McFerran</actor>
+      <actor role="Dieter Klein">Steve Nicolson</actor>
+      <actor role="Official at Funeral">Terence Harvey</actor>
+      <actor role="Prime Minister">Kevin McNally</actor>
+    </credits>
+    <date>2003</date>
+    <icon src="https://tvwish.com/Img/Program/1146.jpg" />
+  </programme>
+  
+<programme start="20260123041000 +0000" stop="20260123060000 +0000" channel="Movies Now">
+    <title lang="en">Teenage Mutant Ninja Turtles: Out of the Shadows</title>
+    <desc lang="en">After supervillain Shredder escapes custody, he joins forces with mad scientist Baxter Stockman and two dimwitted henchmen, Bebop and Rocksteady, to unleash a diabolical plan to take over the world. As the Turtles prepare to take on Shredder and his new crew, they find themselves facing an even greater evil with similar intentions: the notorious Krang.</desc>
+    <credits>
+      <director>Dave Green</director>
+      <actor role="April O'Neil">Megan Fox</actor>
+      <actor role="Casey Jones">Stephen Amell</actor>
+      <actor role="Vernon Fenwick">Will Arnett</actor>
+      <actor role="Chief Vincent">Laura Linney</actor>
+      <actor role="Leonardo">Pete Ploszek</actor>
+      <actor role="Raphael">Alan Ritchson</actor>
+      <actor role="Michelangelo">Noel Fisher</actor>
+      <actor role="Donatello">Jeremy Howard</actor>
+      <actor role="Baxter Stockman">Tyler Perry</actor>
+      <actor role="Shredder">Brian Tee</actor>
+    </credits>
+    <date>2016</date>
+    <icon src="https://tvwish.com/Img/Program/426388.jpg" />
+  </programme>
+  
+<programme start="20260123060000 +0000" stop="20260123080000 +0000" channel="Movies Now">
+    <title lang="en">Gods of Egypt</title>
+    <desc lang="en">A common thief joins a mythical god on a quest through Egypt.</desc>
+    <credits>
+      <director>Alex Proyas</director>
+      <actor role="Bek">Brenton Thwaites</actor>
+      <actor role="Horus">Nikolaj Coster-Waldau</actor>
+      <actor role="Set">Gerard Butler</actor>
+      <actor role="Zaya">Courtney Eaton</actor>
+      <actor role="Hathor">Élodie Yung</actor>
+      <actor role="Thoth">Chadwick Boseman</actor>
+      <actor role="Ra">Geoffrey Rush</actor>
+      <actor role="Anat">Abbey Lee</actor>
+      <actor role="Osiris">Bryan Brown</actor>
+      <actor role="Nephthys">Emma Booth</actor>
+    </credits>
+    <date>2016</date>
+    <icon src="https://tvwish.com/Img/Program/468934.jpg" />
+  </programme>
+  
+<programme start="20260123080000 +0000" stop="20260123094500 +0000" channel="Movies Now">
+    <title lang="en">Quantum of solace</title>
+    <desc lang="en">Quantum of Solace continues the adventures of James Bond after Casino Royale. Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.</desc>
+    <credits>
+      <actor role="James Bond">Daniel Craig</actor>
+      <actor role="Camille Montes">Olga Kurylenko</actor>
+      <actor role="Dominic Greene">Mathieu Amalric</actor>
+      <actor role="M">Judi Dench</actor>
+      <actor role="René Mathis">Giancarlo Giannini</actor>
+      <actor role="Strawberry Fields">Gemma Arterton</actor>
+      <actor role="Felix Leiter">Jeffrey Wright</actor>
+      <actor role="Gregg Beam">David Harbour</actor>
+      <actor role="Mr. White">Jesper Christensen</actor>
+      <actor role="Elvis">Anatole Taubman</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://tvwish.com/Img/Program/249.jpg" />
+  </programme>
+  
+<programme start="20260123094500 +0000" stop="20260123113500 +0000" channel="Movies Now">
+    <title lang="en">Apocalypto</title>
+    <desc lang="en">Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.</desc>
+    <credits>
+      <director>Mel Gibson</director>
+      <actor role="Jaguar Paw">Rudy Youngblood</actor>
+      <actor role="Zero Wolf">Raoul Max Trujillo</actor>
+      <actor role="Middle Eye">Gerardo Taracena</actor>
+      <actor role="Sky Flower">Iazua Larios</actor>
+      <actor role="Chilam">Antonio Monroy</actor>
+      <actor role="Mother in Law">María Isabel Díaz</actor>
+      <actor role="Seven">Dalia Hernández</actor>
+      <actor role="Blunted">Jonathan Brewer</actor>
+      <actor role="Flint Sky">Morris Birdyellowhead</actor>
+      <actor role="Turtles Run">Carlos Emilio Báez</actor>
+    </credits>
+    <date>2006</date>
+    <icon src="https://tvwish.com/Img/Program/455535.jpg" />
+  </programme>
+  
+<programme start="20260123113500 +0000" stop="20260123130000 +0000" channel="Movies Now">
+    <title lang="en">Rush Hour 3</title>
+    <desc lang="en">After a botched assassination attempt, the mismatched duo finds themselves in Paris, struggling to retrieve a precious list of names, as the murderous crime syndicate's henchmen try their best to stop.</desc>
+    <credits>
+      <actor role="Det. James Carter">Chris Tucker</actor>
+      <actor role="Chief Insp. Lee">Jackie Chan</actor>
+      <actor role="Kenji">Hiroyuki Sanada</actor>
+      <actor role="Varden Reynard">Max von Sydow</actor>
+      <actor role="George">Yvan Attal</actor>
+      <actor role="Det. Revi">Roman Polanski</actor>
+      <actor role="Soo Yung">Zhang Jingchu</actor>
+      <actor role="Capt. William Diel">Philip Baker Hall</actor>
+      <actor role="Genevieve">Noémie Lenoir</actor>
+      <actor role="Dragon Lady">Youki Kudoh</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://tvwish.com/Img/Program/3847.jpg" />
+  </programme>
+  
+<programme start="20260123130000 +0000" stop="20260123151500 +0000" channel="Movies Now">
+    <title lang="en">Spider-Man 3</title>
+    <desc lang="en">The seemingly invincible Spider-Man goes up against an all-new crop of villains – including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.</desc>
+    <credits>
+      <actor role="Peter Parker / Spider-Man">Tobey Maguire</actor>
+      <actor role="Mary Jane Watson">Kirsten Dunst</actor>
+      <actor role="Harry Osborn / New Goblin">James Franco</actor>
+      <actor role="Flint Marko / Sandman">Thomas Haden Church</actor>
+      <actor role="Eddie Brock / Venom">Topher Grace</actor>
+      <actor role="Gwen Stacy">Bryce Dallas Howard</actor>
+      <actor role="May Parker">Rosemary Harris</actor>
+      <actor role="Captain Stacey">James Cromwell</actor>
+      <actor role="J. Jonah Jameson">J.K. Simmons</actor>
+      <actor role="Mrs. Marko">Theresa Russell</actor>
+    </credits>
+    <date>2007</date>
+    <icon src="https://tvwish.com/Img/Program/1013.jpg" />
+  </programme>
+  
+<programme start="20260123151500 +0000" stop="20260123171000 +0000" channel="Movies Now">
+    <title lang="en">TRANSFORMERS: RISE OF THE BEASTS</title>
+    <desc lang="en">When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.</desc>
+    <credits>
+      <director>Steven Caple Jr.</director>
+      <actor role="Noah Diaz">Anthony Ramos</actor>
+      <actor role="Elena Wallace">Dominique Fishback</actor>
+      <actor role="Optimus Prime (voice)">Peter Cullen</actor>
+      <actor role="Optimus Primal (voice)">Ron Perlman</actor>
+      <actor role="Scourge (voice)">Peter Dinklage</actor>
+      <actor role="Airazor (voice)">Michelle Yeoh</actor>
+      <actor role="Mirage (voice)">Pete Davidson</actor>
+      <actor role="Arcee (voice)">Liza Koshy</actor>
+      <actor role="Wheeljack (voice)">Cristo Fernández</actor>
+      <actor role="Breanna Diaz">Luna Lauren Velez</actor>
+    </credits>
+    <date>2023</date>
+    <icon src="https://tvwish.com/Img/Program/696174.jpg" />
+  </programme>
+  
+<programme start="20260123171000 +0000" stop="20260123194500 +0000" channel="Movies Now">
+    <title lang="en">The Hobbit: An Unexpected Journey</title>
+    <desc lang="en">Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor role="Bilbo">Martin Freeman</actor>
+      <actor role="Gandalf">Ian McKellen</actor>
+      <actor role="Thorin">Richard Armitage</actor>
+      <actor role="Gollum">Andy Serkis</actor>
+      <actor role="Galadriel">Cate Blanchett</actor>
+      <actor role="Saruman">Christopher Lee</actor>
+      <actor role="Elrond">Hugo Weaving</actor>
+      <actor role="Necromancer">Benedict Cumberbatch</actor>
+      <actor role="Radagast">Sylvester McCoy</actor>
+      <actor role="Older Bilbo">Ian Holm</actor>
+    </credits>
+    <date>2012</date>
+    <icon src="https://tvwish.com/Img/Program/38516.jpg" />
+  </programme>
+  
+<programme start="20260122003000 +0000" stop="20260123003000 +0000" channel="MTV">
+    <title lang="en">Chillax</title>
+    <desc lang="en">MTV Kaisi Yeh Yaariyan is an Indian television series that premiered on 21 July 2014 on MTV India. MTV Kaisi Yeh Yaariyan is about a successful music band Fab5 at S.P.A.C.E academy and two ...</desc>
+    <date>2014</date>
+    <icon src="https://tvwish.com/Img/Program/399608.jfif" />
+  </programme>
+  
+<programme start="20260123003000 +0000" stop="20260124001000 +0000" channel="MTV">
+    <title lang="en">Chillax</title>
+    <desc lang="en">MTV Kaisi Yeh Yaariyan is an Indian television series that premiered on 21 July 2014 on MTV India. MTV Kaisi Yeh Yaariyan is about a successful music band Fab5 at S.P.A.C.E academy and two ...</desc>
+    <date>2014</date>
+    <icon src="https://tvwish.com/Img/Program/399608.jfif" />
+  </programme>
+  
+<programme start="20260124001000 +0000" stop="20260124110000 +0000" channel="MTV">
+    <title lang="en">Roadies BTS</title>
+    <desc lang="en">Roadies BTS.</desc>
+    <date>2008</date>
+    <icon src="https://tvwish.com/Img/Program/399607.jpg" />
+  </programme>
+  
 <programme start="20260122023000 +0000" stop="20260122070000 +0000" channel="The Q India">
     <title lang="en">Jadui Nagari</title>
     <desc lang="en">Animated stories that teach us how to live our lives. Stories for the entire family, which explain that while being greedy leads to your downfall, working hard and honestly is rewarding. Also, if we scheme against others, we ourselves fall into that trap. Such values and more, which are necessary to be passed on from parents to the child.</desc>
@@ -33410,7 +33857,7 @@
     <episode-num system="onscreen">S1 E1906</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260122211500 +0530" stop="20260122230000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260122211500 +0530" stop="20260122230000 +0530">
     <title lang="en">Live - Gujarat Giants vs. UP Warriorz; TATA WPL</title>
     <desc lang="en">Talented cricket teams compete against each other in the Women's Premier League in order to emerge victorious and win the title.</desc>
     <category lang="en">Sport</category>
@@ -33418,7 +33865,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24149540_b_h9_ah.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260122230000 +0530" stop="20260122233000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260122230000 +0530" stop="20260122233000 +0530">
     <title lang="en">Live - TATA WPL 2026; Match Centre Live Post Show</title>
     <desc lang="en">Sports analysts and experts discuss and analyse the performance, strategies and matches from a cricket tournament, live.</desc>
     <category lang="en">Sport</category>
@@ -33426,7 +33873,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p28678572_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260122233000 +0530" stop="20260123000000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260122233000 +0530" stop="20260123000000 +0530">
     <title lang="en">Gujarat Giants v UP Warriorz; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33434,7 +33881,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123000000 +0530" stop="20260123003000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123000000 +0530" stop="20260123003000 +0530">
     <title lang="en">1st T20I: India v New Zealand; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33442,7 +33889,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123003000 +0530" stop="20260123004500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123003000 +0530" stop="20260123004500 +0530">
     <title lang="en">Sunrisers Eastern Cape v MI Cape Town; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33450,7 +33897,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123004500 +0530" stop="20260123010000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123004500 +0530" stop="20260123010000 +0530">
     <title lang="en">Qualifier 1: Sunrisers Eastern Cape v Pretoria Capitals; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33458,7 +33905,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123010000 +0530" stop="20260123013000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123010000 +0530" stop="20260123013000 +0530">
     <title lang="en">Gujarat Giants v UP Warriorz; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33466,7 +33913,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123013000 +0530" stop="20260123014500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123013000 +0530" stop="20260123014500 +0530">
     <title lang="en">Tata Ipl 2023: CSK vs RR - 17th Match; Cricket Highlights</title>
     <desc lang="en">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33474,7 +33921,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123014500 +0530" stop="20260123020000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123014500 +0530" stop="20260123020000 +0530">
     <title lang="en">Tata Ipl 2023: MI vs GT - 57th Match; Cricket Highlights</title>
     <desc lang="en">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33482,7 +33929,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123020000 +0530" stop="20260123023000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123020000 +0530" stop="20260123023000 +0530">
     <title lang="en">1st T20: India v South Africa; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33490,7 +33937,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123023000 +0530" stop="20260123024500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123023000 +0530" stop="20260123024500 +0530">
     <title lang="en">Sunrisers Eastern Cape v MI Cape Town; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33498,7 +33945,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123024500 +0530" stop="20260123030000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123024500 +0530" stop="20260123030000 +0530">
     <title lang="en">Qualifier 1: Sunrisers Eastern Cape v Pretoria Capitals; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33506,7 +33953,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123030000 +0530" stop="20260123033000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123030000 +0530" stop="20260123033000 +0530">
     <title lang="en">Gujarat Giants v UP Warriorz; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33514,7 +33961,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123033000 +0530" stop="20260123034500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123033000 +0530" stop="20260123034500 +0530">
     <title lang="en">Tata Ipl 2023: MI vs GT - 57th Match; Cricket Highlights</title>
     <desc lang="en">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33522,7 +33969,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123034500 +0530" stop="20260123040000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123034500 +0530" stop="20260123040000 +0530">
     <title lang="en">Tata Ipl 2024: PK vs DC - 2nd Match; Cricket Highlights</title>
     <desc lang="en">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33530,7 +33977,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123040000 +0530" stop="20260123043000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123040000 +0530" stop="20260123043000 +0530">
     <title lang="en">5th T20: India vs. South Africa; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33538,7 +33985,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123043000 +0530" stop="20260123044500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123043000 +0530" stop="20260123044500 +0530">
     <title lang="en">Sunrisers Eastern Cape v MI Cape Town; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33546,7 +33993,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123044500 +0530" stop="20260123050000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123044500 +0530" stop="20260123050000 +0530">
     <title lang="en">Qualifier 1: Sunrisers Eastern Cape v Pretoria Capitals; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33554,7 +34001,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123050000 +0530" stop="20260123053000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123050000 +0530" stop="20260123053000 +0530">
     <title lang="en">Gujarat Giants v UP Warriorz; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33562,7 +34009,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123053000 +0530" stop="20260123054500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123053000 +0530" stop="20260123054500 +0530">
     <title lang="en">Tata Ipl 2024: PK vs DC - 2nd Match; Cricket Highlights</title>
     <desc lang="en">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33570,7 +34017,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123054500 +0530" stop="20260123060000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123054500 +0530" stop="20260123060000 +0530">
     <title lang="en">Tata Ipl 2024: RCB vs CSK - 68th Match; Cricket Highlights</title>
     <desc lang="en">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33578,15 +34025,14 @@
     <icon src="https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123060000 +0530" stop="20260123061500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123060000 +0530" stop="20260123061500 +0530">
     <title lang="en">1st T20I IND v ENG; IDFC FIRST Bank IND vs ENG T20I 2025 Highlights</title>
     <desc lang="en">Highlights of the match between India and England in the 2025 T20 International, wherein professional cricket teams compete to win.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p29374322_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
-<programme channel="STAR SPORTS 1" start="20260123061500 +0530" stop="20260123063000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123061500 +0530" stop="20260123063000 +0530">
     <title lang="en">ICC World T20 Highlights</title>
     <desc lang="en">Highlighting the major moments from the ICC T20 world cup. The presenter covers everything from the soaring sixes to game changing wickets.</desc>
     <category lang="en">Sport</category>
@@ -33594,7 +34040,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p12678475_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123063000 +0530" stop="20260123070000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123063000 +0530" stop="20260123070000 +0530">
     <title lang="en">Gujarat Giants v UP Warriorz; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33602,7 +34048,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123070000 +0530" stop="20260123073000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123070000 +0530" stop="20260123073000 +0530">
     <title lang="en">ICC World T20 Highlights</title>
     <desc lang="en">Highlighting the major moments from the ICC T20 world cup. The presenter covers everything from the soaring sixes to game changing wickets.</desc>
     <category lang="en">Sport</category>
@@ -33610,7 +34056,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p12678475_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123073000 +0530" stop="20260123074500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123073000 +0530" stop="20260123074500 +0530">
     <title lang="en">Eliminator: Joburg Super Kings v Paarl Royals; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33618,7 +34064,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123074500 +0530" stop="20260123080000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123074500 +0530" stop="20260123080000 +0530">
     <title lang="en">Qualifier: Perth Scorchers vs Sydney Sixers; Big Bash League Highlights</title>
     <desc lang="en">Professional cricket players compete against each other to emerge victorious and win the trophy of the 2025 Big Bash League.</desc>
     <category lang="en">Sport</category>
@@ -33626,7 +34072,7 @@
     <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123080000 +0530" stop="20260123081500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123080000 +0530" stop="20260123081500 +0530">
     <title lang="en">TATA WPL Today</title>
     <desc lang="en">This is Sport - Sport Category.</desc>
     <category lang="en">Sport</category>
@@ -33634,7 +34080,7 @@
     <episode-num system="onscreen">E12</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123081500 +0530" stop="20260123083000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123081500 +0530" stop="20260123083000 +0530">
     <title lang="en">Gujarat Giants v UP Warriorz; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33642,7 +34088,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123083000 +0530" stop="20260123090000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123083000 +0530" stop="20260123090000 +0530">
     <title lang="en">1st T20I: India v New Zealand; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33650,7 +34096,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123090000 +0530" stop="20260123091500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123090000 +0530" stop="20260123091500 +0530">
     <title lang="en">Follow The Blues</title>
     <desc lang="en">The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
     <category lang="en">Sport</category>
@@ -33659,7 +34105,7 @@
     <episode-num system="onscreen">S2026 E19</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123091500 +0530" stop="20260123093000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123091500 +0530" stop="20260123093000 +0530">
     <title lang="en">1st ODI: India v New Zealand; One-Day International Cricket</title>
     <desc lang="en">An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
     <category lang="en">Sport</category>
@@ -33667,7 +34113,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123093000 +0530" stop="20260123094500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123093000 +0530" stop="20260123094500 +0530">
     <title lang="en">Group D: South Africa v West Indies; ICC Under-19 World Cup Cricket</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33675,7 +34121,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p9360274_b_h9_aj.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123094500 +0530" stop="20260123100000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123094500 +0530" stop="20260123100000 +0530">
     <title lang="en">3rd T20- India vs. South Africa; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33683,7 +34129,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123100000 +0530" stop="20260123103000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123100000 +0530" stop="20260123103000 +0530">
     <title lang="en">2026 T20 World Cup; The Greatest Matches</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33691,7 +34137,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p25725162_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123103000 +0530" stop="20260123104500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123103000 +0530" stop="20260123104500 +0530">
     <title lang="en">Eliminator: Joburg Super Kings v Paarl Royals; SA20</title>
     <desc lang="en">Six professional teams from South African cities compete in the SA20, a Twenty20 cricket tournament, to emerge victorious and win the coveted title.</desc>
     <category lang="en">Sport</category>
@@ -33699,7 +34145,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p23639469_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123104500 +0530" stop="20260123110000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123104500 +0530" stop="20260123110000 +0530">
     <title lang="en">Qualifier: Perth Scorchers vs Sydney Sixers; Big Bash League Highlights</title>
     <desc lang="en">Professional cricket players compete against each other to emerge victorious and win the trophy of the 2025 Big Bash League.</desc>
     <category lang="en">Sport</category>
@@ -33707,7 +34153,7 @@
     <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123110000 +0530" stop="20260123113000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123110000 +0530" stop="20260123113000 +0530">
     <title lang="en">India vs. New Zealand; Cricket Countdown</title>
     <desc lang="en">A countdown of some of the best moments from various professional cricket matches played around the world by various teams.</desc>
     <category lang="en">Sport</category>
@@ -33715,7 +34161,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p21216648_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123113000 +0530" stop="20260123120000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123113000 +0530" stop="20260123120000 +0530">
     <title lang="en">1st T20I: India v New Zealand; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33723,7 +34169,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123120000 +0530" stop="20260123121500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123120000 +0530" stop="20260123121500 +0530">
     <title lang="en">Follow The Blues</title>
     <desc lang="en">The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
     <category lang="en">Sport</category>
@@ -33732,7 +34178,7 @@
     <episode-num system="onscreen">S2026 E19</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123121500 +0530" stop="20260123123000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123121500 +0530" stop="20260123123000 +0530">
     <title lang="en">5th T20: India vs. South Africa; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33740,7 +34186,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123123000 +0530" stop="20260123125500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123123000 +0530" stop="20260123125500 +0530">
     <title lang="en">Cheeky Singles</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33748,7 +34194,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p30849194_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123125500 +0530" stop="20260123130000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123125500 +0530" stop="20260123130000 +0530">
     <title lang="en">Cricket Fillers</title>
     <desc lang="en">A compilation of memorable moments from prestigious cricket matches featuring incredible performances of renowned cricketers.</desc>
     <category lang="en">TV Show</category>
@@ -33756,21 +34202,21 @@
     <icon src="https://dtil.tmsimg.com/assets/p17713096_b_h9_ab.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123130000 +0530" stop="20260123131500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123130000 +0530" stop="20260123131500 +0530">
     <title lang="en">T20 Titans - ICC T20 World Cup 2026</title>
     <desc lang="en">This is Sport - Sport Category.</desc>
     <category lang="en">Sport</category>
     <icon src="https://dtil.tmsimg.com/assets/p32145411_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123131500 +0530" stop="20260123133000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123131500 +0530" stop="20260123133000 +0530">
     <title lang="en">T20 Titans - ICC T20 World Cup 2026</title>
     <desc lang="en">This is Sport - Sport Category.</desc>
     <category lang="en">Sport</category>
     <icon src="https://dtil.tmsimg.com/assets/p32145411_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123133000 +0530" stop="20260123134500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123133000 +0530" stop="20260123134500 +0530">
     <title lang="en">Captain Rohit's Roadmap</title>
     <desc lang="en">This is TV Show - Entertainment Category.</desc>
     <category lang="en">TV Show</category>
@@ -33779,7 +34225,7 @@
     <episode-num system="onscreen">E1</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123134500 +0530" stop="20260123140000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123134500 +0530" stop="20260123140000 +0530">
     <title lang="en">Captain Rohit's Roadmap</title>
     <desc lang="en">This is TV Show - Entertainment Category.</desc>
     <category lang="en">TV Show</category>
@@ -33788,7 +34234,7 @@
     <episode-num system="onscreen">E2</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123140000 +0530" stop="20260123141500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123140000 +0530" stop="20260123141500 +0530">
     <title lang="en">Captain Rohit's Roadmap</title>
     <desc lang="en">This is TV Show - Entertainment Category.</desc>
     <category lang="en">TV Show</category>
@@ -33797,7 +34243,7 @@
     <episode-num system="onscreen">E3</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123141500 +0530" stop="20260123143000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123141500 +0530" stop="20260123143000 +0530">
     <title lang="en">1st T20I: India v New Zealand; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33805,7 +34251,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123143000 +0530" stop="20260123144500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123143000 +0530" stop="20260123144500 +0530">
     <title lang="en">TATA WPL Today</title>
     <desc lang="en">This is Sport - Sport Category.</desc>
     <category lang="en">Sport</category>
@@ -33813,7 +34259,7 @@
     <episode-num system="onscreen">E12</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123144500 +0530" stop="20260123150000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123144500 +0530" stop="20260123150000 +0530">
     <title lang="en">Gujarat Giants v UP Warriorz; TATA WPL Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33821,7 +34267,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24110428_b_h9_af.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123150000 +0530" stop="20260123151500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123150000 +0530" stop="20260123151500 +0530">
     <title lang="en">Follow The Blues</title>
     <desc lang="en">The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
     <category lang="en">Sport</category>
@@ -33830,7 +34276,7 @@
     <episode-num system="onscreen">S2026 E19</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123151500 +0530" stop="20260123153000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123151500 +0530" stop="20260123153000 +0530">
     <title lang="en">5th T20: India vs. South Africa; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33838,7 +34284,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123153000 +0530" stop="20260123160000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123153000 +0530" stop="20260123160000 +0530">
     <title lang="en">Blueprint</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
     <category lang="en">Sport</category>
@@ -33847,7 +34293,7 @@
     <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123160000 +0530" stop="20260123163000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123160000 +0530" stop="20260123163000 +0530">
     <title lang="en">1st T20I: India v New Zealand; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33855,21 +34301,21 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123163000 +0530" stop="20260123164500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123163000 +0530" stop="20260123164500 +0530">
     <title lang="en">T20 Titans - ICC T20 World Cup 2026</title>
     <desc lang="en">This is Sport - Sport Category.</desc>
     <category lang="en">Sport</category>
     <icon src="https://dtil.tmsimg.com/assets/p32145411_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123164500 +0530" stop="20260123170000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123164500 +0530" stop="20260123170000 +0530">
     <title lang="en">T20 Titans - ICC T20 World Cup 2026</title>
     <desc lang="en">This is Sport - Sport Category.</desc>
     <category lang="en">Sport</category>
     <icon src="https://dtil.tmsimg.com/assets/p32145411_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123170000 +0530" stop="20260123171500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123170000 +0530" stop="20260123171500 +0530">
     <title lang="en">Follow The Blues</title>
     <desc lang="en">The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
     <category lang="en">Sport</category>
@@ -33878,7 +34324,7 @@
     <episode-num system="onscreen">S2026 E19</episode-num>
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123171500 +0530" stop="20260123173000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123171500 +0530" stop="20260123173000 +0530">
     <title lang="en">1st ODI: India v New Zealand; One-Day International Cricket</title>
     <desc lang="en">An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
     <category lang="en">Sport</category>
@@ -33886,7 +34332,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8509066_b_h9_ae.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123173000 +0530" stop="20260123180000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123173000 +0530" stop="20260123180000 +0530">
     <title lang="en">1st T20I: India v New Zealand; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
     <category lang="en">Sport</category>
@@ -33894,7 +34340,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123180000 +0530" stop="20260123185000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123180000 +0530" stop="20260123185000 +0530">
     <title lang="en">Live - India vs. New Zealand T20; Cricket Pre Show</title>
     <desc lang="en">Experts discuss the possible team and player strategies and predict the outcomes of the matches played during various cricket tournaments.</desc>
     <category lang="en">Sport</category>
@@ -33902,7 +34348,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p27485133_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123185000 +0530" stop="20260123203000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123185000 +0530" stop="20260123203000 +0530">
     <title lang="en">Live - 2nd T20I: India vs. New Zealand; T20 Cricket</title>
     <desc lang="en">A comprehensive and detailed insight into Twenty20 cricket, where professional cricketing teams from across the globe compete to win.</desc>
     <category lang="en">Sport</category>
@@ -33910,7 +34356,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8148802_b_h9_ag.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123203000 +0530" stop="20260123204500 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123203000 +0530" stop="20260123204500 +0530">
     <title lang="en">Live - T20 International - India vs. New Zealand; Cricket Mid Show</title>
     <desc lang="en">Experts discuss the possible team and player strategies and predict the outcomes of the matches played during various cricket tournaments.</desc>
     <category lang="en">Sport</category>
@@ -33918,7 +34364,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p28998498_b_h9_aa.jpg?lock=880x660" />
   </programme>
   
-<programme channel="STAR SPORTS 1" start="20260123204500 +0530" stop="20260123223000 +0530">
+<programme channel="STAR SPORTS 1 HD" start="20260123204500 +0530" stop="20260123223000 +0530">
     <title lang="en">Live - 2nd T20I: India vs. New Zealand; T20 Cricket</title>
     <desc lang="en">A comprehensive and detailed insight into Twenty20 cricket, where professional cricketing teams from across the globe compete to win.</desc>
     <category lang="en">Sport</category>
@@ -54733,6 +55179,348 @@
     <category lang="en">Film</category>
     <category lang="en">Biography/Biopic</category>
     <icon src="https://dtil.tmsimg.com/assets/p10771227_v_h9_aa.jpg?lock=880x660" />
+  </programme>
+  
+<programme channel="MTV" start="20260122210000 +0530" stop="20260122221500 +0530">
+    <title lang="en">Roadies</title>
+    <desc lang="en">The loyalties of the alliances made are put to the test and betrayal becomes a part of the game as players decide to change their game strategy.</desc>
+    <credits>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Rannvijay Singh</actor>
+      <actor>Gurbani</actor>
+      <actor>Gaelyn Mendonca</actor>
+      <actor>Sonu Sood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660" />
+    <episode-num system="onscreen">S20 E25</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260122221500 +0530" stop="20260123000000 +0530">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women go through various obstacles, challenges, and intense heartbreaks to find their perfect partner.</desc>
+    <credits>
+      <actor>Rannvijay Singha</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Nikhil Chinapa</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p3632895_b_h9_ab.jpg?lock=880x660" />
+    <episode-num system="onscreen">S16 E4</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123000000 +0530" stop="20260123003000 +0530">
+    <title lang="en">Kaisi Yeh Yaariaan</title>
+    <desc lang="en">After visiting Nandini at her house, Manik compels her to sign a binding contract to become his spot girl. Consequently, Nandini is displeased.</desc>
+    <credits>
+      <actor>Parth Samthaan</actor>
+      <actor>Niti Taylor</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Veebha Anand</actor>
+      <actor>Utkarsh Gupta</actor>
+      <actor>Krissann Barretto</actor>
+      <actor>Charlie Chauhan</actor>
+      <actor>Abhishek Malik</actor>
+      <director>Anmol Mahajan</director>
+      <director>Vihaan Kalsotra</director>
+      <director>Shashank Bharadwaj</director>
+      <director>Ashima Chibber</director>
+      <director>Aijaz Alladitta Shaikh</director>
+      <director>Rajeev Raj</director>
+      <director>Lalit Mohan</director>
+      <director>Vikas Gupta</director>
+      <producer>Akhauri P. Sinha</producer>
+      <producer>Sameer Gogate</producer>
+      <producer>Kamaal R Khan</producer>
+      <producer>Pulkit Gupta</producer>
+      <producer>Siddharth Hirwe</producer>
+      <producer>Neeraj Dhingra</producer>
+      <producer>Swati Saha</producer>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="https://dtil.tmsimg.com/assets/p12002362_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123003000 +0530" stop="20260123020000 +0530">
+    <title lang="en">Night Out</title>
+    <desc lang="en">A compilation of the greatest foot-tapping hits to sing along to are played back to back in order to entertain the audience.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://dtil.tmsimg.com/assets/p13802744_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  
+<programme channel="MTV" start="20260123020000 +0530" stop="20260123033000 +0530">
+    <title lang="en">Roadies</title>
+    <desc lang="en">As the competition intensifies, alliances begin to fracture under mounting pressure. Meanwhile, a mysterious envelope introduces an unexpected twist.</desc>
+    <credits>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Rannvijay Singh</actor>
+      <actor>Gurbani</actor>
+      <actor>Gaelyn Mendonca</actor>
+      <actor>Sonu Sood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660" />
+    <episode-num system="onscreen">S20 E29</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123033000 +0530" stop="20260123050000 +0530">
+    <title lang="en">Roadies</title>
+    <desc lang="en">The contestants compete in the season's first general knowledge task. Further, Prince and Elvish engage in a heated argument.</desc>
+    <credits>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Rannvijay Singh</actor>
+      <actor>Gurbani</actor>
+      <actor>Gaelyn Mendonca</actor>
+      <actor>Sonu Sood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660" />
+    <episode-num system="onscreen">S20 E30</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123050000 +0530" stop="20260123060000 +0530">
+    <title lang="en">MTV Chillax</title>
+    <desc lang="en">A comprehensive compilation of some of the melodious and soulful songs, composed by various talented artists, is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30076019_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  
+<programme channel="MTV" start="20260123060000 +0530" stop="20260123070000 +0530">
+    <title lang="en">MTV Chillax</title>
+    <desc lang="en">A comprehensive compilation of some of the melodious and soulful songs, composed by various talented artists, is played back-to-back.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30076019_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  
+<programme channel="MTV" start="20260123070000 +0530" stop="20260123110000 +0530">
+    <title lang="en">Pump Up Mornings</title>
+    <desc lang="en">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://dtil.tmsimg.com/assets/p13798836_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  
+<programme channel="MTV" start="20260123110000 +0530" stop="20260123113000 +0530">
+    <title lang="en">Kaisi Yeh Yaariaan</title>
+    <desc lang="en">After visiting Nandini at her house, Manik compels her to sign a binding contract to become his spot girl. Consequently, Nandini is displeased.</desc>
+    <credits>
+      <actor>Parth Samthaan</actor>
+      <actor>Niti Taylor</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Veebha Anand</actor>
+      <actor>Utkarsh Gupta</actor>
+      <actor>Krissann Barretto</actor>
+      <actor>Charlie Chauhan</actor>
+      <actor>Abhishek Malik</actor>
+      <director>Anmol Mahajan</director>
+      <director>Vihaan Kalsotra</director>
+      <director>Shashank Bharadwaj</director>
+      <director>Ashima Chibber</director>
+      <director>Aijaz Alladitta Shaikh</director>
+      <director>Rajeev Raj</director>
+      <director>Lalit Mohan</director>
+      <director>Vikas Gupta</director>
+      <producer>Akhauri P. Sinha</producer>
+      <producer>Sameer Gogate</producer>
+      <producer>Kamaal R Khan</producer>
+      <producer>Pulkit Gupta</producer>
+      <producer>Siddharth Hirwe</producer>
+      <producer>Neeraj Dhingra</producer>
+      <producer>Swati Saha</producer>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="https://dtil.tmsimg.com/assets/p12002362_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123113000 +0530" stop="20260123130000 +0530">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women go through various obstacles, challenges, and intense heartbreaks to find their perfect partner.</desc>
+    <credits>
+      <actor>Rannvijay Singha</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Nikhil Chinapa</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p3632895_b_h9_ab.jpg?lock=880x660" />
+    <episode-num system="onscreen">S16 E6</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123130000 +0530" stop="20260123143000 +0530">
+    <title lang="en">Roadies</title>
+    <desc lang="en">The contestants compete with each other, attempting to survive a challenging task. Later, the ensuing team confrontations have an impact on alliances.</desc>
+    <credits>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Rannvijay Singh</actor>
+      <actor>Gurbani</actor>
+      <actor>Gaelyn Mendonca</actor>
+      <actor>Sonu Sood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660" />
+    <episode-num system="onscreen">S20 E28</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123143000 +0530" stop="20260123153000 +0530">
+    <title lang="en">Roadies</title>
+    <desc lang="en">The contestants compete in the season's first general knowledge task. Further, Prince and Elvish engage in a heated argument.</desc>
+    <credits>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Rannvijay Singh</actor>
+      <actor>Gurbani</actor>
+      <actor>Gaelyn Mendonca</actor>
+      <actor>Sonu Sood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660" />
+    <episode-num system="onscreen">S20 E30</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123153000 +0530" stop="20260123160000 +0530">
+    <title lang="en">Kaisi Yeh Yaariaan</title>
+    <desc lang="en">Nandini is invited to the FAB5's Friendship Day party by Manik which leaves her thrilled. However, she is unaware of surprises awaiting her.</desc>
+    <credits>
+      <actor>Parth Samthaan</actor>
+      <actor>Niti Taylor</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Veebha Anand</actor>
+      <actor>Utkarsh Gupta</actor>
+      <actor>Krissann Barretto</actor>
+      <actor>Charlie Chauhan</actor>
+      <actor>Abhishek Malik</actor>
+      <director>Anmol Mahajan</director>
+      <director>Vihaan Kalsotra</director>
+      <director>Shashank Bharadwaj</director>
+      <director>Ashima Chibber</director>
+      <director>Aijaz Alladitta Shaikh</director>
+      <director>Rajeev Raj</director>
+      <director>Lalit Mohan</director>
+      <director>Vikas Gupta</director>
+      <producer>Akhauri P. Sinha</producer>
+      <producer>Sameer Gogate</producer>
+      <producer>Kamaal R Khan</producer>
+      <producer>Pulkit Gupta</producer>
+      <producer>Siddharth Hirwe</producer>
+      <producer>Neeraj Dhingra</producer>
+      <producer>Swati Saha</producer>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="https://dtil.tmsimg.com/assets/p12002362_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123160000 +0530" stop="20260123173000 +0530">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women go through various obstacles, challenges, and intense heartbreaks to find their perfect partner.</desc>
+    <credits>
+      <actor>Rannvijay Singha</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Nikhil Chinapa</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p3632895_b_h9_ab.jpg?lock=880x660" />
+    <episode-num system="onscreen">S16 E6</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123173000 +0530" stop="20260123180000 +0530">
+    <title lang="en">Kaisi Yeh Yaariaan</title>
+    <desc lang="en">After Manik meets with Nandini to highlight rules in the contract that demand strict adherence, she feels mistreated by him.</desc>
+    <credits>
+      <actor>Parth Samthaan</actor>
+      <actor>Niti Taylor</actor>
+      <actor>Ayaz Ahmed</actor>
+      <actor>Veebha Anand</actor>
+      <actor>Utkarsh Gupta</actor>
+      <actor>Krissann Barretto</actor>
+      <actor>Charlie Chauhan</actor>
+      <actor>Abhishek Malik</actor>
+      <director>Anmol Mahajan</director>
+      <director>Vihaan Kalsotra</director>
+      <director>Shashank Bharadwaj</director>
+      <director>Ashima Chibber</director>
+      <director>Aijaz Alladitta Shaikh</director>
+      <director>Rajeev Raj</director>
+      <director>Lalit Mohan</director>
+      <director>Vikas Gupta</director>
+      <producer>Akhauri P. Sinha</producer>
+      <producer>Sameer Gogate</producer>
+      <producer>Kamaal R Khan</producer>
+      <producer>Pulkit Gupta</producer>
+      <producer>Siddharth Hirwe</producer>
+      <producer>Neeraj Dhingra</producer>
+      <producer>Swati Saha</producer>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="https://dtil.tmsimg.com/assets/p12002362_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123180000 +0530" stop="20260123190000 +0530">
+    <title lang="en">Roadies</title>
+    <desc lang="en">Abhirup Kadam passionately advocates for nature preservation in the audition round with enthusiastic support from Shiv Thakare.</desc>
+    <credits>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Rannvijay Singh</actor>
+      <actor>Gurbani</actor>
+      <actor>Gaelyn Mendonca</actor>
+      <actor>Sonu Sood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27749474_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="onscreen">S19 E6</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123190000 +0530" stop="20260123204000 +0530">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women go through various obstacles, challenges, and intense heartbreaks to find their perfect partner.</desc>
+    <credits>
+      <actor>Rannvijay Singha</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Nikhil Chinapa</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p3632895_b_h9_ab.jpg?lock=880x660" />
+    <episode-num system="onscreen">S16 E7</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123204000 +0530" stop="20260123220000 +0530">
+    <title lang="en">Roadies</title>
+    <desc lang="en">Participants, selected from different parts of the country via auditions, compete against each other in various tasks to win the grand prize.</desc>
+    <credits>
+      <actor>Cyrus Sahukar</actor>
+      <actor>Rannvijay Singh</actor>
+      <actor>Gurbani</actor>
+      <actor>Gaelyn Mendonca</actor>
+      <actor>Sonu Sood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25117854_b_h9_ac.jpg?lock=880x660" />
+    <episode-num system="onscreen">S20 E26</episode-num>
+  </programme>
+  
+<programme channel="MTV" start="20260123220000 +0530" stop="20260123233000 +0530">
+    <title lang="en">Splitsvilla</title>
+    <desc lang="en">Young men and women go through various obstacles, challenges, and intense heartbreaks to find their perfect partner.</desc>
+    <credits>
+      <actor>Rannvijay Singha</actor>
+      <actor>Sunny Leone</actor>
+      <actor>Nikhil Chinapa</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p3632895_b_h9_ab.jpg?lock=880x660" />
+    <episode-num system="onscreen">S16 E7</episode-num>
   </programme>
   
 <programme channel="NAT GEO WILD HD" start="20260122220000 +0530" stop="20260122224400 +0530">
