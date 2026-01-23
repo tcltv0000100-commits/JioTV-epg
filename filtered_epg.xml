@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg_generator" date="20260123044407 +0000">
+<tv generator-info-name="filtered_epg_generator" date="20260123045244 +0000">
 <channel id="Star Life">
     <display-name lang="sq">Star Life</display-name>
     <icon src="https://vimg.ipko.tv/logo/color/starlife.png" />
@@ -161,6 +161,11 @@
     <url>http://www.tvwish.com</url>
   </channel>
   
+<channel id="Star Gold">
+    <display-name lang="en">Star Gold</display-name>
+    <url>http://www.tvwish.com</url>
+  </channel>
+  
 <channel id="MTV">
     <display-name lang="en">MTV</display-name>
     <icon src="https://tvwish.com/Img/Channel/105.png" />
@@ -221,9 +226,8 @@
     <url>http://www.tvwish.com</url>
   </channel>
   
-<channel id="Goldmines Bollywood">
-    <display-name lang="en">Goldmines Bollywood</display-name>
-    <icon src="https://tvwish.com/Img/Channel/1568.png" />
+<channel id="Goldmines">
+    <display-name lang="en">Goldmines</display-name>
     <url>http://www.tvwish.com</url>
   </channel>
   
