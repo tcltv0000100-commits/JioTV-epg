@@ -6,219 +6,206 @@ SOURCE_GZ = "epg_ripper_ALL_SOURCES1.gz"
 OUTPUT_XML = "filtered_epg.xml"
 OUTPUT_GZ = "filtered_epg.xml.gz"
 
-# ✅ Your exact channel IDs (as in source)
-CHANNELS = {
-    "9X.Jalwa.in",
-    "9X.JHAKAAS.in",
-    "9XM.in",
-    "9X.TASHAN.in",
-    "AAJ.TAK.in",
-    "and.Flix.HD.in",
-    "and.PICTURES.HD.in",
-    "and.PRIVE.HD.in",
-    "and.TV.HD.in",
-    "and.xplorHD.in",
-    "ANIMAL.PLANET.HD.WORLD.in",
-    "B4U.KADAK.in",
-    "B4U.Movies.in",
-    "B4U.MUSIC.in",
-    "BIG.MAGIC.in",
-    "CARTOON.NETWORK.in",
-    "CN.HD+.English.in",
-    "Colors.Cineplex.HD.in",
-    "COLORS.CINEPLEX.SUPERHITS.in",
-    "COLORS.HD.in",
-    "COLORS.INFINITY.HD.in",
-    "COLORS.RISHTEY.in",
-    "COLORS.SUPER.in",
-    "Dangal.2.in",
-    "DANGAL.in",
-    "DD.Sports.in",
-    "DHOOM.MUSIC.in",
-    "DISCOVERY.HD.WORLD.in",
-    "DISCOVERY.KIDS.in",
-    "Discovery.Science.in",
-    "Discovery.Turbo.in",
-    "DISNEY.CHANNEL.in",
-    "DISNEY.JUNIOR.in",
-    "EUROSPORTS.HD.in",
-    "HISTORY.TV18.HD.in",
-    "HUNGAMA.in",
-    "INDIA.TV.in",
-    "Investigation.Discovery.in",
-    "MAX.HD.in",
-    "MN+.HD.in",
-    "MNX.HD.in",
-    "Movies.Now.HD.in",
-    "Movies.Now.in",
-    "MTV.HD.in",
-    "MTV.in",
-    "NAT.GEO.WILD.HD.in",
-    "NATIONAL.GEOGRAPHIC.HD.in",
-    "NICK.HD+.in",
-    "NICK.in",
-    "NICK.JR.in",
-    "POGO.in",
-    "ROMEDY.NOW.in",
-    "SAB.HD.in",
-    "SET.HD.in",
-    "Showbox.in",
-    "SONIC.NICKELODEON.in",
-    "SONY.BBC.EARTH.HD.in",
-    "SONY.MAX.1.in",
-    "SONY.MAX.2.in",
-    "SONY.PAL.in",
-    "SONY.PIX.HD.in",
-    "SONY.SAB.in",
-    "SONY.SPORTS.TEN.1.HD.in",
-    "SONY.SPORTS.TEN.2.HD.in",
-    "SONY.SPORTS.TEN.3.HD.in",
-    "SONY.SPORTS.TEN.5.HD.in",
-    "SONY.WAH.in",
-    "Sony.yay.in",
-    "STAR.BHARAT.HD.in",
-    "Star.Gold.2.HD.in",
-    "Star.Gold.in",
-    "STAR.GOLD.HD.in",
-    "STAR.GOLD.ROMANCE.in",
-    "Star.Gold.Select.HD.in",
-    "STAR.GOLD.THRILLS.in",
-    "STAR.MOVIES.HD.in",
-    "STAR.MOVIES.SELECT.HD.in",
-    "STAR.PLUS.HD.in",
-    "STAR.SPORTS.1.HD.HINDI.in",
-    "STAR.SPORTS.1.HD.in",
-    "STAR.SPORTS.2.HD.in",
-    "STAR.SPORTS.2.HINDI.HD.in",
-    "STAR.SPORTS.3.in",
-    "Star.Sports.Khel.in",
-    "STAR.SPORTS.SELECT.1.HD.in",
-    "STAR.SPORTS.SELECT.2.HD.in",
-    "STAR.UTSAV.in",
-    "STAR.UTSAV.MOVIES.in",
-    "TLC.HD.in",
-    "TRAVEL.XP.(HD).in",
-    "TV9.KANNADA.in",
-    "TV9.MARATHI.in",
-    "ZEE.ACTION.in",
-    "ZEE.ANMOL.CINEMA.2.in",
-    "ZEE.ANMOL.CINEMA.in",
-    "ZEE.ANMOL.in",
-    "ZEE.Bollywood.in",
-    "ZEE.CINEMA.HD.in",
-    "ZEE.CLASSIC.in",
-    "ZEE.TV.HD.in",
-    "ZING.in",
-    "ZOOM.in",
-    "SkySp.Cricket.uk",
-    "Astro.Cricket.hk",
-    "FoxCricket.au",
-    "Willow.Cricket.HD.us2",
-    "Willow.Xtra.us2",
-    "SuperSport.School.HD.za",
-    "Mastiii.in",
-    "Music.India.in",
-    "Star.Sports.First.in",
-    "Food.Food.in",
-    "Baby.TV.English.(GB,EN).no",
-    "Star.Life.al",
-    "The.Q.India.in",
-    "Goldmines.in",
-    "Haryana.Beats.in",
-    "VH1.HD.us2",
-    "Bollywood.HD.pl",
-    "Sports.18.2.in",
-}
+# ==============================
+# ✅ CHANNEL LIST (PLAIN FORMAT)
+# channel [space] logo_url(optional)
+# ==============================
 
-def clean_channel_id(source_id: str) -> str:
-    """
-    Convert source ID to display-style ID:
-      DD.Bangla.in -> DD Bangla
-      SONY.MAX.1.in -> SONY MAX 1
-      ABC.NEWS.us2 -> ABC NEWS
-    """
-    s = source_id.strip()
+CHANNELS_TEXT = """
+9x.jalwa.in
+9x.jhakaas.in
+9xm.in
+9x.tashan.in
+aaj.tak.in
+and.flix.hd.in
+and.pictures.hd.in
+and.prive.hd.in
+and.tv.hd.in
+and.xplorhd.in https://go4.pw/India/&explorer.png
+animal.planet.hd.world.in
+b4u.kadak.in
+b4u.movies.in
+b4u.music.in
+big.magic.in
+cartoon.network.in
+cn.hd+.english.in
+colors.cineplex.hd.in
+colors.cineplex.superhits.in
+colors.hd.in
+colors.infinity.hd.in
+colors.rishtey.in
+colors.super.in
+dangal.2.in
+dangal.in
+dd.sports.in
+dhoom.music.in
+discovery.hd.world.in
+discovery.kids.in
+discovery.science.in
+discovery.turbo.in
+disney.channel.in
+disney.junior.in
+eurosports.hd.in
+history.tv18.hd.in
+hungama.in
+india.tv.in
+investigation.discovery.in
+max.hd.in
+mn+.hd.in
+mnx.hd.in
+movies.now.in 
+movies.now.hd.in https://go4.pw/ASIA/INDIAN/MOVIESNOWHD.png
+mtv.hd.in
+mtv.in
+nat.geo.wild.hd.in
+national.geographic.hd.in
+nick.hd+.in
+nick.in
+nick.jr.in
+pogo.in
+romedy.now.in
+sab.hd.in
+set.hd.in
+showbox.in
+sonic.nickelodeon.in
+sony.bbc.earth.hd.in
+sony.max.1.in
+sony.max.2.in
+sony.pal.in
+sony.pix.hd.in
+sony.sab.in
+sony.sports.ten.1.hd.in
+sony.sports.ten.2.hd.in
+sony.sports.ten.3.hd.in
+sony.sports.ten.5.hd.in
+sony.wah.in
+sony.yay.in
+star.bharat.hd.in
+star.gold.2.hd.in https://go4.pw/India/STARGOLD2.png
+star.gold.in https://go4.pw/India/STARGOLD2.png
+star.gold.hd.in
+star.gold.romance.in
+star.gold.select.hd.in
+star.gold.thrills.in
+star.movies.hd.in
+star.movies.select.hd.in
+star.plus.hd.in
+star.sports.1.hd.hindi.in
+star.sports.1.hd.in
+star.sports.2.hd.in
+star.sports.2.hindi.hd.in
+star.sports.3.in
+star.sports.khel.in
+star.sports.select.1.hd.in
+star.sports.select.2.hd.in
+star.utsav.in
+star.utsav.movies.in
+tlc.hd.in
+travel.xp.(hd).in
+tv9.kannada.in
+tv9.marathi.in
+zee.action.in
+zee.anmol.cinema.2.in
+zee.anmol.cinema.in
+zee.anmol.in
+zee.bollywood.in
+zee.cinema.hd.in
+zee.classic.in
+zee.tv.hd.in
+zing.in
+zoom.in
+skysp.cricket.in
+astro.cricket.in
+foxcricket.in
+willow.cricket.hd.in
+willow.xtra.in
+supersport.school.hd.in
+mastiii.in
+music.india.in
+star.sports.first.in
+food.food.in
+baby.tv.english.(gb,en).in
+star.life.in
+the.q.india.in
+goldmines.in
+haryana.beats.in
+vh1.hd.in
+bollywood.hd.in
+sports.18.2.in
+"""
 
-    # suffix list (remove if exists at end)
-    suffixes = [".in", ".no", ".au",".za", ".al", ".uk", ".hk", ".pl", ".us2", ".us"]
+# ==============================
+# ✅ PARSE CHANNELS + LOGOS
+# ==============================
 
-    for suf in suffixes:
-        if s.endswith(suf):
-            s = s[:-len(suf)]
+SUFFIXES = [".in", ".uk", ".hk", ".us", ".us2", ".au", ".za", ".al", ".pl", ".no"]
+
+def clean_id(cid):
+    cid = cid.strip().lower()
+    for s in SUFFIXES:
+        if cid.endswith(s):
+            cid = cid[:-len(s)]
             break
+    return cid + ".in"
 
-    s = s.replace(".", " ")
-    s = " ".join(s.split())
-    return s
+CHANNELS = {}
+for line in CHANNELS_TEXT.splitlines():
+    if not line.strip():
+        continue
+    parts = line.split(maxsplit=1)
+    cid = clean_id(parts[0])
+    logo = parts[1].strip() if len(parts) == 2 else None
+    CHANNELS[cid] = logo
 
 
 def main():
-    kept_ids = set()      # original ids
-    id_map = {}           # original -> cleaned
-
-    kept_channels = 0
-    kept_programmes = 0
-
-    print("Reading:", SOURCE_GZ)
+    kept = set()
+    programmes = 0
 
     with open(OUTPUT_XML, "wb") as out:
         out.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
         out.write(
-            f'<tv generator-info-name="filtered_epg_generator" date="{datetime.utcnow().strftime("%Y%m%d%H%M%S +0000")}">\n'
-            .encode("utf-8")
+            f'<tv generator-info-name="filtered_epg" '
+            f'date="{datetime.utcnow().strftime("%Y%m%d%H%M%S +0000")}">\n'
+            .encode()
         )
 
         with gzip.open(SOURCE_GZ, "rb") as f:
-            context = ET.iterparse(f, events=("end",))
+            for _, elem in ET.iterparse(f, events=("end",)):
 
-            for event, elem in context:
-                tag = elem.tag
+                if elem.tag == "channel":
+                    cid = clean_id(elem.attrib.get("id", ""))
+                    if cid in CHANNELS:
+                        elem.attrib["id"] = cid
+                        kept.add(cid)
 
-                # ✅ Handle <channel>
-                if tag == "channel":
-                    ch_id = elem.attrib.get("id", "")
+                        if CHANNELS[cid]:
+                            for i in elem.findall("icon"):
+                                elem.remove(i)
+                            icon = ET.Element("icon")
+                            icon.set("src", CHANNELS[cid])
+                            elem.append(icon)
 
-                    if ch_id in CHANNELS:
-                        new_id = clean_channel_id(ch_id)
-
-                        kept_ids.add(ch_id)
-                        id_map[ch_id] = new_id
-
-                        # replace <channel id="...">
-                        elem.attrib["id"] = new_id
-
-                        out.write(ET.tostring(elem, encoding="utf-8"))
-                        out.write(b"\n")
-
-                        kept_channels += 1
-
+                        out.write(ET.tostring(elem) + b"\n")
                     elem.clear()
 
-                # ✅ Handle <programme>
-                elif tag == "programme":
-                    cid = elem.attrib.get("channel", "")
-
-                    if cid in kept_ids:
-                        # Replace programme channel="oldid" -> channel="newid"
-                        elem.attrib["channel"] = id_map.get(cid, cid)
-
-                        out.write(ET.tostring(elem, encoding="utf-8"))
-                        out.write(b"\n")
-
-                        kept_programmes += 1
-
+                elif elem.tag == "programme":
+                    cid = clean_id(elem.attrib.get("channel", ""))
+                    if cid in kept:
+                        elem.attrib["channel"] = cid
+                        out.write(ET.tostring(elem) + b"\n")
+                        programmes += 1
                     elem.clear()
 
-        out.write(b"</tv>\n")
+        out.write(b"</tv>")
 
-    # ✅ gzip output
-    with open(OUTPUT_XML, "rb") as f_in, gzip.open(OUTPUT_GZ, "wb") as f_out:
-        f_out.writelines(f_in)
+    with open(OUTPUT_XML, "rb") as fi, gzip.open(OUTPUT_GZ, "wb") as fo:
+        fo.writelines(fi)
 
-    print("✅ Saved:", OUTPUT_XML)
-    print("✅ Saved:", OUTPUT_GZ)
-    print("✅ Channels kept:", kept_channels)
-    print("✅ Programmes kept:", kept_programmes)
+    print("✅ DONE")
+    print("Channels:", len(kept))
+    print("Programmes:", programmes)
+
 
 if __name__ == "__main__":
     main()
