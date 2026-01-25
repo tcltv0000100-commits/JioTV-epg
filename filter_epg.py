@@ -80,7 +80,7 @@ sony.sports.ten.3.hd.in
 sony.sports.ten.5.hd.in
 sony.wah.in
 sony.yay.in
-star.bharat.hd.in
+star.bharat.hd.in https://go4.pw/India/_STAR BHARAT.png
 star.gold.2.hd.in https://go4.pw/India/STARGOLD2.png
 star.gold.in https://go4.pw/India/STARGOLD2.png
 star.gold.hd.in
