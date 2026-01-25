@@ -2,8 +2,16 @@ name: Update Filtered EPG Daily
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Daily 00:00 UTC (India ~ 5:30 AM)
-  workflow_dispatch:      # Manual run button enable
+    # Morning – 10:00 AM IST (04:30 UTC)
+    - cron: "30 4 * * *"
+
+    # Evening – 6:00 PM IST (12:30 UTC)
+    - cron: "30 12 * * *"
+
+    # Evening – 9:00 PM IST (15:30 UTC)
+    - cron: "30 15 * * *"
+
+  workflow_dispatch:
 
 jobs:
   update-epg:
@@ -30,7 +38,6 @@ jobs:
           ls -lh epg_ripper_ALL_SOURCES1.gz
           file epg_ripper_ALL_SOURCES1.gz
 
-          # Fail if HTML downloaded instead of gzip
           if file epg_ripper_ALL_SOURCES1.gz | grep -qi html; then
             echo "ERROR: Downloaded HTML instead of .gz"
             exit 1
@@ -46,9 +53,7 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add filtered_epg.xml filtered_epg.xml.gz || true
-
-          # Commit only if changed
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git diff --cached --quiet && exit 0
 
           git commit -m "Auto update filtered EPG"
           git push
