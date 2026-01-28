@@ -12,17 +12,17 @@ OUTPUT_GZ = "filtered_epg.xml.gz"
 # ==============================
 
 CHANNELS_TEXT = """
-9x.jalwa.in
+9x.jalwa.in http://ryzen.one/logos2/9x_jalwa.jpg
 9x.jhakaas.in
-9xm.in
+9xm.in http://ryzen.one/logos2/9Xm.jpg
 9x.tashan.in
-aaj.tak.in
-and.flix.hd.in
-and.pictures.hd.in
+aaj.tak.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/Aaj-Tak-HD.png
+and.flix.hd.in http://ryzen.one/logos2/&flixhd.jpg
+and.pictures.hd.inhttp://ryzen.one/logos2/&pictures.jpg
 and.prive.hd.in
-and.tv.hd.in
+and.tv.hd.inhttp://ryzen.one/logos2/&tvhd.jpg
 and.xplorhd.in https://go4.pw/India/&explorer.png
-animal.planet.hd.world.in
+animal.planet.hd.world.inhttp://ryzen.one/logos2/animal_planethd.jpg
 b4u.kadak.in
 b4u.movies.in
 b4u.music.in
@@ -50,7 +50,7 @@ history.tv18.hd.in
 hungama.in
 india.tv.in
 investigation.discovery.in
-max.hd.in
+max.hd.inhttp://ryzen.one/logos2/sony_maxhd.jpg
 mn+.hd.in
 mnx.hd.in
 movies.now.in 
@@ -68,37 +68,37 @@ sab.hd.in
 set.hd.in
 showbox.in
 sonic.nickelodeon.in
-sony.bbc.earth.hd.in
+sony.bbc.earth.hd.inhttp://ryzen.one/logos2/sony_bbc_earthhd.jpg
 sony.max.1.in
-sony.max.2.in
-sony.pal.in
-sony.pix.hd.in
-sony.sab.in
+sony.max.2.inhttp://ryzen.one/logos2/sony_max2.jpg
+sony.pal.inhttp://b1g.fun/logos2/sony_pal.jpg
+sony.pix.hd.inhttp://ryzen.one/logos2/sony_pixhd.jpg
+sony.sab.inhttp://ryzen.one/logos2/sony_sabhd.jpg
 sony.sports.ten.1.hd.in
 sony.sports.ten.2.hd.in
 sony.sports.ten.3.hd.in
 sony.sports.ten.5.hd.in
-sony.wah.in
+sony.wah.inhttp://ryzen.one/logos2/sony_wah.jpg
 sony.yay.in
-star.bharat.hd.in https://go4.pw/India/_STAR BHARAT.png
-star.gold.2.hd.in https://go4.pw/India/STARGOLD2.png
+star.bharat.hd.inhttp://ryzen.one/logos2/star_bharathd.jpg
+star.gold.2.hd.in http://ryzen.one/logos2/star_gold2.jpg
 star.gold.in https://go4.pw/India/STARGOLD2.png
-star.gold.hd.in
+star.gold.hd.inhttp://ryzen.one/logos2/star_goldhd.jpg
 star.gold.romance.in
 star.gold.select.hd.in
 star.gold.thrills.in
-star.movies.hd.in
-star.movies.select.hd.in
-star.plus.hd.in
+star.movies.hd.inhttp://ryzen.one/logos2/tlc_hd.jpg
+star.movies.select.hd.inhttp://ryzen.one/logos2/star_movies_selecthd.jpg
+star.plus.hd.inhttp://ryzen.one/logos2/star_plushd.jpg
 star.sports.1.hd.hindi.in
-star.sports.1.hd.in
-star.sports.2.hd.in
-star.sports.2.hindi.hd.in
-star.sports.3.in
-star.sports.khel.in
-star.sports.select.1.hd.in
-star.sports.select.2.hd.in
-star.utsav.in
+star.sports.1.hd.inhttp://ryzen.one/logos2/star_sports1hd.jpg
+star.sports.2.hd.inhttp://ryzen.one/logos2/star_sports2.jpg
+star.sports.2.hindi.hd.inhttp://ryzen.one/logos2/star_sports_select2.jpg
+star.sports.3.inhttp://ryzen.one/logos2/star_sports_3.jpg
+star.sports.khel.inhttp://ryzen.one/logos2/sports18_khel.jpg
+star.sports.select.1.hd.inhttp://ryzen.one/logos2/star_sports_select_1hd.jpg
+star.sports.select.2.hd.inhttp://ryzen.one/logos2/star_sports_select2.jpg
+star.utsav.inhttp://ryzen.one/logos2/star_utsav.jpg
 star.utsav.movies.in
 tlc.hd.in
 travel.xp.(hd).in
@@ -122,7 +122,7 @@ willow.xtra.in
 supersport.school.hd.in
 mastiii.in
 music.india.in
-star.sports.first.in
+star.sports.first.inhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBjneDJZWkUzWhrFzbHfXwnynpigT-867HEA&s
 food.food.in
 baby.tv.english.(gb,en).in
 star.life.in
