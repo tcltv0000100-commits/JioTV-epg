@@ -70,7 +70,7 @@ sonic.nickelodeon.in http://ryzen.one/logos2/nick_sonic.jpg
 sony.bbc.earth.hd.in http://ryzen.one/logos2/sony_bbc_earthhd.jpg
 sony.max.1.in
 sony.max.2.in http://ryzen.one/logos2/sony_max2.jpg
-sony.pal.in http://b1g.fun/logos2/sony_pal.jpg
+sony.pal.in http://ryzen.one/logos2/sony_pal.jpg
 sony.pix.hd.in http://ryzen.one/logos2/sony_pixhd.jpg
 sony.sab.in http://ryzen.one/logos2/sony_sabhd.jpg
 sony.sports.ten.1.hd.in http://ryzen.one/logos2/sony_ten1.jpg
