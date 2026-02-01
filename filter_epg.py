@@ -63,7 +63,7 @@ nick.in http://ryzen.one/logos2/nickhd.jpg
 nick.jr.in http://ryzen.one/logos2/nick_jr.jpg
 pogo.in http://ryzen.one/logos2/pogo.jpg
 romedy.now.in http://ryzen.one/logos2/romedy_nowhd.jpg
-sab.hd.in http://ryzen.one/logos2/sony_tvhd.jpg
+sab.hd.in http://ryzen.one/logos2/sony_sabhd.jpg
 set.hd.in http://ryzen.one/logos2/sony_tvhd.jpg
 showbox.in http://ryzen.one/logos2/showbox.jpg
 sonic.nickelodeon.in http://ryzen.one/logos2/nick_sonic.jpg
