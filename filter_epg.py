@@ -56,8 +56,8 @@ movies.now.in
 movies.now.hd.in http://ryzen.one/logos2/movies_nowhd.jpg
 mtv.hd.in http://ryzen.one/logos2/mtv+hd.jpg
 mtv.in
-nat.geo.wild.hd.in http://ryzen.one/logos2/net_geo_hindihd.jpg
-national.geographic.hd.in 
+nat.geo.wild.hd.in http://ryzen.one/logos2/nat_geo_wildhd.jpg
+national.geographic.hd.in http://ryzen.one/logos2/net_geo_hindihd.jpg
 nick.hd+.in http://ryzen.one/logos2/nick+hd.jpg
 nick.in http://ryzen.one/logos2/nickhd.jpg
 nick.jr.in http://ryzen.one/logos2/nick_jr.jpg
@@ -86,7 +86,7 @@ star.gold.hd.in http://ryzen.one/logos2/star_goldhd.jpg
 star.gold.romance.in
 star.gold.select.hd.in 
 star.gold.thrills.in 
-star.movies.hd.in http://ryzen.one/logos2/tlc_hd.jpg
+star.movies.hd.in 
 star.movies.select.hd.in http://ryzen.one/logos2/star_movies_selecthd.jpg
 star.plus.hd.in http://ryzen.one/logos2/star_plushd.jpg
 star.sports.1.hd.hindi.in 
