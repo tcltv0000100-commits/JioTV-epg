@@ -101,7 +101,7 @@ star.sports.select.2.hd.in http://ryzen.one/logos2/star_sports_select2.jpg
 star.utsav.in http://ryzen.one/logos2/star_utsav.jpg
 star.utsav.movies.in
 tlc.hd.in
-travel.xp.(hd).in
+Travelxp.HD.in
 tv9.kannada.in
 tv9.marathi.in
 zee.action.in
