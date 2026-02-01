@@ -13,84 +13,83 @@ OUTPUT_GZ = "filtered_epg.xml.gz"
 
 CHANNELS_TEXT = """
 9x.jalwa.in http://ryzen.one/logos2/9x_jalwa.jpg
-9x.jhakaas.in
+9x.jhakaas.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Bihar-Jharkhand.png
 9xm.in http://ryzen.one/logos2/9Xm.jpg
 9x.tashan.in
 aaj.tak.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/Aaj-Tak-HD.png
 and.flix.hd.in http://ryzen.one/logos2/&flixhd.jpg
-and.pictures.hd.in http://ryzen.one/logos2/&pictures.jpg
-and.prive.hd.in
+and.pictures.hd.in http://ryzen.one/logos2/&pictureshd.jpg
+and.prive.hd.in 
 and.tv.hd.in http://ryzen.one/logos2/&tvhd.jpg
 and.xplorhd.in https://go4.pw/India/&explorer.png
 animal.planet.hd.world.in http://ryzen.one/logos2/animal_planethd.jpg
-b4u.kadak.in
-b4u.movies.in
-b4u.music.in
-big.magic.in
-cartoon.network.in
-cn.hd+.english.in
-colors.cineplex.hd.in
-colors.cineplex.superhits.in
-colors.hd.in
-colors.infinity.hd.in
-colors.rishtey.in
-colors.super.in
-dangal.2.in
-dangal.in
-dd.sports.in
+b4u.kadak.in http://ryzen.one/logos2/b4u_kadak.jpg
+b4u.movies.in http://ryzen.one/logos2/b4u_movies.jpg
+b4u.music.in http://ryzen.one/logos2/b4u_music.jpg
+big.magic.in http://ryzen.one/logos2/zee_bigmagic.jpg
+cartoon.network.in http://ryzen.one/logos2/catoon_network_hd+.jpg
+cn.hd+.english.in http://ryzen.one/logos2/catoon_network_hd+.jpg
+colors.cineplex.hd.in http://ryzen.one/logos2/colors_cineplexhd.jpg
+colors.cineplex.superhits.in http://ryzen.one/logos2/colors_cineplex.jpg
+colors.hd.in http://ryzen.one/logos2/colorshd.jpg
+colors.infinity.hd.in http://ryzen.one/logos2/colors_infinityhd.jpg
+colors.rishtey.in http://ryzen.one/logos2/colors_rishtey.jpg
+colors.super.in http://ryzen.one/logos2/colors_rishtey.jpg
+dangal.2.in http://ryzen.one/logos2/dangal2.jpg
+dangal.in http://ryzen.one/logos2/dangal.jpg
+dd.sports.in http://ryzen.one/logos2/dd_sports.jpg
 dhoom.music.in
-discovery.hd.world.in
-discovery.kids.in
+discovery.hd.world.in http://ryzen.one/logos2/discovery_worldhd.jpg
+discovery.kids.in http://ryzen.one/logos2/discovery_kids.jpg
 discovery.science.in
 discovery.turbo.in
-disney.channel.in
-disney.junior.in
+disney.channel.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney.png
+disney.junior.in 
 eurosports.hd.in
-history.tv18.hd.in
+history.tv18.hd.in http://ryzen.one/logos2/history_tv18.jpg
 hungama.in
-india.tv.in
-investigation.discovery.in
+india.tv.inhttp://b1gchlogos.xyz/wp-content/uploads/2023/08/India-TV.png
 max.hd.in http://ryzen.one/logos2/sony_maxhd.jpg
-mn+.hd.in
-mnx.hd.in
+mn+.hd.in http://ryzen.one/logos2/mn+moviedhd.jpg
+mnx.hd.in http://ryzen.one/logos2/mnx_hd.jpg
 movies.now.in
-movies.now.hd.in https://go4.pw/ASIA/INDIAN/MOVIESNOWHD.png
-mtv.hd.in
+movies.now.hd.in http://ryzen.one/logos2/movies_nowhd.jpg
+mtv.hd.in http://ryzen.one/logos2/mtv+hd.jpg
 mtv.in
-nat.geo.wild.hd.in
-national.geographic.hd.in
-nick.hd+.in
-nick.in
-nick.jr.in
-pogo.in
-romedy.now.in
-sab.hd.in
-set.hd.in
-showbox.in
-sonic.nickelodeon.in
+nat.geo.wild.hd.in http://ryzen.one/logos2/net_geo_hindihd.jpg
+national.geographic.hd.in 
+nick.hd+.in http://ryzen.one/logos2/nick+hd.jpg
+nick.in http://ryzen.one/logos2/nickhd.jpg
+nick.jr.in http://ryzen.one/logos2/nick_jr.jpg
+pogo.in http://ryzen.one/logos2/pogo.jpg
+romedy.now.in http://ryzen.one/logos2/romedy_nowhd.jpg
+sab.hd.in http://ryzen.one/logos2/sony_tvhd.jpg
+set.hd.in http://ryzen.one/logos2/sony_tvhd.jpg
+showbox.in http://ryzen.one/logos2/showbox.jpg
+sonic.nickelodeon.in http://ryzen.one/logos2/nick_sonic.jpg
 sony.bbc.earth.hd.in http://ryzen.one/logos2/sony_bbc_earthhd.jpg
 sony.max.1.in
 sony.max.2.in http://ryzen.one/logos2/sony_max2.jpg
 sony.pal.in http://b1g.fun/logos2/sony_pal.jpg
 sony.pix.hd.in http://ryzen.one/logos2/sony_pixhd.jpg
 sony.sab.in http://ryzen.one/logos2/sony_sabhd.jpg
-sony.sports.ten.1.hd.in
-sony.sports.ten.2.hd.in
-sony.sports.ten.3.hd.in
-sony.sports.ten.5.hd.in
+sony.sports.ten.1.hd.in http://ryzen.one/logos2/sony_ten1.jpg
+sony.sports.ten.2.hd.in http://ryzen.one/logos2/sony_ten2.jpg
+sony.sports.ten.3.hd.in http://ryzen.one/logos2/sony_ten3.jpg
+sony.sports.ten.5.hd.in http://ryzen.one/logos2/sony_ten5.jpg
 sony.wah.in http://ryzen.one/logos2/sony_wah.jpg
-sony.yay.in
+sony.yay.in http://ryzen.one/logos2/sony_yay.jpg
 star.bharat.hd.in http://ryzen.one/logos2/star_bharathd.jpg
 star.gold.2.hd.in http://ryzen.one/logos2/star_gold2.jpg
-star.gold.in https://go4.pw/India/STARGOLD2.png
+star.gold.in http://ryzen.one/logos2/star_gold2.jpg
 star.gold.hd.in http://ryzen.one/logos2/star_goldhd.jpg
 star.gold.romance.in
-star.gold.select.hd.in
-star.gold.thrills.in
+star.gold.select.hd.in 
+star.gold.thrills.in 
 star.movies.hd.in http://ryzen.one/logos2/tlc_hd.jpg
 star.movies.select.hd.in http://ryzen.one/logos2/star_movies_selecthd.jpg
 star.plus.hd.in http://ryzen.one/logos2/star_plushd.jpg
-star.sports.1.hd.hindi.in
+star.sports.1.hd.hindi.in 
 star.sports.1.hd.in http://ryzen.one/logos2/star_sports1hd.jpg
 star.sports.2.hd.in http://ryzen.one/logos2/star_sports2.jpg
 star.sports.2.hindi.hd.in http://ryzen.one/logos2/star_sports_select2.jpg
@@ -100,38 +99,39 @@ star.sports.select.1.hd.in http://ryzen.one/logos2/star_sports_select_1hd.jpg
 star.sports.select.2.hd.in http://ryzen.one/logos2/star_sports_select2.jpg
 star.utsav.in http://ryzen.one/logos2/star_utsav.jpg
 star.utsav.movies.in
-tlc.hd.in
-Travelxp.HD.in
+tlc.hd.in http://ryzen.one/logos2/tlc_hd.jpg
+Travelxp.HD.in http://b1gchlogos.xyz/wp-content/uploads/2023/08/TravelXP4K.png
 tv9.kannada.in
 tv9.marathi.in
-zee.action.in
+zee.action.in http://ryzen.one/logos2/zee_action.jpg
 zee.anmol.cinema.2.in
-zee.anmol.cinema.in
-zee.anmol.in
-zee.bollywood.in
-zee.cinema.hd.in
-zee.classic.in
-zee.tv.hd.in
-zing.in
-zoom.in
+zee.anmol.cinema.in http://ryzen.one/logos2/zee_anmolcinema.jpg
+zee.anmol.in http://ryzen.one/logos2/zee_anmol.jpg
+zee.bollywood.in http://ryzen.one/logos2/zee_bollywood.jpg
+zee.cinema.hd.in http://ryzen.one/logos2/zee_cinema.jpg
+zee.classic.in http://ryzen.one/logos2/zee_classic.jpg
+zee.tv.hd.in http://ryzen.one/logos2/zee_tvhd.jpg
+zing.in http://ryzen.one/logos2/zing.jpg
+zoom.in http://ryzen.one/logos2/zoom.jpg
 skysp.cricket.in
-astro.cricket.in
+astro.cricket.in http://ryzen.one/logos2/astro_cricket.jpg
 foxcricket.in
-willow.cricket.hd.in
-willow.xtra.in
-supersport.school.hd.in
-mastiii.in
-music.india.in
+willow.cricket.hd.in http://ryzen.one/logos2/willowhd.jpg
+willow.xtra.in http://ryzen.one/logos2/willowxtra.jpg
+supersport.school.hd.in http://ryzen.one/logos2/supersports_cricket.jpg
+mastiii.in http://ryzen.one/logos2/mastiii.jpg
+music.india.in http://ryzen.one/logos2/music_india.jpg
 star.sports.first.in https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBjneDJZWkUzWhrFzbHfXwnynpigT-867HEA&s
-food.food.in
-baby.tv.english.(gb,en).in
-star.life.in
-the.q.india.in
-goldmines.in
-haryana.beats.in
-vh1.hd.in
-bollywood.hd.in
-sports.18.2.in
+food.food.in http://ryzen.one/logos2/food_food.jpg
+baby.tv.english.(gb,en).in http://ryzen.one/logos2/baby_tvhd.jpg
+star.life.in https://upload.wikimedia.org/wikipedia/commons/6/63/Star_Life_%28India%29.svg
+the.q.india.in http://ryzen.one/logos2/the_q.jpg
+goldmines.in http://ryzen.one/logos2/goldmines.jpg
+haryana.beats.in https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxxhhbsH87JYFl2k-RrMmzbg.jpeg
+vh1.hd.in https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxxhhbsH87JYFl2k-RrMmzbg.jpeg
+bollywood.hd.in https://s1.vcdn.biz/static/f/5512601881/image.jpg
+sports.18.2.in http://ryzen.one/logos2/sports18_khel.jpg
+Sky.Sports.Cricket.HD.ie
 """
 
 # ==============================
