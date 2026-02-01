@@ -92,7 +92,7 @@ star.plus.hd.in http://ryzen.one/logos2/star_plushd.jpg
 star.sports.1.hd.hindi.in 
 star.sports.1.hd.in http://ryzen.one/logos2/star_sports1hd.jpg
 star.sports.2.hd.in http://ryzen.one/logos2/star_sports2.jpg
-star.sports.2.hindi.hd.in http://ryzen.one/logos2/star_sports_select2.jpg
+star.sports.2.hindi.hd.in http://ryzen.one/logos2/star_sports2.jpg
 star.sports.3.in http://ryzen.one/logos2/star_sports_3.jpg
 star.sports.khel.in http://ryzen.one/logos2/sports18_khel.jpg
 star.sports.select.1.hd.in http://ryzen.one/logos2/star_sports_select_1hd.jpg
