@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20260822045907 +0000">
+<tv generator-info-name="filtered_epg" date="20260822130948 +0000">
 <channel id="star.life.in">
     <display-name lang="sq">Star Life</display-name>
     <url>http://www.ipko.com</url>
@@ -17,27 +17,27 @@
     <url>http://www.epgshare01.online</url>
   </channel>
   
-<channel id="discovery.science.in">
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
-    <url>http://www.nowplayer.now.com</url>
-    <display-name lang="en">Discovery Science</display-name>
-  </channel>
-  
 <channel id="sony.sab.in">
     <url>http://www.nowplayer.now.com</url>
     <display-name lang="en">Sony SAB</display-name>
   <icon src="http://94.156.33.106/logos2/sony_sabhd.jpg" /></channel>
+  
+<channel id="cartoon.network.in">
+    <url>http://www.nowplayer.now.com</url>
+    <display-name lang="en">Cartoon Network</display-name>
+  <icon src="http://94.156.33.106/logos2/catoon_network_hd+.jpg" /></channel>
   
 <channel id="star.gold.in">
     <url>http://www.nowplayer.now.com</url>
     <display-name lang="en">Star Gold</display-name>
   <icon src="http://94.156.33.106/logos2/star_gold2.jpg" /></channel>
   
-<channel id="cartoon.network.in">
+<channel id="discovery.science.in">
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <url>http://www.nowplayer.now.com</url>
-    <display-name lang="en">Cartoon Network</display-name>
-  <icon src="http://94.156.33.106/logos2/catoon_network_hd+.jpg" /></channel>
+    <display-name lang="en">Discovery Science</display-name>
+  </channel>
   
 <channel id="sky.sports.cricket.hd.ie">
     <display-name lang="en">Sky Sports Cricket HD</display-name>
@@ -2980,7 +2980,6 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S8 E23</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260821174500 +0000" stop="20260821183000 +0000">
     <title lang="en">You Have Been Warned</title>
     <desc lang="en">The smartest and bravest people use science to take their skills to the next level, from balancing a digger on logs to using a paper chain to lift dumbbells.</desc>
@@ -3394,6 +3393,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20260822161200 +0000" stop="20260822165800 +0000">
     <title lang="en">How The Universe Works</title>
     <sub-title lang="en">The Moons Of Saturn</sub-title>
@@ -3686,6 +3686,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20260823082800 +0000" stop="20260823091400 +0000">
     <title lang="en">Great American Eclipse</title>
     <sub-title lang="en">&#40657;&#26263;&#20498;&#25976;</sub-title>
@@ -3858,7 +3859,6 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260823183200 +0000" stop="20260823185500 +0000">
     <title lang="en">Stuck With Hackett</title>
     <sub-title lang="en">Desert Diner</sub-title>
@@ -3977,6 +3977,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S7 E13</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20260823232700 +0000" stop="20260824001200 +0000">
     <title lang="en">Savage Builds</title>
     <sub-title lang="en">Mad Max Melee</sub-title>
@@ -4357,7 +4358,6 @@
       <value>G</value>
     </rating>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260821074500 +0000" stop="20260821081500 +0000">
     <title lang="en">The Wonderfully Weird World Of Gumball</title>
     <sub-title lang="en">The Synthesis/The Score</sub-title>
@@ -8082,6 +8082,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
     <episode-num system="onscreen">S1 E70</episode-num>
   </programme>
+  
 <programme channel="sony.sab.in" start="20260824030000 +0000" stop="20260824031400 +0000">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <sub-title lang="en">Taarak Mehta Ka Ooltah Chashmah</sub-title>
@@ -8750,6 +8751,7 @@
     <category lang="en">Comedy/Stand-up comedy</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch793_160_115" />
   </programme>
+  
 <programme channel="star.gold.in" start="20260824050500 +0000" stop="20260824071000 +0000">
     <title lang="en">Saptagiri Express</title>
     <desc lang="en">Saptagiri, a happy-go-lucky actor, is forced to do his late father's job after his demise. However, he soon learns that his father was actually murdered and embarks on a quest for vengeance.</desc>
@@ -8788,277 +8790,6 @@
     <category lang="en">Movies</category>
     <category lang="en">Action / Adventure</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch793_160_115" />
-  </programme>
-  
-<programme start="20260821000000 +0000" stop="20260821010000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 1: England v Pakistan</sub-title>
-    <desc lang="en">The post-Stokes and McCullum era of red-ball cricket begins for England with the opening day of the first Test at Headingley in a three-match series against a touring Pakistan.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768490~~2FEP012912713316,imi:ea6f0f910ac9cf11371363905febe3897a3d6b94/posterTile?imageVersion=jWKIbQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E81916</episode-num>
-  </programme>
-  
-<programme start="20260821010000 +0000" stop="20260821041500 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">The Hundred</title>
-    <sub-title lang="en">Women's: Sunrisers Leeds v Manchester Super Giants</sub-title>
-    <desc lang="en">Sunrisers Leeds face Manchester Super Giants in the Women's Hundred.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33591455~~2FEP039329060737,imi:896876bb35c546b571d588f722d1cee4a53bf3cc/posterTile?imageVersion=4ydG0w&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E72937</episode-num>
-  </programme>
-  
-<programme start="20260821041500 +0000" stop="20260821043000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">ICC T20 World Cup</title>
-    <sub-title lang="en">2010: England v Australia</sub-title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.</desc>
-    <date>2021</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20718161~~2FEP016056040123,imi:1dd748b95d2320b4ac39ad8c8f7013608202ce54/posterTile?imageVersion=nUim6Q&amp;w=200" />
-    <episode-num system="onscreen">S2021 E100523</episode-num>
-  </programme>
-  
-<programme start="20260821043000 +0000" stop="20260821044500 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">ICC T20 World Cup</title>
-    <sub-title lang="en">2016: India v Australia</sub-title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
-    <date>2021</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20718168~~2FEP016056040126,imi:30901818d0cc342be8f7eba7e4e7fdf6b9d4b3c1/posterTile?imageVersion=nUim6Q&amp;w=200" />
-    <episode-num system="onscreen">S2021 E100726</episode-num>
-  </programme>
-  
-<programme start="20260821044500 +0000" stop="20260821050000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">The Hundred</title>
-    <sub-title lang="en">Men's: Manchester Super Giants v Trent Rockets</sub-title>
-    <desc lang="en">Manchester Super Giants face Trent Rockets in the Men's Hundred.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33603664~~2FEP039329060751,imi:5dfc2bfa3066d97f924b7eca4893a6239e8174a6/posterTile?imageVersion=i6vfaA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E73151</episode-num>
-  </programme>
-  
-<programme start="20260821050000 +0000" stop="20260821060000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
-    <desc lang="en">Day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768541~~2FEP012912713318,imi:2f0dc4a4ab563978eb6cded55eb4472723983d9b/posterTile?imageVersion=jWKIbQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82018</episode-num>
-  </programme>
-  
-<programme start="20260821060000 +0000" stop="20260821063000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Nepal Climbing Cricket's Mountain</title>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32957759~~2FSH064059810000~~2Fspecial,imi:d73220ec48ffd289a00b76de8c83915fbc05bede/posterTile?imageVersion=oz0zpQ&amp;w=200" />
-  </programme>
-  
-<programme start="20260821063000 +0000" stop="20260821070000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">International T20 Cricket</title>
-    <sub-title lang="en">5th T20: England v India</sub-title>
-    <desc lang="en">England attempts to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33436722~~2FEP012956520707,imi:abd5cef978064a8edff1d4f098238453f0d17a6f/posterTile?imageVersion=1hTYyA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E71107</episode-num>
-  </programme>
-  
-<programme start="20260821070000 +0000" stop="20260821080000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
-    <desc lang="en">Day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768541~~2FEP012912713318,imi:aa7e376d894816a57fb98c457cfba6306d9736e3/posterTile?imageVersion=jWKIbQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82018</episode-num>
-  </programme>
-  
-<programme start="20260821080000 +0000" stop="20260821083000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">International T20 Cricket</title>
-    <sub-title lang="en">3rd T20: England v India</sub-title>
-    <desc lang="en">In the third T20I of their five-match series, England and India meet at Trent Bridge.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424872~~2FEP012956520703,imi:504b6e3abcaf80bc1b5b3406a2891cfb00c48486/posterTile?imageVersion=1hTYyA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E70703</episode-num>
-  </programme>
-  
-<programme start="20260821083000 +0000" stop="20260821090000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">International T20 Cricket</title>
-    <sub-title lang="en">4th T20: England v India</sub-title>
-    <desc lang="en">The fourth T20I in England's five-match series with a touring India at the County Ground in Bristol.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424948~~2FEP012956520705,imi:18fac9368505bda6a59c1704b4c5a89e372b0552/posterTile?imageVersion=1hTYyA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E70905</episode-num>
-  </programme>
-  
-<programme start="20260821090000 +0000" stop="20260821091500 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
-    <desc lang="en">Bite-size highlights from day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768552~~2FEP012912713319,imi:7f2c054d4bb5d92fe1a5ca32294c13d569233a6f/posterTile?imageVersion=jWKIbQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82019</episode-num>
-  </programme>
-  
-<programme start="20260821091500 +0000" stop="20260821180000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Live: Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
-    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779542~~2FEP013531833116,imi:582d2b943f5784d0976ba661138a0fcf04195364/posterTile?imageVersion=_HyYnA&amp;w=200" />
-    <episode-num system="onscreen">S2026 E82116</episode-num>
-    <premiere lang="en" />
-  </programme>
-  
-<programme start="20260821180000 +0000" stop="20260821181500 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">ICC T20 World Cup</title>
-    <sub-title lang="en">2010: England v Australia</sub-title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.</desc>
-    <date>2021</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20718161~~2FEP016056040123,imi:28f1d9ef94c5d1b826f15cfd0bf0d27698b5ad52/posterTile?imageVersion=nUim6Q&amp;w=200" />
-    <episode-num system="onscreen">S2021 E100523</episode-num>
-  </programme>
-  
-<programme start="20260821181500 +0000" stop="20260821183000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">ICC T20 World Cup</title>
-    <sub-title lang="en">2016: India v Australia</sub-title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
-    <date>2021</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20718168~~2FEP016056040126,imi:a250a09486f0de0173ec5e69a92aacb578bb4f33/posterTile?imageVersion=nUim6Q&amp;w=200" />
-    <episode-num system="onscreen">S2021 E100726</episode-num>
-  </programme>
-  
-<programme start="20260821183000 +0000" stop="20260821190000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">International T20 Cricket</title>
-    <sub-title lang="en">3rd T20: England v India</sub-title>
-    <desc lang="en">In the third T20I of their five-match series, England and India meet at Trent Bridge.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424872~~2FEP012956520703,imi:252c9da5b38abc619d7ab38acc84a269a52ecfaa/posterTile?imageVersion=1hTYyA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E70703</episode-num>
-  </programme>
-  
-<programme start="20260821190000 +0000" stop="20260821200000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
-    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:2ff210ccda7d376d4199dec799475d563f70415c/posterTile?imageVersion=DC0Mww&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82122</episode-num>
-    <premiere lang="en" />
-  </programme>
-  
-<programme start="20260821200000 +0000" stop="20260821203000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">International T20 Cricket</title>
-    <sub-title lang="en">3rd T20: England v India</sub-title>
-    <desc lang="en">In the third T20I of their five-match series, England and India meet at Trent Bridge.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424872~~2FEP012956520703,imi:a5076177f5b9ffddff25ff62256b1a5fc36125fd/posterTile?imageVersion=1hTYyA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E70703</episode-num>
-  </programme>
-  
-<programme start="20260821203000 +0000" stop="20260821204500 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
-    <desc lang="en">Bite-size highlights from day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779555~~2FEP012912713323,imi:ebb090dadb2703eabc2454a26eb5ddf54346092b/posterTile?imageVersion=DC0Mww&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82123</episode-num>
-    <premiere lang="en" />
-  </programme>
-  
-<programme start="20260821204500 +0000" stop="20260821210000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
-    <desc lang="en">Bite-size highlights from day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768552~~2FEP012912713319,imi:85de48e2d5640607b4a037790c3e78da7e3adc9a/posterTile?imageVersion=jWKIbQ&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82019</episode-num>
-  </programme>
-  
-<programme start="20260821210000 +0000" stop="20260821220000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
-    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:43373abec0405ad7d9838da6e9b78827e645232b/posterTile?imageVersion=DC0Mww&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82122</episode-num>
-    <premiere lang="en" />
-  </programme>
-  
-<programme start="20260821220000 +0000" stop="20260821230000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">One-Day International Cricket</title>
-    <sub-title lang="en">3rd ODI: England v India</sub-title>
-    <desc lang="en">Highlights from the third ODI of 2026 between England and India.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33485997~~2FEP013802461020,imi:a00d5005b62d5222f774cc47b9e2ad8cff66239d/posterTile?imageVersion=hEE2_w&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E71920</episode-num>
-  </programme>
-  
-<programme start="20260821230000 +0000" stop="20260822000000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
-    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:2c53ca26588edc889e5e37c0a65ab9526e3a7147/posterTile?imageVersion=DC0Mww&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82122</episode-num>
-    <premiere lang="en" />
   </programme>
   
 <programme start="20260822000000 +0000" stop="20260822010000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9186,28 +8917,88 @@
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32957759~~2FSH064059810000~~2Fspecial,imi:5d25fdaa8ae2aa58d5749dbe4907dc72c46cd501/posterTile?imageVersion=oz0zpQ&amp;w=200" />
   </programme>
   
-<programme start="20260822090000 +0000" stop="20260822091500 +0000" channel="sky.sports.cricket.hd.ie">
+<programme start="20260822090000 +0000" stop="20260822100000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
-    <desc lang="en">Bite-size highlights from day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+    <sub-title lang="en">1st Test, Day 1: England v Pakistan</sub-title>
+    <desc lang="en">The post-Stokes and McCullum era of red-ball cricket begins for England with the opening day of the first Test at Headingley in a three-match series against a touring Pakistan.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779555~~2FEP012912713323,imi:a17bce61edddcceff33f3580077d446095569e1b/posterTile?imageVersion=DC0Mww&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768490~~2FEP012912713316,imi:b3e622fc37599e7bd5707e2461905d6de07795df/posterTile?imageVersion=jWKIbQ&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82123</episode-num>
+    <episode-num system="onscreen">S2026 E81916</episode-num>
   </programme>
   
-<programme start="20260822091500 +0000" stop="20260822180000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Live: Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Day four of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+<programme start="20260822100000 +0000" stop="20260822110000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
+    <desc lang="en">Day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779561~~2FEP013531833117,imi:52ac54c59b73e43bff0d9bdbe5b954e42a34abd9/posterTile?imageVersion=VpXPRg&amp;w=200" />
-    <episode-num system="onscreen">S2026 E82217</episode-num>
-    <premiere lang="en" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768541~~2FEP012912713318,imi:3d6e0392c6428e7e9b97b8c657eaac15d5740ae9/posterTile?imageVersion=jWKIbQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E82018</episode-num>
+  </programme>
+  
+<programme start="20260822110000 +0000" stop="20260822120000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
+    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:369bb0c0f85f66a46566f33fcd35e06cfb5a25b7/posterTile?imageVersion=DC0Mww&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E82122</episode-num>
+  </programme>
+  
+<programme start="20260822120000 +0000" stop="20260822154500 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">The Hundred</title>
+    <sub-title lang="en">Women's Final: Trent Rockets v Sunrisers Leeds</sub-title>
+    <desc lang="en">The winners of the 2026 Women's Hundred are crowned in the final at Lord's.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33749162~~2FEP039329060830,imi:34b7f9c39393fa53ddf3dc079e0f82bed802e10a/posterTile?imageVersion=RX95SQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E81630</episode-num>
+  </programme>
+  
+<programme start="20260822154500 +0000" stop="20260822160000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">The Hundred</title>
+    <sub-title lang="en">Men's Final: Trent Rockets v Manchester Super Giants</sub-title>
+    <desc lang="en">The winners of the 2026 Men's Hundred are crowned in the final at Lord's.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33735899~~2FEP039329060828,imi:b26da5780203f23deff7733ed0b495aa71831153/posterTile?imageVersion=RX95SQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E81628</episode-num>
+  </programme>
+  
+<programme start="20260822160000 +0000" stop="20260822170000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">2nd ODI: England v India</sub-title>
+    <desc lang="en">England and India meet in Cardiff for the second ODI in a three-match series.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33469571~~2FEP013802461019,imi:fc3ac9f5b1851819f1c00d8a1fd984684f8e5191/posterTile?imageVersion=QRfCqw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71619</episode-num>
+  </programme>
+  
+<programme start="20260822170000 +0000" stop="20260822180000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">3rd ODI: England v India</sub-title>
+    <desc lang="en">Highlights from the third ODI of 2026 between England and India.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33485997~~2FEP013802461020,imi:6f83ac894c415cd1aadea77a852d7b33b0d56ad1/posterTile?imageVersion=hEE2_w&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71920</episode-num>
   </programme>
   
 <programme start="20260822180000 +0000" stop="20260822181500 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9246,15 +9037,14 @@
   
 <programme start="20260822190000 +0000" stop="20260822200000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
+    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:6afe2935728fedf83bc6b103b12a4a39dbb06729/posterTile?imageVersion=IanMMg&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:74cfbf383e797fac43d8f0a6357d3ae64f9d2754/posterTile?imageVersion=DC0Mww&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82224</episode-num>
-    <premiere lang="en" />
+    <episode-num system="onscreen">S2026 E82122</episode-num>
   </programme>
   
 <programme start="20260822200000 +0000" stop="20260822203000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9270,16 +9060,14 @@
   </programme>
   
 <programme start="20260822203000 +0000" stop="20260822204500 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
+    <title lang="en">ICC T20 World Cup</title>
+    <sub-title lang="en">2010: England v Australia</sub-title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.</desc>
+    <date>2021</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779575~~2FEP012912713325,imi:6810cf88b47413c120f400d6296c7941a2c3031b/posterTile?imageVersion=IanMMg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82225</episode-num>
-    <premiere lang="en" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20718161~~2FEP016056040123,imi:28f1d9ef94c5d1b826f15cfd0bf0d27698b5ad52/posterTile?imageVersion=nUim6Q&amp;w=200" />
+    <episode-num system="onscreen">S2021 E100523</episode-num>
   </programme>
   
 <programme start="20260822204500 +0000" stop="20260822210000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9295,16 +9083,11 @@
   </programme>
   
 <programme start="20260822210000 +0000" stop="20260822220000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
+    <title lang="en">The Rawalpindi Express</title>
+    <desc lang="en">From his early days in Rawalpindi to becoming one of the fastest bowlers the game has ever seen, Mark Butcher explores the life and career of Shoaib Akhtar - the Rawalpindi Express.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:1983ac090174551205153728f0331025fbde4a54/posterTile?imageVersion=IanMMg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82224</episode-num>
-    <premiere lang="en" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33854608~~2FSH065678810000~~2Fspecial,imi:f991e237c998b8068a2bffa89ce22e81a881ab75/posterTile?imageVersion=Beb_Iw&amp;w=200" />
   </programme>
   
 <programme start="20260822220000 +0000" stop="20260822223000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9328,15 +9111,14 @@
   
 <programme start="20260822230000 +0000" stop="20260823000000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
+    <desc lang="en">Day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:1fa0f51d28390496a043ef3b01dad1cabf4ac83b/posterTile?imageVersion=IanMMg&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768541~~2FEP012912713318,imi:decce6a80d89ca8823b51227a90c0ad7beb6a275/posterTile?imageVersion=jWKIbQ&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82224</episode-num>
-    <premiere lang="en" />
+    <episode-num system="onscreen">S2026 E82018</episode-num>
   </programme>
   
 <programme start="20260823000000 +0000" stop="20260823010000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9398,39 +9180,35 @@
   </programme>
   
 <programme start="20260823050000 +0000" stop="20260823060000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
+    <title lang="en">The Rawalpindi Express</title>
+    <desc lang="en">From his early days in Rawalpindi to becoming one of the fastest bowlers the game has ever seen, Mark Butcher explores the life and career of Shoaib Akhtar - the Rawalpindi Express.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:d479890d394ac5f889bf08d3a87fb77c7daaee90/posterTile?imageVersion=IanMMg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82224</episode-num>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33854608~~2FSH065678810000~~2Fspecial,imi:796583310989b658f27a7efcc3eb1739eb71d809/posterTile?imageVersion=Beb_Iw&amp;w=200" />
   </programme>
   
 <programme start="20260823060000 +0000" stop="20260823070000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
-    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+    <sub-title lang="en">1st Test, Day 1: England v Pakistan</sub-title>
+    <desc lang="en">The post-Stokes and McCullum era of red-ball cricket begins for England with the opening day of the first Test at Headingley in a three-match series against a touring Pakistan.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:73d751448a774d9745750a345bc2caca572b9886/posterTile?imageVersion=DC0Mww&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768490~~2FEP012912713316,imi:f05f0a6cedaf95b11e79e591dd060fc0c62be3bd/posterTile?imageVersion=jWKIbQ&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82122</episode-num>
+    <episode-num system="onscreen">S2026 E81916</episode-num>
   </programme>
   
 <programme start="20260823070000 +0000" stop="20260823080000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
+    <desc lang="en">Day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:c4208306b37cdc78d5d6564a3ad711f1cdc7a215/posterTile?imageVersion=IanMMg&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768541~~2FEP012912713318,imi:3634a6016e0d7c1d13fbfaa6cb34b9e2f0212609/posterTile?imageVersion=jWKIbQ&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82224</episode-num>
+    <episode-num system="onscreen">S2026 E82018</episode-num>
   </programme>
   
 <programme start="20260823080000 +0000" stop="20260823090000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9445,28 +9223,100 @@
     <episode-num system="onscreen">S2026 E82122</episode-num>
   </programme>
   
-<programme start="20260823090000 +0000" stop="20260823091500 +0000" channel="sky.sports.cricket.hd.ie">
+<programme start="20260823090000 +0000" stop="20260823100000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <sub-title lang="en">1st Test, Day 1: England v Pakistan</sub-title>
+    <desc lang="en">The post-Stokes and McCullum era of red-ball cricket begins for England with the opening day of the first Test at Headingley in a three-match series against a touring Pakistan.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779575~~2FEP012912713325,imi:d64de7a74a04bb10c2517697ddb530758eb6bf40/posterTile?imageVersion=IanMMg&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768490~~2FEP012912713316,imi:5a0491baa4e676e5e560448cc5309fe2874d1083/posterTile?imageVersion=jWKIbQ&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82225</episode-num>
+    <episode-num system="onscreen">S2026 E81916</episode-num>
   </programme>
   
-<programme start="20260823091500 +0000" stop="20260823180000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Live: Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
-    <desc lang="en">The final day of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+<programme start="20260823100000 +0000" stop="20260823110000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
+    <desc lang="en">Day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788461~~2FEP013531833118,imi:f6265e1217c697f4d1914927b566ccd947f0394a/posterTile?imageVersion=6fYbEQ&amp;w=200" />
-    <episode-num system="onscreen">S2026 E82318</episode-num>
-    <premiere lang="en" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768541~~2FEP012912713318,imi:78b832301c185e4c84b8848c9a56f7d5620468c7/posterTile?imageVersion=jWKIbQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E82018</episode-num>
+  </programme>
+  
+<programme start="20260823110000 +0000" stop="20260823120000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
+    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:73d751448a774d9745750a345bc2caca572b9886/posterTile?imageVersion=DC0Mww&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E82122</episode-num>
+  </programme>
+  
+<programme start="20260823120000 +0000" stop="20260823160000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">The Hundred</title>
+    <sub-title lang="en">Men's Final: Trent Rockets v Manchester Super Giants</sub-title>
+    <desc lang="en">Jos Buttler leads Eliminator winners Manchester Super Giants into the Men's Hundred final at Lord's against this season's table-toppers Trent Rockets.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33735903~~2FEP039329060829,imi:956b50ffb0ca3b373020210a389ed097e16f6d3d/posterTile?imageVersion=RX95SQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E81629</episode-num>
+  </programme>
+  
+<programme start="20260823160000 +0000" stop="20260823163000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">2nd T20: England v India</sub-title>
+    <desc lang="en">England welcome India to Old Trafford for the second T20I in this five-match series. Wednesday's opener was washed out before England could reply to India's total of 189-7.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33376300~~2FEP012956520700,imi:2f33ec6b769111fc7f8f2707f06d3f1679be0385/posterTile?imageVersion=ZKcr4A&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70400</episode-num>
+  </programme>
+  
+<programme start="20260823163000 +0000" stop="20260823170000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">3rd T20: England v India</sub-title>
+    <desc lang="en">In the third T20I of their five-match series, England and India meet at Trent Bridge.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424872~~2FEP012956520703,imi:b220bf9168ebc5b696db42dcdbc5e0d023f6a91f/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70703</episode-num>
+  </programme>
+  
+<programme start="20260823170000 +0000" stop="20260823173000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">4th T20: England v India</sub-title>
+    <desc lang="en">The fourth T20I in England's five-match series with a touring India at the County Ground in Bristol.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424948~~2FEP012956520705,imi:45ef4e46b7b705b769852362b168373e1ad98097/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70905</episode-num>
+  </programme>
+  
+<programme start="20260823173000 +0000" stop="20260823180000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">5th T20: England v India</sub-title>
+    <desc lang="en">England attempts to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33436722~~2FEP012956520707,imi:8ed07a4e24ecf4181714caa8144dac7d1687fff2/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71107</episode-num>
   </programme>
   
 <programme start="20260823180000 +0000" stop="20260823181500 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9500,65 +9350,46 @@
   
 <programme start="20260823190000 +0000" stop="20260823200000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
+    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788466~~2FEP012912713326,imi:a45bf79a88d3ba3aa6cfc371656ad03e2ad28c97/posterTile?imageVersion=FtjPeA&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:91e462a42c4bcbfbf7acc24250cfb0f7baaa6c2f/posterTile?imageVersion=DC0Mww&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82326</episode-num>
-    <premiere lang="en" />
+    <episode-num system="onscreen">S2026 E82122</episode-num>
   </programme>
   
 <programme start="20260823200000 +0000" stop="20260823203000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">4th T20: England v India</sub-title>
+    <desc lang="en">The fourth T20I in England's five-match series with a touring India at the County Ground in Bristol.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424948~~2FEP012956520705,imi:56a89d55a8689d7c3a3a4c323f9e73ec7bd76049/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70905</episode-num>
+  </programme>
+  
+<programme start="20260823203000 +0000" stop="20260823210000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">International T20 Cricket</title>
     <sub-title lang="en">5th T20: England v India</sub-title>
     <desc lang="en">England attempts to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33436722~~2FEP012956520707,imi:8ed07a4e24ecf4181714caa8144dac7d1687fff2/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33436722~~2FEP012956520707,imi:97b665776fc0e12a5b47f2afe7109944278a2c2d/posterTile?imageVersion=1hTYyA&amp;w=200" />
     <country lang="en">GB</country>
     <episode-num system="onscreen">S2026 E71107</episode-num>
   </programme>
   
-<programme start="20260823203000 +0000" stop="20260823204500 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788473~~2FEP012912713327,imi:d653009bbc524213ac3f3d4cfa3b2c4cac081476/posterTile?imageVersion=FtjPeA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82327</episode-num>
-    <premiere lang="en" />
-  </programme>
-  
-<programme start="20260823204500 +0000" stop="20260823210000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779575~~2FEP012912713325,imi:b347dafce9acf93a4373d5070ff073ad84b16e5c/posterTile?imageVersion=IanMMg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82225</episode-num>
-  </programme>
-  
 <programme start="20260823210000 +0000" stop="20260823220000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
+    <title lang="en">The Rawalpindi Express</title>
+    <desc lang="en">From his early days in Rawalpindi to becoming one of the fastest bowlers the game has ever seen, Mark Butcher explores the life and career of Shoaib Akhtar - the Rawalpindi Express.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788466~~2FEP012912713326,imi:773643e1bc54976d10b5671b927f0ebda6e9ba92/posterTile?imageVersion=FtjPeA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82326</episode-num>
-    <premiere lang="en" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33854608~~2FSH065678810000~~2Fspecial,imi:eae8290f88c9f57ae6ba3a3ef23e438491af9a9a/posterTile?imageVersion=Beb_Iw&amp;w=200" />
   </programme>
   
 <programme start="20260823220000 +0000" stop="20260823223000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9581,28 +9412,27 @@
   </programme>
   
 <programme start="20260823230000 +0000" stop="20260824000000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">1st ODI: England v India</sub-title>
+    <desc lang="en">India's white-ball tour of England continues at Edgbaston with the opening ODI in a three-match series.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788466~~2FEP012912713326,imi:0af20a28d7a8a48f829c6e70879024f88b29acfd/posterTile?imageVersion=FtjPeA&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33469548~~2FEP013802461018,imi:221bbc4c2427bdf289d5a724f7055270be49831c/posterTile?imageVersion=sNpYKg&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82326</episode-num>
-    <premiere lang="en" />
+    <episode-num system="onscreen">S2026 E71418</episode-num>
   </programme>
   
 <programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">2nd ODI: England v India</sub-title>
+    <desc lang="en">England and India meet in Cardiff for the second ODI in a three-match series.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:fc373f744da2987435bd2cc3e6a2f82126a85703/posterTile?imageVersion=IanMMg&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33469571~~2FEP013802461019,imi:5e17d94d3720be22605bd7b6300bb0690a4c5c9a/posterTile?imageVersion=QRfCqw&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82224</episode-num>
+    <episode-num system="onscreen">S2026 E71619</episode-num>
   </programme>
   
 <programme start="20260824010000 +0000" stop="20260824041500 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9671,15 +9501,11 @@
   </programme>
   
 <programme start="20260824060000 +0000" stop="20260824070000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
+    <title lang="en">The Rawalpindi Express</title>
+    <desc lang="en">From his early days in Rawalpindi to becoming one of the fastest bowlers the game has ever seen, Mark Butcher explores the life and career of Shoaib Akhtar - the Rawalpindi Express.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788466~~2FEP012912713326,imi:6bfa81a35725392beab5167b4a16fc7e0747f48a/posterTile?imageVersion=FtjPeA&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82326</episode-num>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33854608~~2FSH065678810000~~2Fspecial,imi:f7325cf4750d08ed131b0e495b41afb5940d6f97/posterTile?imageVersion=Beb_Iw&amp;w=200" />
   </programme>
   
 <programme start="20260824070000 +0000" stop="20260824080000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9719,27 +9545,23 @@
   </programme>
   
 <programme start="20260824100000 +0000" stop="20260824110000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
+    <title lang="en">The Rawalpindi Express</title>
+    <desc lang="en">From his early days in Rawalpindi to becoming one of the fastest bowlers the game has ever seen, Mark Butcher explores the life and career of Shoaib Akhtar - the Rawalpindi Express.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:9211a1256bf4427b2e0ec6b68a9a4f5e23ea4a2b/posterTile?imageVersion=IanMMg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82224</episode-num>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33854608~~2FSH065678810000~~2Fspecial,imi:78f766409eebd55d2b025e0187b8a4d18d5ea8e5/posterTile?imageVersion=Beb_Iw&amp;w=200" />
   </programme>
   
 <programme start="20260824110000 +0000" stop="20260824120000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">3rd ODI: England v India</sub-title>
+    <desc lang="en">Highlights from the third ODI of 2026 between England and India.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788466~~2FEP012912713326,imi:96c3207e93c50b13e89e714ea582cfd361a556d2/posterTile?imageVersion=FtjPeA&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33485997~~2FEP013802461020,imi:71444d1f1883b077d6dd15bafd26070153bc451c/posterTile?imageVersion=hEE2_w&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82326</episode-num>
+    <episode-num system="onscreen">S2026 E71920</episode-num>
   </programme>
   
 <programme start="20260824120000 +0000" stop="20260824123000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9846,27 +9668,30 @@
   </programme>
   
 <programme start="20260824180000 +0000" stop="20260824190000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
-    <date>2026</date>
+    <title lang="en">The Rawalpindi Express</title>
+    <desc lang="en">From his early days in Rawalpindi to becoming one of the fastest bowlers the game has ever seen, Mark Butcher explores the life and career of Shoaib Akhtar - the Rawalpindi Express.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:2b3d9b0d038528c068db652e187a98a5c86b3b58/posterTile?imageVersion=IanMMg&amp;w=200" />
-    <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82224</episode-num>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33854608~~2FSH065678810000~~2Fspecial,imi:02e0f1247da669f4522648a6d99d92b7d28cee3f/posterTile?imageVersion=Beb_Iw&amp;w=200" />
   </programme>
   
-<programme start="20260824190000 +0000" stop="20260824200000 +0000" channel="sky.sports.cricket.hd.ie">
-    <title lang="en">Test Cricket</title>
-    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
-    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+<programme start="20260824190000 +0000" stop="20260824193000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">5th T20: England v India</sub-title>
+    <desc lang="en">England attempts to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788466~~2FEP012912713326,imi:2927ff72cd4d9c026a388be05d9a0322eb42d5e4/posterTile?imageVersion=FtjPeA&amp;w=200" />
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33436722~~2FEP012956520707,imi:10a5df123d0dc88aa514f0ff29e5fd4537c1f183/posterTile?imageVersion=1hTYyA&amp;w=200" />
     <country lang="en">GB</country>
-    <episode-num system="onscreen">S2026 E82326</episode-num>
+    <episode-num system="onscreen">S2026 E71107</episode-num>
+  </programme>
+  
+<programme start="20260824193000 +0000" stop="20260824200000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Nepal Climbing Cricket's Mountain</title>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32957759~~2FSH064059810000~~2Fspecial,imi:3d2a79e60fabeb6c6e4d8615445d1ae0e5973d22/posterTile?imageVersion=oz0zpQ&amp;w=200" />
   </programme>
   
 <programme start="20260824200000 +0000" stop="20260824210000 +0000" channel="sky.sports.cricket.hd.ie">
@@ -9922,6 +9747,382 @@
     <category lang="en">Sport</category>
     <category lang="en">Cricket</category>
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32957759~~2FSH064059810000~~2Fspecial,imi:1de02cdc068bf0f26dda18c0f27e26d66e8d8f77/posterTile?imageVersion=oz0zpQ&amp;w=200" />
+  </programme>
+  
+<programme start="20260825000000 +0000" stop="20260825003000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">ICC Women's T20 World Cup</title>
+    <sub-title lang="en">Final: England v Australia</sub-title>
+    <desc lang="en">The women's national cricket teams of England and Australia compete against each other during the ICC Women's T20 World Cup in a bid to emerge victorious and win the coveted title.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33383658~~2FEP064129970042,imi:9822627d343a0b66dba2442dfd4c4441d3bddd14/posterTile?imageVersion=Z11uqw&amp;w=200" />
+    <episode-num system="onscreen">S2026 E70542</episode-num>
+  </programme>
+  
+<programme start="20260825003000 +0000" stop="20260825010000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">5th T20: England v India</sub-title>
+    <desc lang="en">England attempts to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33436722~~2FEP012956520707,imi:11d790d6b163a478fd1830e211a3145adeeda2aa/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71107</episode-num>
+  </programme>
+  
+<programme start="20260825010000 +0000" stop="20260825041500 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">The Hundred</title>
+    <sub-title lang="en">Women's: Welsh Fire v Trent Rockets</sub-title>
+    <desc lang="en">Welsh Fire play Trent Rockets in the Women's Hundred.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33591565~~2FEP039329060742,imi:67b233abf0b32aacb19ccf7e70e5f37ffc42b551/posterTile?imageVersion=4ydG0w&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E72942</episode-num>
+  </programme>
+  
+<programme start="20260825041500 +0000" stop="20260825043000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">ICC T20 World Cup</title>
+    <sub-title lang="en">2010: England v Australia</sub-title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.</desc>
+    <date>2021</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20718161~~2FEP016056040123,imi:9eb02484f8fedfc30b7d285ab92f71442dd93117/posterTile?imageVersion=nUim6Q&amp;w=200" />
+    <episode-num system="onscreen">S2021 E100523</episode-num>
+  </programme>
+  
+<programme start="20260825043000 +0000" stop="20260825044500 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">ICC T20 World Cup</title>
+    <sub-title lang="en">2016: India v Australia</sub-title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
+    <date>2021</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F20718168~~2FEP016056040126,imi:407da663c583155697e2ec996beff62c496319ce/posterTile?imageVersion=nUim6Q&amp;w=200" />
+    <episode-num system="onscreen">S2021 E100726</episode-num>
+  </programme>
+  
+<programme start="20260825044500 +0000" stop="20260825050000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">The Hundred</title>
+    <sub-title lang="en">Men's: Manchester Super Giants v Trent Rockets</sub-title>
+    <desc lang="en">Manchester Super Giants face Trent Rockets in the Men's Hundred.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33603664~~2FEP039329060751,imi:fddd075675f1fca2213c3f0154d73340bf13f230/posterTile?imageVersion=i6vfaA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E73151</episode-num>
+  </programme>
+  
+<programme start="20260825050000 +0000" stop="20260825053000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Nepal Climbing Cricket's Mountain</title>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32957759~~2FSH064059810000~~2Fspecial,imi:949bc69d161eeec9b33e61f20f47910703e8310e/posterTile?imageVersion=oz0zpQ&amp;w=200" />
+  </programme>
+  
+<programme start="20260825053000 +0000" stop="20260825060000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">ICC Women's T20 World Cup</title>
+    <sub-title lang="en">Final: England v Australia</sub-title>
+    <desc lang="en">The women's national cricket teams of England and Australia compete against each other during the ICC Women's T20 World Cup in a bid to emerge victorious and win the coveted title.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33383658~~2FEP064129970042,imi:881defc1a6ae77af43f752463947d7680432a6c9/posterTile?imageVersion=Z11uqw&amp;w=200" />
+    <episode-num system="onscreen">S2026 E70542</episode-num>
+  </programme>
+  
+<programme start="20260825060000 +0000" stop="20260825070000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">1st ODI: England v India</sub-title>
+    <desc lang="en">India's white-ball tour of England continues at Edgbaston with the opening ODI in a three-match series.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33469548~~2FEP013802461018,imi:804b322edc3a8b31fbfb202ffadf61b601056547/posterTile?imageVersion=sNpYKg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71418</episode-num>
+  </programme>
+  
+<programme start="20260825070000 +0000" stop="20260825080000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">2nd ODI: England v India</sub-title>
+    <desc lang="en">England and India meet in Cardiff for the second ODI in a three-match series.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33469571~~2FEP013802461019,imi:454fbb422f523754253dc70c72dbf630f0a8ccbb/posterTile?imageVersion=QRfCqw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71619</episode-num>
+  </programme>
+  
+<programme start="20260825080000 +0000" stop="20260825090000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">3rd ODI: England v India</sub-title>
+    <desc lang="en">Highlights from the third ODI of 2026 between England and India.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33485997~~2FEP013802461020,imi:3f0c1ebb7f83d4b91d5dcd2c7d9880946b3977d0/posterTile?imageVersion=hEE2_w&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71920</episode-num>
+  </programme>
+  
+<programme start="20260825090000 +0000" stop="20260825093000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">1st T20: England v India</sub-title>
+    <desc lang="en">India's white-ball tour of England gets underway with the opening T20I in a five-match series at the Riverside Ground in Chester-le-Street.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33373831~~2FEP012956520698,imi:14b050261405c4a6398ea3e90db8dd2fa2fac02f/posterTile?imageVersion=PYt4Kw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70198</episode-num>
+  </programme>
+  
+<programme start="20260825093000 +0000" stop="20260825100000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">2nd T20: England v India</sub-title>
+    <desc lang="en">England welcome India to Old Trafford for the second T20I in this five-match series. Wednesday's opener was washed out before England could reply to India's total of 189-7.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33376300~~2FEP012956520700,imi:b344a15c758d53baee405413eb07bf0fbe392866/posterTile?imageVersion=ZKcr4A&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70400</episode-num>
+  </programme>
+  
+<programme start="20260825100000 +0000" stop="20260825103000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">3rd T20: England v India</sub-title>
+    <desc lang="en">In the third T20I of their five-match series, England and India meet at Trent Bridge.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424872~~2FEP012956520703,imi:ccc13287267128cbadbfd3466e06610d051a992f/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70703</episode-num>
+  </programme>
+  
+<programme start="20260825103000 +0000" stop="20260825110000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">4th T20: England v India</sub-title>
+    <desc lang="en">The fourth T20I in England's five-match series with a touring India at the County Ground in Bristol.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424948~~2FEP012956520705,imi:811f69f930ea7e680d932698e9603766707c693e/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70905</episode-num>
+  </programme>
+  
+<programme start="20260825110000 +0000" stop="20260825113000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">5th T20: England v India</sub-title>
+    <desc lang="en">England attempts to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33436722~~2FEP012956520707,imi:ad6a2eec9cfa4531d4f43637f88026683ced41e5/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71107</episode-num>
+  </programme>
+  
+<programme start="20260825113000 +0000" stop="20260825120000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Nepal Climbing Cricket's Mountain</title>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32957759~~2FSH064059810000~~2Fspecial,imi:0fddb34d6139af2c5c1b6b431ec1ecbc85369125/posterTile?imageVersion=oz0zpQ&amp;w=200" />
+  </programme>
+  
+<programme start="20260825120000 +0000" stop="20260825130000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 1: England v Pakistan</sub-title>
+    <desc lang="en">The post-Stokes and McCullum era of red-ball cricket begins for England with the opening day of the first Test at Headingley in a three-match series against a touring Pakistan.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768490~~2FEP012912713316,imi:6c7f5aa4f117370b29eebab30d51155d8bea7865/posterTile?imageVersion=jWKIbQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E81916</episode-num>
+  </programme>
+  
+<programme start="20260825130000 +0000" stop="20260825140000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 2: England v Pakistan</sub-title>
+    <desc lang="en">Day two of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33768541~~2FEP012912713318,imi:fa2b61cc5f76d53b522945149000191532ab6f79/posterTile?imageVersion=jWKIbQ&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E82018</episode-num>
+  </programme>
+  
+<programme start="20260825140000 +0000" stop="20260825150000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 3: England v Pakistan</sub-title>
+    <desc lang="en">Day three of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779550~~2FEP012912713322,imi:723ea4e61d78191b5b20b412ebfd074d92615e15/posterTile?imageVersion=DC0Mww&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E82122</episode-num>
+  </programme>
+  
+<programme start="20260825150000 +0000" stop="20260825160000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 4: England v Pakistan</sub-title>
+    <desc lang="en">Day four of the opening Test in a three-match series between England and Pakistan at Headingley.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33779568~~2FEP012912713324,imi:13fded7bfe789fa2cfe1e8ca2687f06fb9f71dca/posterTile?imageVersion=IanMMg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E82224</episode-num>
+  </programme>
+  
+<programme start="20260825160000 +0000" stop="20260825170000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Test Cricket</title>
+    <sub-title lang="en">1st Test, Day 5: England v Pakistan</sub-title>
+    <desc lang="en">Coverage from a Test match, a contest between two international teams played over five days.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33788466~~2FEP012912713326,imi:868e76daa4fbf190efa7db53ef7e8a1ec6decb97/posterTile?imageVersion=FtjPeA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E82326</episode-num>
+  </programme>
+  
+<programme start="20260825170000 +0000" stop="20260825180000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">1st ODI: England v India</sub-title>
+    <desc lang="en">India's white-ball tour of England continues at Edgbaston with the opening ODI in a three-match series.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33469548~~2FEP013802461018,imi:464ca3b5d71c52a3f93ccab179a9c5b5568cddd0/posterTile?imageVersion=sNpYKg&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71418</episode-num>
+  </programme>
+  
+<programme start="20260825180000 +0000" stop="20260825190000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">2nd ODI: England v India</sub-title>
+    <desc lang="en">England and India meet in Cardiff for the second ODI in a three-match series.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33469571~~2FEP013802461019,imi:8e3eae7512a8e8d20a8f1c23d85a4250087e1e05/posterTile?imageVersion=QRfCqw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71619</episode-num>
+  </programme>
+  
+<programme start="20260825190000 +0000" stop="20260825200000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">One-Day International Cricket</title>
+    <sub-title lang="en">3rd ODI: England v India</sub-title>
+    <desc lang="en">Highlights from the third ODI of 2026 between England and India.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33485997~~2FEP013802461020,imi:644e4dddcdc470cd2963d3a3b9c610645f20a7ff/posterTile?imageVersion=hEE2_w&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71920</episode-num>
+  </programme>
+  
+<programme start="20260825200000 +0000" stop="20260825203000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">1st T20: England v India</sub-title>
+    <desc lang="en">India's white-ball tour of England gets underway with the opening T20I in a five-match series at the Riverside Ground in Chester-le-Street.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33373831~~2FEP012956520698,imi:11365977f813492e9da696ac38e3d34d2fa80b65/posterTile?imageVersion=PYt4Kw&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70198</episode-num>
+  </programme>
+  
+<programme start="20260825203000 +0000" stop="20260825210000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">2nd T20: England v India</sub-title>
+    <desc lang="en">England welcome India to Old Trafford for the second T20I in this five-match series. Wednesday's opener was washed out before England could reply to India's total of 189-7.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33376300~~2FEP012956520700,imi:ffaa30017310df52b76322d47a1de075a65314b4/posterTile?imageVersion=ZKcr4A&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70400</episode-num>
+  </programme>
+  
+<programme start="20260825210000 +0000" stop="20260825213000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">3rd T20: England v India</sub-title>
+    <desc lang="en">In the third T20I of their five-match series, England and India meet at Trent Bridge.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424872~~2FEP012956520703,imi:52096e95d150871280d90bde6819548fb91dfca7/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70703</episode-num>
+  </programme>
+  
+<programme start="20260825213000 +0000" stop="20260825220000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">4th T20: England v India</sub-title>
+    <desc lang="en">The fourth T20I in England's five-match series with a touring India at the County Ground in Bristol.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424948~~2FEP012956520705,imi:fa5bf1856c140c65b2b378cb9edde60f606c12ec/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70905</episode-num>
+  </programme>
+  
+<programme start="20260825220000 +0000" stop="20260825223000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">5th T20: England v India</sub-title>
+    <desc lang="en">England attempts to round off an emphatic series win over India in the fifth and final match. An English victory would see Harry Brook's side become the number one ranked T20 side.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33436722~~2FEP012956520707,imi:4fe14092fc64d95ab82132d4ebe5ba044f33642a/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E71107</episode-num>
+  </programme>
+  
+<programme start="20260825223000 +0000" stop="20260825230000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">Nepal Climbing Cricket's Mountain</title>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F32957759~~2FSH064059810000~~2Fspecial,imi:6e5aec0d694e83248e8fa08cdf86a60dbf2448f9/posterTile?imageVersion=oz0zpQ&amp;w=200" />
+  </programme>
+  
+<programme start="20260825230000 +0000" stop="20260825233000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">ICC Women's T20 World Cup</title>
+    <sub-title lang="en">Final: England v Australia</sub-title>
+    <desc lang="en">The women's national cricket teams of England and Australia compete against each other during the ICC Women's T20 World Cup in a bid to emerge victorious and win the coveted title.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33383658~~2FEP064129970042,imi:133650791e8745ba7f0c529e05805737d0a3902c/posterTile?imageVersion=Z11uqw&amp;w=200" />
+    <episode-num system="onscreen">S2026 E70542</episode-num>
+  </programme>
+  
+<programme start="20260825233000 +0000" stop="20260826000000 +0000" channel="sky.sports.cricket.hd.ie">
+    <title lang="en">International T20 Cricket</title>
+    <sub-title lang="en">4th T20: England v India</sub-title>
+    <desc lang="en">The fourth T20I in England's five-match series with a touring India at the County Ground in Bristol.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F33424948~~2FEP012956520705,imi:ba37d7d81d348f870b44287d054940967d5eb660/posterTile?imageVersion=1hTYyA&amp;w=200" />
+    <country lang="en">GB</country>
+    <episode-num system="onscreen">S2026 E70905</episode-num>
   </programme>
   
 <programme start="20260822000000 +0530" stop="20260822005500 +0530" channel="colors.hd.in">
@@ -10458,6 +10659,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/153568887d8371753eaf8bd67eb1889e.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260823223000 +0530" stop="20260823233000 +0530" channel="colors.hd.in">
     <title lang="hi-IN">&#2349;&#2379;&#2332;&#2346;&#2369;&#2352;&#2368; &#2348;&#2357;&#2366;&#2354;</title>
     <sub-title lang="hi-IN">A look into the daily routines and personal lives of prominent Bhojpuri celebrities, revealing personal stories whilst showcasing regional cultural pride</sub-title>
@@ -14598,6 +14800,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/388c03e295a70aa1876613d84bacff39.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260824010000 +0530" stop="20260824013000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2342; &#2344;&#2381;&#2351;&#2370;&#2395;</title>
     <sub-title lang="hi-IN">The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region</sub-title>
@@ -14777,6 +14980,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f385d96d107a15e2e7bf91d577e80e82.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260824092500 +0530" stop="20260824094000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">100 &#2358;&#2361;&#2352; 100 &#2393;&#2348;&#2352;</title>
     <sub-title lang="hi-IN">The host presents the latest political, social, economic and sports news updates and speaks about the recent developments in the country</sub-title>
@@ -15489,7 +15693,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c8a293c3de519c6fd079c1fda011c992.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260825163000 +0530" stop="20260825170000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2352;&#2339;&#2349;&#2370;&#2350;&#2367;</title>
     <sub-title lang="hi-IN">The host presents the latest news and updates from war-torn places while shedding light on conflicts, offering viewers insight into global crises</sub-title>
@@ -16191,6 +16394,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ff366f6b2a183453b4dcdcb3d65b14ad.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260824153000 +0530" stop="20260824160000 +0530" channel="b4u.music.in">
     <title lang="hi-IN">&#2350;&#2377;&#2352;&#2381;&#2344;&#2367;&#2306;&#2327; &#2350;&#2360;&#2366;&#2354;&#2366;</title>
     <sub-title lang="hi-IN">A comprehensive compilation of Bollywood songs that include evergreen melodies and the latest soundtracks from the movies</sub-title>
@@ -17273,6 +17477,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/19a496051b42d644f6c6bc628fee5416.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260824095800 +0530" stop="20260824102800 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2342;&#2350;&#2342;&#2366;&#2352; 10</title>
     <sub-title lang="hi-IN">The host provides a comprehensive review of the most important news stories, offering detailed analysis and objective reporting on key national developments</sub-title>
@@ -17299,7 +17504,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e03b24cb022d59720483770a2105669b.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260824112800 +0530" stop="20260824115800 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2309;&#2349;&#2368; &#2309;&#2349;&#2368;</title>
     <sub-title lang="hi-IN">The host presents a comprehensive round-up of the latest news and updates related to global events and national developments</sub-title>
@@ -19231,7 +19435,6 @@
     <episode-num system="onscreen">E2</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260825042700 +0530" stop="20260825051200 +0530" channel="animal.planet.hd.world.in">
     <title lang="en-GB">River Monsters</title>
     <sub-title lang="en-GB">Jeremy travels to Central America to locate a man-sized beast that reportedly leaps into boats and inflicts devastating injuries upon fishermen</sub-title>
@@ -20376,6 +20579,7 @@
     <episode-num system="onscreen">E788</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260824034000 +0530" stop="20260824042000 +0530" channel="set.hd.in">
     <title lang="hi-IN">&#2348;&#2375;&#2360;&#2381;&#2335; &#2321;&#2398; &#2325;&#2381;&#2352;&#2366;&#2311;&#2350; &#2346;&#2375;&#2335;&#2381;&#2352;&#2379;&#2354;</title>
     <sub-title lang="hi-IN">Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society</sub-title>
@@ -21594,7 +21798,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/43fd2db4f49312b1450d1539a8374d6d.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260823023000 +0530" stop="20260823030000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2352;&#2366;&#2340; &#2349;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -22314,6 +22517,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260824233000 +0530" stop="20260824235959 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2325;&#2381;&#2354;&#2366;&#2360;&#2367;&#2325;&#2381;&#2360;</title>
     <desc lang="hi-IN">A comprehensive complication of popular songs composed and performed by renowned artists is played back-to-back to entertain the audience.</desc>
@@ -22569,6 +22773,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a0b079d7bbea9b5a30ff2a38ad5920b9.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260825153000 +0530" stop="20260825160000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2350;&#2375;&#2354;&#2379;&#2337;&#2368; &#2357;&#2366;&#2354;&#2368; &#2357;&#2366;&#2311;&#2348;</title>
     <desc lang="hi-IN">A comprehensive compilation of melodious and soulful movie songs, composed by talented musicians is played to enthrall the audience.</desc>
@@ -22956,6 +23161,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/14e1dce2d09cb20a88497cc9dda6c02e.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260822140000 +0530" stop="20260822143000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">&#2360;&#2377;&#2354;&#2367;&#2337; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="mr-IN">A compilation of some of the greatest hits songs in popular Bollywood movies featuring renowned singers, musicians and artists</sub-title>
@@ -24792,6 +24998,7 @@
     <episode-num system="onscreen">E12</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260823000000 +0530" stop="20260823010000 +0530" channel="discovery.hd.world.in">
     <title lang="en-GB">Naked and Afraid Brazil</title>
     <sub-title lang="en-GB">Leti, Erika and Itamar face a difficult challenge without energy or harmony in the group. Elsewhere, Gi and Joedson play their last cards before they run out of energy</sub-title>
@@ -27345,7 +27552,6 @@
     <episode-num system="onscreen">E2</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20260822012100 +0530" stop="20260822021400 +0530" channel="discovery.science.in">
     <title lang="en-GB">The Bad Skin Clinic</title>
     <sub-title lang="en-GB">Lawrence noticed a grapefruit-sized lump on his back after losing 6st. He is eager for Dr Emma to remove it, but first he needs to overcome his fear of needles. Following a terrifying work accident, Jarred hopes Dr Emma can help with his facial scar</sub-title>
@@ -27498,6 +27704,7 @@
     <episode-num system="onscreen">E10</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260822105400 +0530" stop="20260822114700 +0530" channel="discovery.science.in">
     <title lang="en-GB">Haunted Towns</title>
     <sub-title lang="en-GB">The team are in unchartered territory as they go to Montana. They're investigating the streets of Virginia City, known for its mass hangings and excessive crime</sub-title>
@@ -27703,6 +27910,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9d199aed2a2640543f093920f109d91e.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260822233500 +0530" stop="20260822235959 +0530" channel="discovery.science.in">
     <title lang="en-GB">Haunted Towns</title>
     <sub-title lang="en-GB">The team head to Port Townsend, Washington. Here, they investigate the crimes, curses and angry spirits that locals believe are haunting the town</sub-title>
@@ -31303,6 +31511,7 @@
     <episode-num system="onscreen">E2</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20260824080000 +0530" stop="20260824100000 +0530" channel="zoom.in">
     <title lang="hi-IN">&#2360;&#2344;&#2352;&#2366;&#2311;&#2395; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">A comprehensive compilation of some of the most popular and catchy Bollywood songs by renowned singers and musicians is played back to back to entertain the audience</sub-title>
@@ -32258,7 +32467,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c9fb9f31ddad7e1e0de689a55eba1661.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260823210000 +0530" stop="20260823213000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">Bade-Chote's Playlist</title>
     <desc lang="pa-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -32746,6 +32954,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/732fd983b24051b568a227e73c802b42.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260825033000 +0530" stop="20260825040000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">Saari Raat</title>
     <desc lang="pa-IN">A comprehensive compilation of some of the most popular Bollywood soundtracks produced by various artists is played back-to-back to entertain the audience.</desc>
@@ -33671,6 +33880,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/13d3be4df6200445d995617a3cfef8d3.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260825124000 +0530" stop="20260825151000 +0530" channel="mnx.hd.in">
     <title lang="en-GB">Transformers: The Last Knight</title>
     <desc lang="en-GB">Optimus Prime seeks his creator in space. Meanwhile, humans and Autobots join forces to save Earth from an ancient threat.</desc>
@@ -34147,7 +34357,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b66df009782f1bf51ce27df13c2fbc26.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260823143000 +0530" stop="20260823150000 +0530" channel="cn.hd+.english.in">
     <title lang="en-GB">Teen Titans GO!</title>
     <desc lang="en-GB">A group of quirky young heroes balance crime-fighting with everyday antics, facing silly challenges, unexpected adventures and humorous situations in their unconventional world.</desc>
@@ -34680,7 +34889,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e8fd212d38e9722b488ed9bee3fd6602.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260825160000 +0530" stop="20260825170000 +0530" channel="cn.hd+.english.in">
     <title lang="en-GB">Regular Show</title>
     <desc lang="en-GB">A blue jay named Mordecai and a raccoon called Rigby work as groundskeepers at a local park and get into surreal misadventures whenever they attempt to slack off.</desc>
@@ -36055,7 +36263,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/81a15cbf3a38c4852e7e10d0abfaab22.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20260823133500 +0530" stop="20260823152300 +0530" channel="romedy.now.in">
     <title lang="en-GB">What Men Want</title>
     <desc lang="en-GB">Magically able to hear what men are thinking, a sports agent uses her new-found ability to turn the tables on her obnoxious male colleagues while working to sign the next basketball superstar.</desc>
@@ -36738,6 +36945,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ef1ca08c59e8d460b1e6653dd26d30be.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260822101500 +0530" stop="20260822103000 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">Uttar Pradesh T20 League Highlights</title>
     <desc lang="en-GB">Uttar Pradesh T20 League Highlights.</desc>
@@ -38813,6 +39021,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260823090000 +0530" stop="20260823090500 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2347;&#2377;&#2354;&#2379; &#2342; &#2348;&#2381;&#2354;&#2370;&#2332; &#2347;&#2367;&#2354;&#2352;</title>
     <desc lang="hi-IN">Follow the Blues Filler.</desc>
@@ -39021,6 +39230,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ef1ca08c59e8d460b1e6653dd26d30be.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260824000000 +0530" stop="20260824020000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">2026 &#2350;&#2375;&#2344;&#2381;&#2360; &#2319;&#2398;&#2310;&#2312;&#2319;&#2330; &#2361;&#2377;&#2325;&#2368; &#2357;&#2352;&#2381;&#2354;&#2381;&#2337; &#2325;&#2346;</title>
     <desc lang="hi-IN">Coverage of the 16th edition quadrennial world championship. From host countries Belgium and Netherlands.</desc>
@@ -39192,6 +39402,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20260824090000 +0530" stop="20260824090500 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2347;&#2377;&#2354;&#2379; &#2342; &#2348;&#2381;&#2354;&#2370;&#2332; &#2347;&#2367;&#2354;&#2352;</title>
     <desc lang="hi-IN">Follow the Blues Filler.</desc>
@@ -40039,6 +40250,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p33586417_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E29</episode-num>
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260822160000 +0530" stop="20260822163000 +0530">
     <title lang="en">Ganga Mai Ki Betiyaan</title>
     <desc lang="en">After her husband abandons her for not giving birth to a son, a resilient Ganga Mai dedicates herself to raising her three daughters with unwavering strength, grace, and affection.</desc>
@@ -41445,7 +41657,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d2d0fa8027882dbb964f6164d82061cf.jpg" />
     <premiere />
   </programme>
-  
 <programme channel="9x.jalwa.in" start="20260822130000 +0530" stop="20260822133000 +0530">
     <title lang="hi-IN">&#2360;&#2369;&#2346;&#2352; &#2360;&#2381;&#2357;&#2376;&#2327;</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the latest and popular songs composed by various artists and bands is played back to back.</desc>
@@ -41661,6 +41872,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/43fd2db4f49312b1450d1539a8374d6d.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9x.jalwa.in" start="20260823023000 +0530" stop="20260823030000 +0530">
     <title lang="hi-IN">&#2352;&#2366;&#2340; &#2349;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -42895,6 +43107,7 @@
     <category lang="en">Reality - Talent</category>
     <icon src="https://dtil.tmsimg.com/assets/p32048054_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="nick.in" start="20260822170000 +0530" stop="20260822200000 +0530">
     <title lang="en">Chikoo Aur Bunty Ke Pyaar Ka Tashan</title>
     <desc lang="en">Two brothers, Chikoo and Bunty, fight and argue occasionally, but in their hearts, they love each other. They often find themselves in and out of trouble due to their antics.</desc>
@@ -48987,7 +49200,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p8862533_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E1695</episode-num>
   </programme>
-  
 <programme channel="sony.pal.in" start="20260823020000 +0530" stop="20260823021600 +0530">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">As the oath is now known to everyone in Gokuldham Society, Daya's mother offers a solution that's even tougher to follow.</desc>
@@ -51178,7 +51390,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p33120073_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E70</episode-num>
   </programme>
-  
 <programme channel="sony.sab.in" start="20260823000000 +0530" stop="20260823003000 +0530">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">Tapu impresses Bhide and Madhavi by helping them fix the computer. However, Bhide becomes hooked on using social media.</desc>
@@ -51945,7 +52156,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p8163404_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="sony.sports.ten.1.hd.in" start="20260822160000 +0530" stop="20260822163000 +0530">
     <title lang="en">Medal of Glory Weightlifting; Commonwealth Games 2026</title>
     <desc lang="en">Professional athletes across various disciplines engage in fierce competition to claim victory at the 2026 Commonwealth Games.</desc>
@@ -54906,6 +55116,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p33711152_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.1.hd.in" start="20260822141500 +0530" stop="20260822143000 +0530">
     <title lang="en">Assam Premier League Cricket Highlights</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
@@ -55414,6 +55625,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p30823701_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.1.hd.hindi.in" start="20260822183000 +0530" stop="20260822184500 +0530">
     <title lang="en">2026: Saint Lucia Kings vs. Jamaica Kingsmen, 13th Match; CPL T20 Highlights</title>
     <desc lang="en">The highlights of the cricket match feature exciting batting, skillful bowling, spectacular catches and nail-biting finishes as teams compete for victory.</desc>
@@ -55453,7 +55665,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p18658378_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="star.sports.1.hd.hindi.in" start="20260822230000 +0530" stop="20260822230500 +0530">
     <title lang="en">Follow the Blues Filler</title>
     <desc lang="en">This is Sport - Sport Category.</desc>
@@ -55683,6 +55894,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p33711152_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.2.hd.in" start="20260822103000 +0530" stop="20260822120000 +0530">
     <title lang="en">Live - BWF World Tour Badminton</title>
     <desc lang="en">Elite shuttlers compete in international competitions across the BWF World Tour, vying for ranking points and prestigious titles.</desc>
@@ -55936,6 +56148,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p30984086_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.2.hindi.hd.in" start="20260822091500 +0530" stop="20260822093000 +0530">
     <title lang="en">New Delhi Tigers vs. West Delhi Lions; Delhi Premier League T20 Highlights</title>
     <desc lang="en">Highlights from the Delhi Premier League T20 wherein professional cricket teams compete against each other to emerge victorious.</desc>
@@ -56016,6 +56229,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p30823701_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.2.hindi.hd.in" start="20260822123000 +0530" stop="20260822130000 +0530">
     <title lang="en">ICC CWC 2023: New Zealand vs South Africa, 32nd Match; One-Day International Cricket</title>
     <desc lang="en">An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
@@ -56309,7 +56523,6 @@
     <category lang="en">Sport</category>
     <icon src="https://dtil.tmsimg.com/assets/p33655002_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="star.sports.2.hindi.hd.in" start="20260823073500 +0530" stop="20260823080000 +0530">
     <title lang="en">1st ODI: India v South Africa; One-Day International Cricket</title>
     <desc lang="en">An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
@@ -56998,7 +57211,6 @@
     <category lang="en">Football</category>
     <icon src="https://dtil.tmsimg.com/assets/p22520376_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="star.sports.select.2.hd.in" start="20260822121500 +0530" stop="20260822123000 +0530">
     <title lang="en">Men To Watch At The US Open</title>
     <desc lang="en">This is TV Show - Entertainment Category.</desc>
@@ -57269,6 +57481,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p25776530_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E96</episode-num>
   </programme>
+  
 <programme channel="star.utsav.in" start="20260822120000 +0530" stop="20260822130000 +0530">
     <title lang="en">Dil Kya Kare</title>
     <desc lang="en">This is TV Show - Drama Category.</desc>
@@ -58608,6 +58821,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p26316173_b_h9_ae.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E64</episode-num>
   </programme>
+  
 <programme channel="sony.yay.in" start="20260822172900 +0530" stop="20260822173700 +0530">
     <title lang="en">Shin Chan</title>
     <desc lang="en">Misae tries to realise her dreams of baking cookies with her child and Shin-chan prepares them in the shape of their faces.</desc>
@@ -59679,6 +59893,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24103923_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E51</episode-num>
   </programme>
+  
 <programme channel="sony.yay.in" start="20260823043800 +0530" stop="20260823044900 +0530">
     <title lang="en">Honey Bunny Ka Jholmaal</title>
     <desc lang="en">Twin cats Honey and Bunny protect each other from enemies on their adventures.</desc>
@@ -60760,7 +60975,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p20487569_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S9 E8</episode-num>
   </programme>
-  
 <programme channel="tlc.hd.in" start="20260823070000 +0530" stop="20260823080000 +0530">
     <title lang="en">Say Yes To The Dress: Lancashire</title>
     <desc lang="en">Nina wants a unique look, but is Gok's idea of a jumpsuit too much? Tracey wants a dramatic dress and is joined by her ex and his new wife.</desc>
@@ -60898,7 +61112,6 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p8390087_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="tv9.kannada.in" start="20260822160000 +0530" stop="20260822163000 +0530">
     <title lang="en">News Bulletin</title>
     <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
@@ -62078,7 +62291,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p20400177_b_h9_aj.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E697</episode-num>
   </programme>
-  
 <programme channel="zee.anmol.in" start="20260822183000 +0530" stop="20260822190000 +0530">
     <title lang="en">Bhagya Lakshmi</title>
     <desc lang="en">Bhagya surprises everyone by taking the family to the showroom for the delivery of the car. Meanwhile, Shreshta and Kannika join forces to devise a plan to defeat Bhagya.</desc>
@@ -62801,6 +63013,7 @@
     <category lang="en">Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="zee.cinema.hd.in" start="20260823013500 +0530" stop="20260823040800 +0530">
     <title lang="en">Movie</title>
     <desc lang="en">Bringing the best in television.</desc>
@@ -64347,7 +64560,6 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29741615_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="9x.jhakaas.in" start="20260822180000 +0530" stop="20260822183000 +0530">
     <title lang="en">Breakless - Jhakaas Hits</title>
     <desc lang="en">A comprehensive compilation of some of the most popular songs sung by renowned artistes in various music genres is played back to back.</desc>
@@ -65086,6 +65298,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="9xm.in" start="20260822211500 +0530" stop="20260822213000 +0530">
     <title lang="en">9XM Music Idhar Hai</title>
     <desc lang="en">A comprehensive compilation of some of the hit songs composed by renowned artists and musicians is played back-to-back along with some popular jokes.</desc>
@@ -65127,7 +65340,6 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29726517_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="9xm.in" start="20260823000000 +0530" stop="20260823003000 +0530">
     <title lang="en">9xm Raat Bhar</title>
     <desc lang="en">A compilation of some of the most popular Hindi songs by famous recording artists, played in succession for everyone to enjoy.</desc>
@@ -65738,6 +65950,7 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p9104266_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="animal.planet.hd.world.in" start="20260822084500 +0530" stop="20260822093500 +0530">
     <title lang="en">Wild Kingdoms</title>
     <desc lang="en">Rivers are the lifeblood Africa's arid landscapes. But while they offer sustenance, the kings of the water take no prisoners here.</desc>
@@ -66328,7 +66541,6 @@
     <category lang="en">Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="big.magic.in" start="20260823040000 +0530" stop="20260823060000 +0530">
     <title lang="en">Movie</title>
     <desc lang="en">Bringing the best in television.</desc>
@@ -69248,6 +69460,7 @@
     <category lang="en">Consumer</category>
     <icon src="https://dtil.tmsimg.com/assets/p7947238_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="dhoom.music.in" start="20260822153000 +0530" stop="20260822160000 +0530">
     <title lang="en">Maha Prabhu</title>
     <desc lang="en">This is TV Show - Religious Category.</desc>
@@ -70105,6 +70318,7 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p26974798_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="discovery.kids.in" start="20260822113400 +0530" stop="20260822120000 +0530">
     <title lang="en">Titoo</title>
     <desc lang="en">Titoo, an inspiring eight-year-old boy, wishes to help everyone in need. However, his attempts only get him into trouble.</desc>
@@ -70502,7 +70716,6 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p26974798_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="discovery.kids.in" start="20260822185700 +0530" stop="20260822190900 +0530">
     <title lang="en">Titoo</title>
     <desc lang="en">At the society's painting competition, a power outage gives Shera an opportunity to cause mischief, but Titoo has plans of his own.</desc>
@@ -71182,7 +71395,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p27070770_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S3 E20</episode-num>
   </programme>
-  
 <programme channel="discovery.kids.in" start="20260823053000 +0530" stop="20260823054000 +0530">
     <title lang="en">Kris Roll No 21</title>
     <desc lang="en">The children enjoy the new swings and rides in the playground. Meanwhile, Kanishk is concerned about the growing friendship between Golu and Kris.</desc>
@@ -72795,6 +73007,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p21709867_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S11 E9</episode-num>
   </programme>
+  
 <programme channel="discovery.turbo.in" start="20260822130600 +0530" stop="20260822133000 +0530">
     <title lang="en">All Girls Garage</title>
     <desc lang="en">Ladies, start your engines! 'All Girls Garage' taps into the expertise of three women repairing cars and motorcycles, in order to prove that they have what it takes to run a female-dominated car shop.</desc>
@@ -76175,6 +76388,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p18932402_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S5 E1</episode-num>
   </programme>
+  
 <programme channel="national.geographic.hd.in" start="20260822222700 +0530" stop="20260822231200 +0530">
     <title lang="en">Destruction Decoded</title>
     <desc lang="en">The filmmaker discovers the numerous causes and errors that cause major transportation failures and disastrous collisions.</desc>
@@ -77642,6 +77856,7 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E17</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20260824103000 -0500" stop="20260824110000 -0500">
     <title lang="pl">Unbound</title>
     <sub-title lang="pl">Bled, Slovenia</sub-title>
@@ -78190,6 +78405,7 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20260825210000 -0500" stop="20260825213000 -0500">
     <title lang="pl">10 Days Sri Lanka</title>
     <sub-title lang="pl">Galle</sub-title>
@@ -78845,6 +79061,7 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E20</episode-num>
   </programme>
+  
 <programme channel="nick.in" start="20260822053000 -0500" stop="20260822054500 -0500">
     <title lang="pl">Willkommen bei den Louds 4</title>
     <sub-title lang="pl">Das Ratten-Monster</sub-title>
@@ -80089,7 +80306,6 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E276</episode-num>
   </programme>
-  
 <programme channel="nick.in" start="20260824123500 -0500" stop="20260824130000 -0500">
     <title lang="pl">SpongeBob Schwammkopf 13</title>
     <title lang="xx">SpongeBob SquarePants</title>
@@ -81485,6 +81701,7 @@
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S3E1</episode-num>
   </programme>
+  
 <programme channel="national.geographic.hd.in" start="20260823120000 -0500" stop="20260823130000 -0500">
     <title lang="pl">Sekrety staro&#380;ytnej medycyny</title>
     <title lang="xx">Mysteries of Ancient Medicine</title>
@@ -81743,6 +81960,7 @@
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
+  
 <programme channel="national.geographic.hd.in" start="20260824130000 -0500" stop="20260824140000 -0500">
     <title lang="pl">Katastrofa w przestworzach</title>
     <title lang="xx">Air Crash Investigation</title>
@@ -82825,6 +83043,7 @@
     <category lang="pl">program rozrywkowy</category>
     <episode-num system="onscreen">S3E8</episode-num>
   </programme>
+  
 <programme channel="tlc.hd.in" start="20260824000000 -0500" stop="20260824010000 -0500">
     <title lang="pl">Salon sukien &#347;lubnych Goka: Wielka Brytania</title>
     <title lang="xx">Say Yes to the Dress Lancashire 2</title>
@@ -89193,7 +89412,6 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E31</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20260825003000 -0500" stop="20260825004500 -0500">
     <title lang="pl">Craig znad Potoku 4</title>
     <title lang="xx">Craig of the Creek</title>
@@ -89718,6 +89936,7 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E7</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20260825104000 -0500" stop="20260825105000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 5</title>
     <title lang="xx">The Amazing World of Gumball 5</title>
@@ -90890,6 +91109,7 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20260822160000 -0500" stop="20260822170000 -0500">
     <title lang="pl">Tajemnice Alaski</title>
     <title lang="xx">The Alaska Triangle</title>
@@ -90937,7 +91157,6 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260822200000 -0500" stop="20260822210000 -0500">
     <title lang="pl">Przypadki z archiwum 10</title>
     <title lang="xx">Expedition X</title>
@@ -91693,7 +91912,6 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20260825090000 -0500" stop="20260825100000 -0500">
     <title lang="pl">Jak dzia&#322;a wszech&#347;wiat</title>
     <title lang="xx">How the Universe Works 5</title>
@@ -92816,7 +93034,6 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E37</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20260822050000 -0500" stop="20260822053000 -0500">
     <title lang="pl">Spidey i superkumple 3</title>
     <title lang="xx">Marvel Meet Spidey and His Amazing Friends</title>
@@ -93816,6 +94033,7 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E115</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260823154000 -0500" stop="20260823155000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -94119,7 +94337,6 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E120</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20260824003000 -0500" stop="20260824004000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -94600,6 +94817,7 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E142</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260824154000 -0500" stop="20260824155000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -94903,7 +95121,6 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E147</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20260825003000 -0500" stop="20260825004000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -95646,6 +95863,7 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20260825233000 -0500" stop="20260826000000 -0500">
     <title lang="pl">Jej Wysoko&#347;&#263; Zosia: Kr&#243;lewska Szko&#322;a Magii</title>
     <title lang="xx">Sofia the First: Royal Magic</title>
@@ -96364,6 +96582,7 @@ Trzydziestotrzyletnia Milena uzale&#380;ni&#322;a si&#281; od zabieg&#243;w medy
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E25</episode-num>
   </programme>
+  
 <programme channel="disney.channel.in" start="20260822002500 -0500" stop="20260822005000 -0500">
     <title lang="pl">Greenowie w wielkim mie&#347;cie</title>
     <title lang="xx">Big City Greens</title>
@@ -97061,6 +97280,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E78</episode-num>
   </programme>
+  
 <programme channel="disney.channel.in" start="20260823065000 -0500" stop="20260823072000 -0500">
     <title lang="pl">Fineasz i Ferb 3</title>
     <title lang="xx">Phineas and Ferb</title>
@@ -98512,7 +98732,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E86</episode-num>
   </programme>
-  
 <programme channel="disney.channel.in" start="20260825122000 -0500" stop="20260825125000 -0500">
     <title lang="pl">Greenowie w wielkim mie&#347;cie 4</title>
     <title lang="xx">Big City Greens</title>
@@ -99732,6 +99951,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="sony.max.2.in" start="20260824061000 +0000" stop="20260824064500 +0000">
     <title lang="en">Conversation With Rajkummar Rao 1</title>
     <desc lang="en">Rajkummar Rao, one of the most talented and versatile actors today, talks about his being an outsider to the industry, the different shades of unique characters he plays and his success.</desc>
@@ -100608,6 +100828,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="sony.sab.in" start="20260822120800 +0000" stop="20260822123400 +0000">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
@@ -101866,6 +102087,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/f5943cee-b75b-4d33-b994-05ad4bea8ff6/16-9" />
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260821030000 +0000" stop="20260821033000 +0000">
     <title lang="en">Ganga Mai Ki Betiyan</title>
     <desc lang="en">Abandoned for not bearing a son, Ganga defiantly raises her three daughters in Varanasi, and their hard-won triumphs become her greatest victory despite injustice and hardship.</desc>
@@ -101905,7 +102127,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/dbfd208a-5bb3-4d42-b69b-a13b17926817/16-9" />
   </programme>
-  
 <programme channel="zee.tv.hd.in" start="20260821060000 +0000" stop="20260821063000 +0000">
     <title lang="en">Brahma Kumaris</title>
     <desc lang="en">Seeking inner peace? Join Brahma Kumari's Podcast for wisdom on meditation, positivity, and overcoming life's challenges with spiritual growth.</desc>
@@ -102346,6 +102567,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <category lang="en">Drama</category>
     <icon src="https://images.metadata.sky.com/pd-image/e9eccfc4-f4ac-443f-bcf9-5edd2350ffc9/16-9" />
   </programme>
+  
 <programme channel="zee.tv.hd.in" start="20260822173000 +0000" stop="20260822180000 +0000">
     <title lang="en">Tu Hi Re Dil Mein</title>
     <desc lang="en">Vrinda marries her dream man, Sanjay, to bring him luck. However, Sanjay loves Divya. Living as a caretaker, Vrinda silently sacrifices her happiness, waiting on fate.</desc>
@@ -103324,6 +103546,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
       <value>U</value>
     </rating>
   </programme>
+  
 <programme channel="skysp.cricket.in" start="20260822050000 +0000" stop="20260822060000 +0000">
     <title lang="en">1st Test D3: ENG v PAK Highlights</title>
     <desc lang="en">Dominant with the bat, England take a 195-run lead into the third day against Pakistan. Harry Brook narrowly missed out on a century, while returning captain Joe Root posted 66. (21.</desc>
@@ -104246,7 +104469,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <icon src="https://images.metadata.sky.com/pd-image/1d8de923-76a4-444f-aec2-74aff32dc2e4/16-9" />
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  
 <programme channel="tlc.hd.in" start="20260821020000 +0000" stop="20260821040000 +0000">
     <title lang="en">My 600-lb Life</title>
     <sub-title lang="en">John And Lonnie's Story</sub-title>
@@ -106716,7 +106938,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/9ebe56b3-6bb6-4ddc-b306-11a810d7e0d2/16-9" />
   </programme>
-  
 <programme channel="aaj.tak.in" start="20260823143000 +0000" stop="20260823150000 +0000">
     <title lang="en">Saas Bahu Betiyan</title>
     <desc lang="en">Aajtak Entertainment show on Indian TV programs.</desc>
@@ -107817,7 +108038,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <category lang="en">Entertainment</category>
     <icon src="https://images.metadata.sky.com/pd-image/51c0309a-8d2c-413a-abf0-9ded6daa9853/16-9" />
   </programme>
-  
 <programme channel="b4u.music.in" start="20260821203000 +0000" stop="20260821210000 +0000">
     <title lang="en">Bollywood Bang Bang</title>
     <desc lang="en">B4U presents the hit tracks of the biggest Bollywood stars. Catch the best tracks of your favourite stars, from King Khan, Akshay Kumar, Kareena Kapoor to Katrina Kaif.</desc>
@@ -110385,7 +110605,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <icon src="https://images.metadata.sky.com/pd-image/4de6b943-6811-433f-9f3f-4c60723598c1/16-9" />
     <episode-num system="xmltv_ns">3.14.</episode-num>
   </programme>
-  
 <programme channel="mtv.hd.in" start="20260821090000 +0000" stop="20260821093000 +0000">
     <title lang="en">Judge Judy</title>
     <desc lang="en">Judge Judy Sheindlin, a former judge from New York, tackles actual, small claims cases with her no-nonsense attitude in which damages of no more than $5,000 can be awarded.</desc>
@@ -111101,6 +111320,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
     <icon src="https://images.metadata.sky.com/pd-image/9ddb0cfa-05c1-4d83-aa5c-49848dd4dc11/16-9" />
     <episode-num system="xmltv_ns">14.88.</episode-num>
   </programme>
+  
 <programme channel="mtv.hd.in" start="20260824110000 +0000" stop="20260824120000 +0000">
     <title lang="en">Charmed</title>
     <desc lang="en">When Prue witnesses a kidnapping, a reporter sees her using her powers. Phoebe and Piper attempt to learn more about the demons who stole the child and stop the reporter from exposing Prue.</desc>
@@ -117480,6 +117700,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
       <value>TVPG</value>
     </rating>
   </programme>
+  
 <programme channel="vh1.hd.in" start="20260822193000 +0000" stop="20260822203000 +0000">
     <title lang="en">America's Funniest Home Videos</title>
     <sub-title lang="en">Puppies, Scaredy Cats and Dogs, and Second Guy Bites It</sub-title>
@@ -119873,6 +120094,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260822131000 +0700" stop="20260822133000 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
+  
 <programme start="20260822133000 +0700" stop="20260822141500 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
@@ -120060,7 +120282,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260824110000 +0700" stop="20260824112000 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
-  
 <programme start="20260824112000 +0700" stop="20260824114500 +0700" channel="mtv.in">
     <title lang="en">Ridiculousness</title>
   </programme>
@@ -120300,6 +120521,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260822044500 +0700" stop="20260822053300 +0700" channel="tlc.hd.in">
     <title lang="en">Jay &amp; Pamela</title>
   </programme>
+  
 <programme start="20260822053300 +0700" stop="20260822061900 +0700" channel="tlc.hd.in">
     <title lang="en">Baylen Out Loud</title>
   </programme>
@@ -120487,7 +120709,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260823161000 +0700" stop="20260823163200 +0700" channel="tlc.hd.in">
     <title lang="en">Cake Boss</title>
   </programme>
-  
 <programme start="20260823163200 +0700" stop="20260823165500 +0700" channel="tlc.hd.in">
     <title lang="en">Cake Boss</title>
   </programme>
@@ -120899,7 +121120,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260823085500 +0700" stop="20260823100500 +0700" channel="supersport.school.hd.in">
     <title lang="en">Halala Cup '26</title>
   </programme>
-  
 <programme start="20260823100500 +0700" stop="20260823110000 +0700" channel="supersport.school.hd.in">
     <title lang="en">Football on 216</title>
   </programme>
@@ -121099,6 +121319,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260822095000 +0700" stop="20260822101000 +0700" channel="disney.channel.in">
     <title lang="en">Kiff</title>
   </programme>
+  
 <programme start="20260822101000 +0700" stop="20260822103000 +0700" channel="disney.channel.in">
     <title lang="en">Kiff</title>
   </programme>
@@ -121498,6 +121719,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260824032000 +0700" stop="20260824034000 +0700" channel="disney.channel.in">
     <title lang="en">O11CE: New Generation</title>
   </programme>
+  
 <programme start="20260824034000 +0700" stop="20260824040000 +0700" channel="disney.channel.in">
     <title lang="en">O11CE: New Generation</title>
   </programme>
@@ -121901,6 +122123,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260825182500 +0700" stop="20260825185000 +0700" channel="disney.channel.in">
     <title lang="en">Gravity Falls</title>
   </programme>
+  
 <programme start="20260825185000 +0700" stop="20260825191000 +0700" channel="disney.channel.in">
     <title lang="en">Phineas And Ferb</title>
   </programme>
@@ -122336,6 +122559,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260823033000 +0700" stop="20260823034000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
+  
 <programme start="20260823034000 +0700" stop="20260823035000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -122523,7 +122747,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260823145500 +0700" stop="20260823150500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
-  
 <programme start="20260823150500 +0700" stop="20260823151000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -122759,6 +122982,7 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260824065000 +0700" stop="20260824071500 +0700" channel="disney.junior.in">
     <title lang="en">Spidey and His Amazing Friends</title>
   </programme>
+  
 <programme start="20260824071500 +0700" stop="20260824074000 +0700" channel="disney.junior.in">
     <title lang="en">Spidey and His Amazing Friends</title>
   </programme>
@@ -123374,7 +123598,6 @@ Fretka skr&#281;ca kostk&#281; i musi sp&#281;dzi&#263; ca&#322;y dzie&#324; w &
 <programme start="20260825194000 +0700" stop="20260825200500 +0700" channel="disney.junior.in">
     <title lang="en">Sofia The First</title>
   </programme>
-  
 <programme start="20260825200500 +0700" stop="20260825203000 +0700" channel="disney.junior.in">
     <title lang="en">Sofia The First</title>
   </programme>
