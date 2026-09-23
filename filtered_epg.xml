@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20260923092540 +0000">
+<tv generator-info-name="filtered_epg" date="20260923172346 +0000">
 <channel id="star.life.in">
     <display-name lang="sq">Star Life</display-name>
     <icon src="https://vimg.ipko.tv/logo/color/starlife.png" />
@@ -19,18 +19,18 @@
     <url>http://www.foxtel.com</url>
   </channel>
   
-<channel id="cartoon.network.in">
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch443_160_115" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch443_160_115" />
-    <url>http://www.nowplayer.now.com</url>
-    <display-name lang="en">Cartoon Network</display-name>
-  </channel>
-  
 <channel id="discovery.science.in">
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <url>http://www.nowplayer.now.com</url>
     <display-name lang="en">Discovery Science</display-name>
+  </channel>
+  
+<channel id="sony.sab.in">
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
+    <url>http://www.nowplayer.now.com</url>
+    <display-name lang="en">Sony SAB</display-name>
   </channel>
   
 <channel id="star.gold.in">
@@ -40,11 +40,11 @@
     <display-name lang="en">Star Gold</display-name>
   </channel>
   
-<channel id="sony.sab.in">
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
+<channel id="cartoon.network.in">
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch443_160_115" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch443_160_115" />
     <url>http://www.nowplayer.now.com</url>
-    <display-name lang="en">Sony SAB</display-name>
+    <display-name lang="en">Cartoon Network</display-name>
   </channel>
   
 <channel id="tlc.hd.in">
@@ -676,494 +676,11 @@
     <url>http://www.tvwish.com</url>
   </channel>
   
-<channel id="dhoom.music.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/m7ZrH52c.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/m7ZrH52c.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">DHOOM MUSIC</display-name>
-  </channel>
-  
-<channel id="discovery.hd.world.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NbLsoaej.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NbLsoaej.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">DISCOVERY HD WORLD</display-name>
-  </channel>
-  
-<channel id="9x.jhakaas.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jAMLQBxF.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jAMLQBxF.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">9X JHAKAAS</display-name>
-  </channel>
-  
-<channel id="animal.planet.hd.world.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/I4SGkIgK.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/I4SGkIgK.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ANIMAL PLANET HD WORLD</display-name>
-  </channel>
-  
-<channel id="mtv.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cVfreH6f.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cVfreH6f.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">MTV</display-name>
-  </channel>
-  
-<channel id="eurosports.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5NRgVjlQ.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5NRgVjlQ.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">EUROSPORTS HD</display-name>
-  </channel>
-  
-<channel id="star.sports.3.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ArxHAGxh.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ArxHAGxh.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS 3</display-name>
-  </channel>
-  
-<channel id="star.movies.select.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/glgBSfm7.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/glgBSfm7.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR MOVIES SELECT HD</display-name>
-  </channel>
-  
-<channel id="9xm.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/c2psZdqA.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/c2psZdqA.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">9XM</display-name>
-  </channel>
-  
-<channel id="zing.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CyOSMlN2.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CyOSMlN2.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZING</display-name>
-  </channel>
-  
-<channel id="pogo.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IIdmoZoE.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IIdmoZoE.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">POGO</display-name>
-  </channel>
-  
-<channel id="cartoon.network.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/KI6QZhmI.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/KI6QZhmI.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">CARTOON NETWORK</display-name>
-  </channel>
-  
-<channel id="star.sports.2.hindi.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS 2 HINDI HD</display-name>
-  </channel>
-  
-<channel id="zee.tv.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mhmx6AmO.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mhmx6AmO.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZEE TV HD</display-name>
-  </channel>
-  
-<channel id="sonic.nickelodeon.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7VD9q8eQ.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7VD9q8eQ.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONIC NICKELODEON</display-name>
-  </channel>
-  
-<channel id="tlc.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HiVOmW3L.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HiVOmW3L.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">TLC HD</display-name>
-  </channel>
-  
-<channel id="showbox.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Ja3iR7EG.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Ja3iR7EG.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">Showbox</display-name>
-  </channel>
-  
-<channel id="movies.now.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rFi98AYq.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rFi98AYq.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">MOVIES NOW</display-name>
-  </channel>
-  
-<channel id="aaj.tak.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jr7GDkll.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jr7GDkll.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">AAJ TAK</display-name>
-  </channel>
-  
-<channel id="and.xplorhd.in">
-    <icon src="https://akamaividz.zee5.com/resources/0-9-209/list/170x120/.png" />
-    <icon src="https://akamaividz.zee5.com/resources/0-9-209/list/170x120/.png" />
-    <url>http://www.zee5.com</url>
-    <display-name lang="en">and xplorHD</display-name>
-  </channel>
-  
-<channel id="zee.classic.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/b4K3bMOT.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/b4K3bMOT.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZEE CLASSIC</display-name>
-  </channel>
-  
-<channel id="disney.junior.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jmqryXlW.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jmqryXlW.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">DISNEY JUNIOR</display-name>
-  </channel>
-  
-<channel id="sony.max.2.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EIkNgGgX.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EIkNgGgX.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY MAX 2</display-name>
-  </channel>
-  
-<channel id="star.gold.thrills.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OWglDdCC.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OWglDdCC.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR GOLD THRILLS</display-name>
-  </channel>
-  
-<channel id="colors.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ez7MY6Yj.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ez7MY6Yj.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">COLORS HD</display-name>
-  </channel>
-  
-<channel id="colors.infinity.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Su2qMlC9.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Su2qMlC9.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">COLORS INFINITY HD</display-name>
-  </channel>
-  
-<channel id="tv9.kannada.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QrUvXBQ.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QrUvXBQ.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">TV9 KANNADA</display-name>
-  </channel>
-  
-<channel id="sony.max.1.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9zefTVzO.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9zefTVzO.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY MAX 1</display-name>
-  </channel>
-  
-<channel id="star.utsav.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/SMnGVij5.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/SMnGVij5.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR UTSAV</display-name>
-  </channel>
-  
-<channel id="sony.sports.ten.2.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FSG6zC9Q.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FSG6zC9Q.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY SPORTS TEN 2 HD</display-name>
-  </channel>
-  
-<channel id="nick.jr.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7h7t1H1f.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7h7t1H1f.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">NICK JR</display-name>
-  </channel>
-  
-<channel id="india.tv.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zKszkKQ7.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zKszkKQ7.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">INDIA TV</display-name>
-  </channel>
-  
-<channel id="star.gold.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fId5kfi3.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fId5kfi3.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR GOLD</display-name>
-  </channel>
-  
-<channel id="9x.jalwa.in">
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/images/channel/57606234341a79b1c062b10743acadcd.png" />
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/images/channel/57606234341a79b1c062b10743acadcd.png" />
-    <url>http://www.jio.com</url>
-    <display-name lang="en">9X Jalwa</display-name>
-  </channel>
-  
-<channel id="star.gold.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DvfrYoaM.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DvfrYoaM.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR GOLD HD</display-name>
-  </channel>
-  
-<channel id="zee.anmol.cinema.2.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/AN9WR6cw.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/AN9WR6cw.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZEE ANMOL CINEMA 2</display-name>
-  </channel>
-  
-<channel id="sony.sab.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qRqldHfa.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qRqldHfa.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY SAB</display-name>
-  </channel>
-  
-<channel id="colors.rishtey.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/o5uzGuGM.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/o5uzGuGM.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">COLORS RISHTEY</display-name>
-  </channel>
-  
-<channel id="zee.bollywood.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iy9FQKIX.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iy9FQKIX.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZEE Bollywood</display-name>
-  </channel>
-  
-<channel id="sony.pix.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hYyZH1sL.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hYyZH1sL.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY PIX HD</display-name>
-  </channel>
-  
-<channel id="star.sports.select.1.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/77F6TJgZ.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/77F6TJgZ.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS SELECT 1 HD</display-name>
-  </channel>
-  
-<channel id="star.sports.2.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pwp8J23o.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pwp8J23o.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS 2 HD</display-name>
-  </channel>
-  
-<channel id="history.tv18.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zVa9rPPi.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zVa9rPPi.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">HISTORY TV18 HD</display-name>
-  </channel>
-  
-<channel id="b4u.movies.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DMlor4ys.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DMlor4ys.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">B4U Movies</display-name>
-  </channel>
-  
-<channel id="star.utsav.movies.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4lqGdBTB.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4lqGdBTB.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR UTSAV MOVIES</display-name>
-  </channel>
-  
-<channel id="sony.wah.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jI6RzSQU.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jI6RzSQU.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY WAH</display-name>
-  </channel>
-  
-<channel id="sony.sports.ten.3.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY SPORTS TEN 3 HD</display-name>
-  </channel>
-  
-<channel id="sony.sports.ten.5.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uYDqxdc4.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uYDqxdc4.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY SPORTS TEN 5 HD</display-name>
-  </channel>
-  
-<channel id="colors.cineplex.superhits.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6wjC5FAv.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6wjC5FAv.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">COLORS CINEPLEX SUPERHITS</display-name>
-  </channel>
-  
-<channel id="sony.bbc.earth.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xZd8Gwlc.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xZd8Gwlc.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY BBC EARTH HD</display-name>
-  </channel>
-  
-<channel id="9x.tashan.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/C615rt6l.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/C615rt6l.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">9X TASHAN</display-name>
-  </channel>
-  
-<channel id="zee.action.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yWI2ui7p.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yWI2ui7p.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZEE ACTION</display-name>
-  </channel>
-  
 <channel id="star.sports.1.hd.hindi.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EU2zjOeN.png" />
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EU2zjOeN.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">STAR SPORTS 1 HD HINDI</display-name>
-  </channel>
-  
-<channel id="star.sports.1.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5KSkBXcJ.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5KSkBXcJ.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS 1 HD</display-name>
-  </channel>
-  
-<channel id="b4u.music.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pITdVWJC.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pITdVWJC.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">B4U MUSIC</display-name>
-  </channel>
-  
-<channel id="zee.anmol.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZEE ANMOL</display-name>
-  </channel>
-  
-<channel id="dangal.2.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HlSQHL1f.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HlSQHL1f.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">Dangal 2</display-name>
-  </channel>
-  
-<channel id="big.magic.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rsVzcAmI.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rsVzcAmI.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">BIG MAGIC</display-name>
-  </channel>
-  
-<channel id="sony.yay.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lUdumr2e.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lUdumr2e.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">Sony yay</display-name>
-  </channel>
-  
-<channel id="and.flix.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jcYmyEPo.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jcYmyEPo.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">and Flix HD</display-name>
-  </channel>
-  
-<channel id="nick.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ETfm2bHn.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ETfm2bHn.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">NICK</display-name>
-  </channel>
-  
-<channel id="star.gold.romance.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/USd2c3cM.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/USd2c3cM.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR GOLD ROMANCE</display-name>
-  </channel>
-  
-<channel id="discovery.science.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2GMNcvK5.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2GMNcvK5.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">Discovery Science</display-name>
-  </channel>
-  
-<channel id="sony.pal.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nh1KdrlO.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nh1KdrlO.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY PAL</display-name>
-  </channel>
-  
-<channel id="sony.sports.ten.1.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ryix5hzL.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ryix5hzL.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SONY SPORTS TEN 1 HD</display-name>
-  </channel>
-  
-<channel id="hungama.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GaYYSAbG.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GaYYSAbG.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">HUNGAMA</display-name>
-  </channel>
-  
-<channel id="disney.channel.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/F81XBGrQ.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/F81XBGrQ.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">DISNEY CHANNEL</display-name>
-  </channel>
-  
-<channel id="colors.super.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dixBH3qw.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dixBH3qw.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">COLORS SUPER</display-name>
-  </channel>
-  
-<channel id="set.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r6Ge7wR5.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r6Ge7wR5.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">SET HD</display-name>
-  </channel>
-  
-<channel id="b4u.kadak.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IwWnBbSr.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IwWnBbSr.png" />
-    <url>http://www.mydishtv.in</url>
-    <display-name lang="en">B4U KADAK</display-name>
   </channel>
   
 <channel id="tv9.marathi.in">
@@ -1173,11 +690,11 @@
     <display-name lang="en">TV9 MARATHI</display-name>
   </channel>
   
-<channel id="romedy.now.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XwN3paFv.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XwN3paFv.png" />
+<channel id="star.bharat.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fbvotjWN.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fbvotjWN.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ROMEDY NOW</display-name>
+    <display-name lang="en">STAR BHARAT HD</display-name>
   </channel>
   
 <channel id="sab.hd.in">
@@ -1187,11 +704,88 @@
     <display-name lang="en">SAB HD</display-name>
   </channel>
   
-<channel id="and.pictures.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6feqkRuy.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6feqkRuy.png" />
+<channel id="star.sports.select.1.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/77F6TJgZ.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/77F6TJgZ.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">and PICTURES HD</display-name>
+    <display-name lang="en">STAR SPORTS SELECT 1 HD</display-name>
+  </channel>
+  
+<channel id="star.gold.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DvfrYoaM.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DvfrYoaM.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR GOLD HD</display-name>
+  </channel>
+  
+<channel id="animal.planet.hd.world.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/I4SGkIgK.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/I4SGkIgK.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ANIMAL PLANET HD WORLD</display-name>
+  </channel>
+  
+<channel id="sony.sports.ten.3.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY SPORTS TEN 3 HD</display-name>
+  </channel>
+  
+<channel id="and.tv.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XiUfLI2p.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XiUfLI2p.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">and TV HD</display-name>
+  </channel>
+  
+<channel id="tv9.kannada.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QrUvXBQ.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QrUvXBQ.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">TV9 KANNADA</display-name>
+  </channel>
+  
+<channel id="b4u.movies.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DMlor4ys.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DMlor4ys.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">B4U Movies</display-name>
+  </channel>
+  
+<channel id="star.movies.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xOksMo1R.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xOksMo1R.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR MOVIES HD</display-name>
+  </channel>
+  
+<channel id="zing.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CyOSMlN2.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CyOSMlN2.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ZING</display-name>
+  </channel>
+  
+<channel id="9x.jalwa.in">
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/images/channel/57606234341a79b1c062b10743acadcd.png" />
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/images/channel/57606234341a79b1c062b10743acadcd.png" />
+    <url>http://www.jio.com</url>
+    <display-name lang="en">9X Jalwa</display-name>
+  </channel>
+  
+<channel id="big.magic.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rsVzcAmI.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rsVzcAmI.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">BIG MAGIC</display-name>
+  </channel>
+  
+<channel id="discovery.hd.world.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NbLsoaej.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NbLsoaej.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">DISCOVERY HD WORLD</display-name>
   </channel>
   
 <channel id="zee.cinema.hd.in">
@@ -1201,11 +795,18 @@
     <display-name lang="en">ZEE CINEMA HD</display-name>
   </channel>
   
-<channel id="zee.anmol.cinema.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png" />
+<channel id="history.tv18.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zVa9rPPi.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zVa9rPPi.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZEE ANMOL CINEMA</display-name>
+    <display-name lang="en">HISTORY TV18 HD</display-name>
+  </channel>
+  
+<channel id="mtv.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cVfreH6f.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cVfreH6f.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">MTV</display-name>
   </channel>
   
 <channel id="discovery.kids.in">
@@ -1215,39 +816,123 @@
     <display-name lang="en">DISCOVERY KIDS</display-name>
   </channel>
   
-<channel id="star.plus.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1DjwtgQi.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1DjwtgQi.png" />
+<channel id="star.sports.select.2.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ge6P8Fyy.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ge6P8Fyy.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR PLUS HD</display-name>
+    <display-name lang="en">STAR SPORTS SELECT 2 HD</display-name>
   </channel>
   
-<channel id="mn+.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Z29kBEEo.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Z29kBEEo.png" />
+<channel id="9x.jhakaas.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jAMLQBxF.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jAMLQBxF.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">MN+ HD</display-name>
+    <display-name lang="en">9X JHAKAAS</display-name>
   </channel>
   
-<channel id="star.sports.khel.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r1W3wpgX.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r1W3wpgX.png" />
+<channel id="sonic.nickelodeon.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7VD9q8eQ.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7VD9q8eQ.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">Star Sports Khel</display-name>
+    <display-name lang="en">SONIC NICKELODEON</display-name>
   </channel>
   
-<channel id="zoom.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NwnxFvVw.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NwnxFvVw.png" />
+<channel id="star.sports.2.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pwp8J23o.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pwp8J23o.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">ZOOM</display-name>
+    <display-name lang="en">STAR SPORTS 2 HD</display-name>
   </channel>
   
-<channel id="star.bharat.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fbvotjWN.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fbvotjWN.png" />
+<channel id="star.gold.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fId5kfi3.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fId5kfi3.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR BHARAT HD</display-name>
+    <display-name lang="en">STAR GOLD</display-name>
+  </channel>
+  
+<channel id="star.utsav.movies.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4lqGdBTB.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4lqGdBTB.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR UTSAV MOVIES</display-name>
+  </channel>
+  
+<channel id="cartoon.network.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/KI6QZhmI.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/KI6QZhmI.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">CARTOON NETWORK</display-name>
+  </channel>
+  
+<channel id="colors.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ez7MY6Yj.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ez7MY6Yj.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">COLORS HD</display-name>
+  </channel>
+  
+<channel id="nick.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ETfm2bHn.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ETfm2bHn.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">NICK</display-name>
+  </channel>
+  
+<channel id="star.gold.select.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sLCJGc6R.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sLCJGc6R.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">Star Gold Select HD</display-name>
+  </channel>
+  
+<channel id="tlc.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HiVOmW3L.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HiVOmW3L.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">TLC HD</display-name>
+  </channel>
+  
+<channel id="and.flix.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jcYmyEPo.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jcYmyEPo.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">and Flix HD</display-name>
+  </channel>
+  
+<channel id="aaj.tak.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jr7GDkll.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jr7GDkll.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">AAJ TAK</display-name>
+  </channel>
+  
+<channel id="sony.sports.ten.2.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FSG6zC9Q.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FSG6zC9Q.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY SPORTS TEN 2 HD</display-name>
+  </channel>
+  
+<channel id="zee.anmol.cinema.2.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/AN9WR6cw.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/AN9WR6cw.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ZEE ANMOL CINEMA 2</display-name>
+  </channel>
+  
+<channel id="dhoom.music.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/m7ZrH52c.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/m7ZrH52c.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">DHOOM MUSIC</display-name>
+  </channel>
+  
+<channel id="zee.anmol.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oEPKfHOX.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ZEE ANMOL</display-name>
   </channel>
   
 <channel id="nick.hd+.in">
@@ -1264,25 +949,25 @@
     <display-name lang="en">DD Sports</display-name>
   </channel>
   
-<channel id="and.tv.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XiUfLI2p.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XiUfLI2p.png" />
+<channel id="colors.rishtey.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/o5uzGuGM.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/o5uzGuGM.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">and TV HD</display-name>
+    <display-name lang="en">COLORS RISHTEY</display-name>
   </channel>
   
-<channel id="national.geographic.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eMflO13P.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eMflO13P.png" />
+<channel id="sony.sports.ten.1.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ryix5hzL.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ryix5hzL.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">NATIONAL GEOGRAPHIC HD</display-name>
+    <display-name lang="en">SONY SPORTS TEN 1 HD</display-name>
   </channel>
   
-<channel id="star.sports.select.2.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ge6P8Fyy.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ge6P8Fyy.png" />
+<channel id="disney.channel.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/F81XBGrQ.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/F81XBGrQ.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR SPORTS SELECT 2 HD</display-name>
+    <display-name lang="en">DISNEY CHANNEL</display-name>
   </channel>
   
 <channel id="nat.geo.wild.hd.in">
@@ -1292,18 +977,290 @@
     <display-name lang="en">NAT GEO WILD HD</display-name>
   </channel>
   
-<channel id="dangal.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/neiqmb6i.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/neiqmb6i.png" />
+<channel id="star.sports.khel.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r1W3wpgX.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r1W3wpgX.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">DANGAL</display-name>
+    <display-name lang="en">Star Sports Khel</display-name>
   </channel>
   
-<channel id="star.gold.select.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sLCJGc6R.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/sLCJGc6R.png" />
+<channel id="star.gold.romance.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/USd2c3cM.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/USd2c3cM.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">Star Gold Select HD</display-name>
+    <display-name lang="en">STAR GOLD ROMANCE</display-name>
+  </channel>
+  
+<channel id="sony.max.1.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9zefTVzO.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9zefTVzO.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY MAX 1</display-name>
+  </channel>
+  
+<channel id="9x.tashan.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/C615rt6l.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/C615rt6l.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">9X TASHAN</display-name>
+  </channel>
+  
+<channel id="pogo.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IIdmoZoE.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IIdmoZoE.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">POGO</display-name>
+  </channel>
+  
+<channel id="set.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r6Ge7wR5.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/r6Ge7wR5.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SET HD</display-name>
+  </channel>
+  
+<channel id="b4u.music.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pITdVWJC.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pITdVWJC.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">B4U MUSIC</display-name>
+  </channel>
+  
+<channel id="star.plus.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1DjwtgQi.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1DjwtgQi.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR PLUS HD</display-name>
+  </channel>
+  
+<channel id="and.pictures.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6feqkRuy.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6feqkRuy.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">and PICTURES HD</display-name>
+  </channel>
+  
+<channel id="and.xplorhd.in">
+    <icon src="https://akamaividz.zee5.com/resources/0-9-209/list/170x120/.png" />
+    <icon src="https://akamaividz.zee5.com/resources/0-9-209/list/170x120/.png" />
+    <url>http://www.zee5.com</url>
+    <display-name lang="en">and xplorHD</display-name>
+  </channel>
+  
+<channel id="dangal.2.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HlSQHL1f.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HlSQHL1f.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">Dangal 2</display-name>
+  </channel>
+  
+<channel id="hungama.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GaYYSAbG.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GaYYSAbG.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">HUNGAMA</display-name>
+  </channel>
+  
+<channel id="zee.classic.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/b4K3bMOT.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/b4K3bMOT.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ZEE CLASSIC</display-name>
+  </channel>
+  
+<channel id="sony.sab.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qRqldHfa.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qRqldHfa.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY SAB</display-name>
+  </channel>
+  
+<channel id="sony.max.2.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EIkNgGgX.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EIkNgGgX.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY MAX 2</display-name>
+  </channel>
+  
+<channel id="movies.now.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rFi98AYq.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rFi98AYq.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">MOVIES NOW</display-name>
+  </channel>
+  
+<channel id="zee.action.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yWI2ui7p.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yWI2ui7p.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ZEE ACTION</display-name>
+  </channel>
+  
+<channel id="sony.pal.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nh1KdrlO.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nh1KdrlO.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY PAL</display-name>
+  </channel>
+  
+<channel id="colors.infinity.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Su2qMlC9.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Su2qMlC9.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">COLORS INFINITY HD</display-name>
+  </channel>
+  
+<channel id="sony.wah.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jI6RzSQU.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jI6RzSQU.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY WAH</display-name>
+  </channel>
+  
+<channel id="star.gold.thrills.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OWglDdCC.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OWglDdCC.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR GOLD THRILLS</display-name>
+  </channel>
+  
+<channel id="disney.junior.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jmqryXlW.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jmqryXlW.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">DISNEY JUNIOR</display-name>
+  </channel>
+  
+<channel id="star.sports.1.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5KSkBXcJ.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5KSkBXcJ.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR SPORTS 1 HD</display-name>
+  </channel>
+  
+<channel id="sony.bbc.earth.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xZd8Gwlc.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xZd8Gwlc.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY BBC EARTH HD</display-name>
+  </channel>
+  
+<channel id="romedy.now.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XwN3paFv.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/XwN3paFv.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ROMEDY NOW</display-name>
+  </channel>
+  
+<channel id="india.tv.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zKszkKQ7.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/zKszkKQ7.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">INDIA TV</display-name>
+  </channel>
+  
+<channel id="star.movies.select.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/glgBSfm7.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/glgBSfm7.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR MOVIES SELECT HD</display-name>
+  </channel>
+  
+<channel id="sony.yay.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lUdumr2e.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lUdumr2e.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">Sony yay</display-name>
+  </channel>
+  
+<channel id="and.prive.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/74c6VTYA.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">and PRIVE HD</display-name>
+  </channel>
+  
+<channel id="mn+.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Z29kBEEo.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Z29kBEEo.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">MN+ HD</display-name>
+  </channel>
+  
+<channel id="b4u.kadak.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IwWnBbSr.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IwWnBbSr.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">B4U KADAK</display-name>
+  </channel>
+  
+<channel id="zee.bollywood.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iy9FQKIX.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/iy9FQKIX.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ZEE Bollywood</display-name>
+  </channel>
+  
+<channel id="showbox.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Ja3iR7EG.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Ja3iR7EG.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">Showbox</display-name>
+  </channel>
+  
+<channel id="star.sports.2.hindi.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2QTUuuBj.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR SPORTS 2 HINDI HD</display-name>
+  </channel>
+  
+<channel id="sony.sports.ten.5.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uYDqxdc4.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uYDqxdc4.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY SPORTS TEN 5 HD</display-name>
+  </channel>
+  
+<channel id="national.geographic.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eMflO13P.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eMflO13P.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">NATIONAL GEOGRAPHIC HD</display-name>
+  </channel>
+  
+<channel id="sony.pix.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hYyZH1sL.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hYyZH1sL.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">SONY PIX HD</display-name>
+  </channel>
+  
+<channel id="star.sports.3.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ArxHAGxh.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ArxHAGxh.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR SPORTS 3</display-name>
+  </channel>
+  
+<channel id="9xm.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/c2psZdqA.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/c2psZdqA.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">9XM</display-name>
+  </channel>
+  
+<channel id="nick.jr.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7h7t1H1f.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7h7t1H1f.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">NICK JR</display-name>
+  </channel>
+  
+<channel id="zee.tv.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mhmx6AmO.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mhmx6AmO.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ZEE TV HD</display-name>
   </channel>
   
 <channel id="discovery.turbo.in">
@@ -1313,17 +1270,60 @@
     <display-name lang="en">Discovery Turbo</display-name>
   </channel>
   
-<channel id="and.prive.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/74c6VTYA.png" />
+<channel id="zee.anmol.cinema.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BOhHUZjx.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">and PRIVE HD</display-name>
+    <display-name lang="en">ZEE ANMOL CINEMA</display-name>
   </channel>
   
-<channel id="star.movies.hd.in">
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xOksMo1R.png" />
-    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xOksMo1R.png" />
+<channel id="discovery.science.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2GMNcvK5.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2GMNcvK5.png" />
     <url>http://www.mydishtv.in</url>
-    <display-name lang="en">STAR MOVIES HD</display-name>
+    <display-name lang="en">Discovery Science</display-name>
+  </channel>
+  
+<channel id="dangal.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/neiqmb6i.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/neiqmb6i.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">DANGAL</display-name>
+  </channel>
+  
+<channel id="colors.cineplex.superhits.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6wjC5FAv.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6wjC5FAv.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">COLORS CINEPLEX SUPERHITS</display-name>
+  </channel>
+  
+<channel id="eurosports.hd.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5NRgVjlQ.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5NRgVjlQ.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">EUROSPORTS HD</display-name>
+  </channel>
+  
+<channel id="star.utsav.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/SMnGVij5.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/SMnGVij5.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">STAR UTSAV</display-name>
+  </channel>
+  
+<channel id="colors.super.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dixBH3qw.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/dixBH3qw.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">COLORS SUPER</display-name>
+  </channel>
+  
+<channel id="zoom.in">
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NwnxFvVw.png" />
+    <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NwnxFvVw.png" />
+    <url>http://www.mydishtv.in</url>
+    <display-name lang="en">ZOOM</display-name>
   </channel>
   
 <channel id="tlc.hd.in">
@@ -1343,24 +1343,34 @@
     <url>http://www.meetv</url>
   </channel>
   
-<channel id="discovery.science.in">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Discovery Science</display-name>
-  </channel>
-  
-<channel id="cartoon.network.in">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Cartoon Network</display-name>
-  </channel>
-  
 <channel id="national.geographic.hd.in">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">National Geographic HD</display-name>
   </channel>
   
+<channel id="disney.junior.in">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Disney Junior</display-name>
+  </channel>
+  
+<channel id="disney.channel.in">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Disney Channel</display-name>
+  </channel>
+  
+<channel id="bollywood.hd.in">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Bollywood HD</display-name>
+  </channel>
+  
 <channel id="tlc.hd.in">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">TLC HD</display-name>
+  </channel>
+  
+<channel id="cartoon.network.in">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Cartoon Network</display-name>
   </channel>
   
 <channel id="travelxp.hd.in">
@@ -1373,19 +1383,9 @@
     <display-name lang="pl">NICK</display-name>
   </channel>
   
-<channel id="bollywood.hd.in">
+<channel id="discovery.science.in">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Bollywood HD</display-name>
-  </channel>
-  
-<channel id="disney.junior.in">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Disney Junior</display-name>
-  </channel>
-  
-<channel id="disney.channel.in">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Disney Channel</display-name>
+    <display-name lang="pl">Discovery Science</display-name>
   </channel>
   
 <channel id="sony.max.2.in">
@@ -139543,6 +139543,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20260923053300 +0700" stop="20260923061900 +0700" channel="tlc.hd.in">
     <title lang="en">The Curious Case Of...</title>
   </programme>
+  
 <programme start="20260923061900 +0700" stop="20260923070900 +0700" channel="tlc.hd.in">
     <title lang="en">ER: Caught On Camera</title>
   </programme>
@@ -139946,6 +139947,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20260923081000 +0700" stop="20260923083000 +0700" channel="supersport.school.hd.in">
     <title lang="en">Clover 7s Series Welkom Gim v Monnas</title>
   </programme>
+  
 <programme start="20260923083000 +0700" stop="20260923085000 +0700" channel="supersport.school.hd.in">
     <title lang="en">Clover 7s Series '26 WBHS v DHS</title>
   </programme>
@@ -140185,7 +140187,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20260925104000 +0700" stop="20260925110000 +0700" channel="supersport.school.hd.in">
     <title lang="en">Clover 7s Series '26</title>
   </programme>
-  
 <programme start="20260925110000 +0700" stop="20260925113000 +0700" channel="supersport.school.hd.in">
     <title lang="en">SuperSport Schools Podcast</title>
   </programme>
@@ -140377,7 +140378,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20260923105000 +0700" stop="20260923105500 +0700" channel="disney.channel.in">
     <title lang="en">Zombies: The Re-animated Series</title>
   </programme>
-  
 <programme start="20260923105500 +0700" stop="20260923110000 +0700" channel="disney.channel.in">
     <title lang="en">Zombies: The Re-animated Series</title>
   </programme>
@@ -140769,7 +140769,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20260925003000 +0700" stop="20260925021000 +0700" channel="disney.channel.in">
     <title lang="en">Hannah Montana: The Movie</title>
   </programme>
-  
 <programme start="20260925021000 +0700" stop="20260925023000 +0700" channel="disney.channel.in">
     <title lang="en">Kiff</title>
   </programme>
@@ -141161,7 +141160,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20260926151500 +0700" stop="20260926171500 +0700" channel="disney.channel.in">
     <title lang="en">Ralph Breaks The Internet: Wreck-It...</title>
   </programme>
-  
 <programme start="20260926171500 +0700" stop="20260926174000 +0700" channel="disney.channel.in">
     <title lang="en">Phineas And Ferb</title>
   </programme>
@@ -141533,6 +141531,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20260923191500 +0700" stop="20260923194000 +0700" channel="disney.junior.in">
     <title lang="en">Sofia The First</title>
   </programme>
+  
 <programme start="20260923194000 +0700" stop="20260923200500 +0700" channel="disney.junior.in">
     <title lang="en">Iron Man and His Awesome Friends</title>
   </programme>
@@ -141812,7 +141811,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20260924150500 +0700" stop="20260924151000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
-  
 <programme start="20260924151000 +0700" stop="20260924152000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
