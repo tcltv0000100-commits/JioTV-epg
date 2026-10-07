@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20261007111518 +0000">
+<tv generator-info-name="filtered_epg" date="20261007190230 +0000">
 <channel id="star.life.in">
     <display-name lang="sq">Star Life</display-name>
     <icon src="https://vimg.ipko.tv/logo/color/starlife.png" />
@@ -2328,113 +2328,7 @@
     <icon src="https://vimg.ipko.tv/mtcms/e8/d/2/e8d28e90-3274-42d2-b455-e3873d449f36.jpg" />
   </programme>
   
-<programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 2011/12 AUS v NZL 2nd Test</title>
-    <sub-title lang="en">2011/12 AUS v NZL 2nd Test</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches from Australia soil.</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930010000 +0000" stop="20260930020000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930020000 +0000" stop="20260930030000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: 2019/20 AUS v NZL 1st Test</title>
-    <sub-title lang="en">2019/20 AUS v NZL 1st Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930030000 +0000" stop="20260930040000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: 2019/20 AUS v NZL 2nd Test</title>
-    <sub-title lang="en">2019/20 AUS v NZL 2nd Test</sub-title>
-    <desc lang="en">The series moves to the MCG for the Boxing Day Test with Australia up 1-0.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930040000 +0000" stop="20260930050000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: 2019/20 AUS v NZL 3rd Test</title>
-    <sub-title lang="en">2019/20 AUS v NZL 3rd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930050000 +0000" stop="20260930060000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: 2024/25 AUS v IND 2nd Test</title>
-    <sub-title lang="en">2024/25 AUS v IND 2nd Test</sub-title>
-    <desc lang="en">After India's dominance in the first Test, the Aussies aim to bounce back in the annual day/night match at Adelaide Oval.</desc>
-    <date>2024</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930060000 +0000" stop="20260930070000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: 2024/25 AUS v IND 4th Test</title>
-    <sub-title lang="en">2024/25 AUS v IND 4th Test</sub-title>
-    <desc lang="en">The series is locked at 1-1 a piece heading into the fourth Test at the MCG.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930070000 +0000" stop="20260930080000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: 2024/25 AUS v IND 5th Test</title>
-    <sub-title lang="en">2024/25 AUS v IND 5th Test</sub-title>
-    <desc lang="en">The dramatic Border-Gavaskar Trophy reaches its conclusion at the world famous Sydney Cricket Ground.</desc>
-    <date>2024</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930080000 +0000" stop="20260930090000 +0000" channel="foxcricket.in">
-    <title lang="en">Keepin It Cricket</title>
-    <desc lang="en">The guys talk all that's happening in the world of cricket.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930090000 +0000" stop="20260930100000 +0000" channel="foxcricket.in">
+<programme start="20261006000000 +0000" stop="20261006010000 +0000" channel="foxcricket.in">
     <title lang="en">ODI: South Africa v Australia G1</title>
     <sub-title lang="en">South Africa v Australia G1</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
@@ -2443,698 +2337,7 @@
     </rating>
   </programme>
   
-<programme start="20260930100000 +0000" stop="20260930110000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930110000 +0000" stop="20260930193000 +0000" channel="foxcricket.in">
-    <title lang="en">Live: ODI: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930193000 +0000" stop="20260930203000 +0000" channel="foxcricket.in">
-    <title lang="en">Ashes Classic: 2002/03 1st Test</title>
-    <sub-title lang="en">2002/03 1st Test</sub-title>
-    <desc lang="en">A relentless bowling attack from Glenn McGrath and Jason Gillespie, a stunning MCG Test double century for Justin Langer, and finally, an Australian legend gets his \"Perfect Day.\".</desc>
-    <date>2023</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930203000 +0000" stop="20260930213000 +0000" channel="foxcricket.in">
-    <title lang="en">Ashes Classic: 2002/03 2nd Test</title>
-    <sub-title lang="en">2002/03 2nd Test</sub-title>
-    <desc lang="en">A relentless bowling attack from Glenn McGrath and Jason Gillespie, a stunning MCG Test double century for Justin Langer, and finally, an Australian legend gets his \"Perfect Day.\".</desc>
-    <date>2023</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/a3kof.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="foxcricket.in">
-    <title lang="en">Ashes Classic: 2002/03 3rd Test</title>
-    <sub-title lang="en">2002/03 3rd Test</sub-title>
-    <desc lang="en">Ashes Classic.</desc>
-    <date>2023</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20260930220000 +0000" stop="20260930230000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G1</title>
-    <sub-title lang="en">South Africa v Australia G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-<programme start="20260930230000 +0000" stop="20261001000000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001000000 +0000" stop="20261001010000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001010000 +0000" stop="20261001012000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia</title>
-    <sub-title lang="en">South Africa v Australia</sub-title>
-    <desc lang="en">The series wraps up in Potchefstroom with game three from Senwes Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001012000 +0000" stop="20261001014000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: India v West Indies Game 2</title>
-    <sub-title lang="en">India v West Indies Game 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001014000 +0000" stop="20261001020000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia</title>
-    <sub-title lang="en">South Africa v Australia</sub-title>
-    <desc lang="en">The series wraps up in Potchefstroom with game three from Senwes Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001020000 +0000" stop="20261001030000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Thrillers: 1999 AUS v ENG G10</title>
-    <sub-title lang="en">1999 AUS v ENG G10</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001030000 +0000" stop="20261001040000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Thrillers: 1999 AUS v ENG 1st FNL</title>
-    <sub-title lang="en">1999 AUS v ENG 1st FNL</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001040000 +0000" stop="20261001050000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001050000 +0000" stop="20261001052000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: India v West Indies Game 2</title>
-    <sub-title lang="en">India v West Indies Game 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001052000 +0000" stop="20261001054000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia</title>
-    <sub-title lang="en">South Africa v Australia</sub-title>
-    <desc lang="en">The series wraps up in Potchefstroom with game three from Senwes Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001054000 +0000" stop="20261001060000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: India v West Indies Game 2</title>
-    <sub-title lang="en">India v West Indies Game 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001060000 +0000" stop="20261001070000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G1</title>
-    <sub-title lang="en">South Africa v Australia G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001070000 +0000" stop="20261001080000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <desc lang="en">The series continues with game two from Wanderers Stadium, Johannesburg.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mocp1m.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001080000 +0000" stop="20261001090000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001090000 +0000" stop="20261001100000 +0000" channel="foxcricket.in">
-    <title lang="en">Keepin It Cricket</title>
-    <desc lang="en">The guys talk all that's happening in the world of cricket.</desc>
-    <date>2024</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001100000 +0000" stop="20261001110000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 2008/09 AUS v SA 3rd Test</title>
-    <sub-title lang="en">2008/09 AUS v SA 3rd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/rqlp50.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001110000 +0000" stop="20261001120000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 2012/13 AUS v SA 2nd Test</title>
-    <sub-title lang="en">2012/13 AUS v SA 2nd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001120000 +0000" stop="20261001122000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <desc lang="en">The Aussies are playing for pride as South Africa go into game three with an unassailable 2-0 lead. Scheduled start of play 9.30pm AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001122000 +0000" stop="20261001124000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: India v West Indies Game 2</title>
-    <sub-title lang="en">India v West Indies Game 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001124000 +0000" stop="20261001130000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <desc lang="en">The series continues with game two from Wanderers Stadium, Johannesburg.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/m19iqh.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001130000 +0000" stop="20261001140000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <desc lang="en">The Aussies are playing for pride as South Africa go into game three with an unassailable 2-0 lead. Scheduled start of play 9.30pm AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001140000 +0000" stop="20261001150000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: AUS v BAN 1st Test Day 1</title>
-    <sub-title lang="en">AUS v BAN 1st Test Day 1</sub-title>
-    <desc lang="en">Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/vpwr2b.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001150000 +0000" stop="20261001160000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: AUS v BAN 1st Test Day 2</title>
-    <sub-title lang="en">AUS v BAN 1st Test Day 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/avidvi.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001160000 +0000" stop="20261001170000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: AUS v BAN 1st Test Day 3</title>
-    <sub-title lang="en">AUS v BAN 1st Test Day 3</sub-title>
-    <desc lang="en">Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64txy2.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001170000 +0000" stop="20261001180000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: AUS v BAN 1st Test Day 4</title>
-    <sub-title lang="en">AUS v BAN 1st Test Day 4</sub-title>
-    <desc lang="en">Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/fuzw1q.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001180000 +0000" stop="20261001190000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: AUS v BAN 2nd Test Day 1</title>
-    <sub-title lang="en">AUS v BAN 2nd Test Day 1</sub-title>
-    <desc lang="en">A historic win for Bangladesh in Darwin leaves Australia scrambling to level the series in the second test in Mackay.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/yjlfca.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001190000 +0000" stop="20261001200000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: AUS v BAN 2nd Test Day 2</title>
-    <sub-title lang="en">AUS v BAN 2nd Test Day 2</sub-title>
-    <desc lang="en">A historic win for Bangladesh in Darwin leaves Australia scrambling to level the series in the second test in Mackay.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/nkd81m.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001200000 +0000" stop="20261001210000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <desc lang="en">The Aussies are playing for pride as South Africa go into game three with an unassailable 2-0 lead. Scheduled start of play 9.30pm AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001210000 +0000" stop="20261001212000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 1993/94 AUS v SA 2nd Test</title>
-    <sub-title lang="en">1993/94 AUS v SA 2nd Test</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches from Australia soil.</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001212000 +0000" stop="20261001214000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 2008/09 AUS v SA 3rd Test</title>
-    <sub-title lang="en">2008/09 AUS v SA 3rd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/rqlp50.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001214000 +0000" stop="20261001220000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 2011 SA v AUS 2nd Test</title>
-    <sub-title lang="en">2011 SA v AUS 2nd Test</sub-title>
-    <desc lang="en">A fresh-faced Pat Cummins makes his test debut at the age of just 18 against a powerhouse South African side.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001220000 +0000" stop="20261001222000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G1</title>
-    <sub-title lang="en">South Africa v Australia G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v6oz66.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001222000 +0000" stop="20261001224000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <desc lang="en">Australia look to bounce back after a batting collapse led to defeat in game one.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/m19iqh.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001224000 +0000" stop="20261001230000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <desc lang="en">The Aussies are playing for pride as South Africa go into game three with an unassailable 2-0 lead. Scheduled start of play 9.30pm AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261001230000 +0000" stop="20261002000000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 1991/92 AUS v IND 4th Test</title>
-    <sub-title lang="en">1991/92 AUS v IND 4th Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002000000 +0000" stop="20261002002000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: India v West Indies Game 2</title>
-    <sub-title lang="en">India v West Indies Game 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002002000 +0000" stop="20261002004000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <desc lang="en">The Aussies are playing for pride as South Africa go into game three with an unassailable 2-0 lead. Scheduled start of play 9.30pm AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002004000 +0000" stop="20261002010000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: India v West Indies Game 2</title>
-    <sub-title lang="en">India v West Indies Game 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002010000 +0000" stop="20261002020000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G1</title>
-    <sub-title lang="en">South Africa v Australia G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002020000 +0000" stop="20261002030000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <desc lang="en">Australia look to bounce back after a batting collapse led to defeat in game one.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mocp1m.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002030000 +0000" stop="20261002040000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <desc lang="en">The Aussies are playing for pride as South Africa go into game three with an unassailable 2-0 lead. Scheduled start of play 9.30pm AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002040000 +0000" stop="20261002050000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 1993/94 AUS v SA 2nd Test</title>
-    <sub-title lang="en">1993/94 AUS v SA 2nd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002050000 +0000" stop="20261002052000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G1</title>
-    <sub-title lang="en">South Africa v Australia G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v6oz66.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002052000 +0000" stop="20261002054000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <desc lang="en">Australia look to bounce back after a batting collapse led to defeat in game one.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/m19iqh.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002054000 +0000" stop="20261002060000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <desc lang="en">The Aussies are playing for pride as South Africa go into game three with an unassailable 2-0 lead. Scheduled start of play 9.30pm AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002060000 +0000" stop="20261002070000 +0000" channel="foxcricket.in">
-    <title lang="en">Aussie Captains: Aussie Captains</title>
-    <sub-title lang="en">Aussie Captains</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and take a look back through some of the best performances by our most inspiring skippers.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002070000 +0000" stop="20261002080000 +0000" channel="foxcricket.in">
-    <title lang="en">Aussie Captains: 1994/95 3rd Test</title>
-    <sub-title lang="en">1994/95 3rd Test</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and take a look back through some of the best performances by our most inspiring skippers.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002080000 +0000" stop="20261002090000 +0000" channel="foxcricket.in">
-    <title lang="en">Keepin It Cricket</title>
-    <desc lang="en">The guys talk all that's happening in the world of cricket.</desc>
-    <date>2024</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002090000 +0000" stop="20261002100000 +0000" channel="foxcricket.in">
-    <title lang="en">Aussie Captains: Allan Border v WI 1985</title>
-    <sub-title lang="en">Allan Border v WI 1985</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and take a look back through some of the best performances by our most inspiring skippers.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002100000 +0000" stop="20261002110000 +0000" channel="foxcricket.in">
-    <title lang="en">Aussie Captains: S.Waugh v England 02/03</title>
-    <sub-title lang="en">2002/03 5th Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002110000 +0000" stop="20261002120000 +0000" channel="foxcricket.in">
-    <title lang="en">Aussie Captains: Clarke v India 11/12</title>
-    <sub-title lang="en">2011/12 AUS v IND 2nd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002120000 +0000" stop="20261002130000 +0000" channel="foxcricket.in">
-    <title lang="en">Aussie Captains: Adam Gilchrist v ENG 2</title>
-    <sub-title lang="en">Adam Gilchrist v ENG 2002</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and take a look back through some of the best performances by our most inspiring skippers.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002130000 +0000" stop="20261002140000 +0000" channel="foxcricket.in">
-    <title lang="en">Aussie Captains: Cummins v SRL 2019</title>
-    <sub-title lang="en">Aussie Captains</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and take a look back through some of the best performances by our most inspiring skippers.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002140000 +0000" stop="20261002150000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: AUS v BAN 1st Test</title>
-    <sub-title lang="en">AUS v BAN 1st Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002150000 +0000" stop="20261002160000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: AUS v BAN 2nd Test</title>
-    <sub-title lang="en">AUS v BAN 2nd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002160000 +0000" stop="20261002170000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI: South Africa v Australia G1</title>
-    <sub-title lang="en">South Africa v Australia G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002170000 +0000" stop="20261002180000 +0000" channel="foxcricket.in">
+<programme start="20261006010000 +0000" stop="20261006020000 +0000" channel="foxcricket.in">
     <title lang="en">ODI: South Africa v Australia G2</title>
     <sub-title lang="en">South Africa v Australia G2</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mocp1m.png" />
@@ -3143,7 +2346,7 @@
     </rating>
   </programme>
   
-<programme start="20261002180000 +0000" stop="20261002190000 +0000" channel="foxcricket.in">
+<programme start="20261006020000 +0000" stop="20261006030000 +0000" channel="foxcricket.in">
     <title lang="en">ODI: South Africa v Australia G3</title>
     <sub-title lang="en">South Africa v Australia G3</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/urhp4f.png" />
@@ -3152,166 +2355,34 @@
     </rating>
   </programme>
   
-<programme start="20261002190000 +0000" stop="20261002192000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 2009 SA v AUS 2nd Test</title>
-    <sub-title lang="en">2009 SA v AUS 2nd Test</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches between Australia and South Africa.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002192000 +0000" stop="20261002194000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 2018 SA v AUS 3rd Test</title>
-    <sub-title lang="en">2018 SA v AUS 3rd Test</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches between Australia and South Africa.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002194000 +0000" stop="20261002200000 +0000" channel="foxcricket.in">
-    <title lang="en">Test Classic: 2014 SA v AUS 3rd Test</title>
-    <sub-title lang="en">2014 SA v AUS 3rd Test</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches between Australia and South Africa.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002200000 +0000" stop="20261002202500 +0000" channel="foxcricket.in">
-    <title lang="en">SOUTH AFRICA V AUSTRALIA 2018 TEST: 201</title>
-    <sub-title lang="en">2018 SA v AUS 1st Test</sub-title>
-    <desc lang="en">We open the Fox Cricket vault and look back on the best Test Matches between Australia and South Africa.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002202500 +0000" stop="20261002222000 +0000" channel="foxcricket.in">
-    <title lang="en">Live: Canada S60: W Eliminator</title>
-    <sub-title lang="en">W Eliminator</sub-title>
-    <desc lang="en">Day 4 begins with the Women's Eliminator. Scheduled start of play 6.30am AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Canada</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261002222000 +0000" stop="20261002225600 +0000" channel="foxcricket.in">
-    <title lang="en">Ashes Classic: 2006/07 2nd Test</title>
-    <sub-title lang="en">2006/07 2nd Test</sub-title>
-    <desc lang="en">The 2006/07 Ashes features a powerhouse Australian side at the peak of their powers.</desc>
-    <date>2023</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-<programme start="20261002225600 +0000" stop="20261003005000 +0000" channel="foxcricket.in">
-    <title lang="en">Live: Canada S60: Vancouver v Toronto</title>
-    <sub-title lang="en">Vancouver v Toronto</sub-title>
-    <desc lang="en">Vancouver takes on Toronto in game 14. Scheduled start of play 9am AEST.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Canada</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261003005000 +0000" stop="20261003011000 +0000" channel="foxcricket.in">
-    <title lang="en">ODI Mini: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261003011000 +0000" stop="20261003014100 +0000" channel="foxcricket.in">
-    <title lang="en">Ashes Classic: 2006/07 4th Test</title>
-    <sub-title lang="en">2006/07 4th Test</sub-title>
-    <desc lang="en">The 2006/07 Ashes features a powerhouse Australian side at the peak of their powers.</desc>
-    <date>2023</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261003014100 +0000" stop="20261003034000 +0000" channel="foxcricket.in">
-    <title lang="en">Live: Canada S60: Montreal v Whiterock</title>
-    <sub-title lang="en">Montreal v Whiterock</sub-title>
-    <desc lang="en">Montreal take on Whiterock in game 15.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Canada</country>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  
-<programme start="20261003034000 +0000" stop="20261003044000 +0000" channel="foxcricket.in">
-    <title lang="en">Test: 2024/25 AUS v IND 4th Test</title>
-    <sub-title lang="en">2024/25 AUS v IND 4th Test</sub-title>
+<programme start="20261006030000 +0000" stop="20261006040000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2022/23 AUS v SA 1st Test</title>
+    <sub-title lang="en">2022/23 AUS v SA 1st Test</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   
-<programme start="20261003044000 +0000" stop="20261003054100 +0000" channel="foxcricket.in">
-    <title lang="en">Test: 2024/25 AUS v IND 5th Test</title>
-    <sub-title lang="en">2024/25 AUS v IND 5th Test</sub-title>
+<programme start="20261006040000 +0000" stop="20261006050000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2022/23 AUS v SA 2nd Test</title>
+    <sub-title lang="en">Carey v SA 2022/23</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   
-<programme start="20261003054100 +0000" stop="20261003074000 +0000" channel="foxcricket.in">
-    <title lang="en">Live: Canada S60: Brampton v Mississauga</title>
-    <sub-title lang="en">Brampton v Mississauga</sub-title>
-    <desc lang="en">Brampton take on Mississauga in game 16.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Cricket</category>
-    <country lang="en">Canada</country>
+<programme start="20261006050000 +0000" stop="20261006060000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2022/23 AUS v SA 3rd Test</title>
+    <sub-title lang="en">Khawaja v SA 2022/23</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
   
-<programme start="20261003074000 +0000" stop="20261003080000 +0000" channel="foxcricket.in">
+<programme start="20261006060000 +0000" stop="20261006062000 +0000" channel="foxcricket.in">
     <title lang="en">ODI Mini: India v West Indies G1</title>
     <sub-title lang="en">India v West Indies G1</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/2ifnrn.png" />
@@ -3320,10 +2391,832 @@
     </rating>
   </programme>
   
-<programme start="20261003080000 +0000" stop="20261003082000 +0000" channel="foxcricket.in">
+<programme start="20261006062000 +0000" stop="20261006064000 +0000" channel="foxcricket.in">
     <title lang="en">ODI Mini: India v West Indies Game 2</title>
     <sub-title lang="en">India v West Indies Game 2</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ssot4g.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006064000 +0000" stop="20261006070000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: India v West Indies G3</title>
+    <sub-title lang="en">India v West Indies G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qcf5t4.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006070000 +0000" stop="20261006072000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G1</title>
+    <sub-title lang="en">South Africa v Australia G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v6oz66.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006072000 +0000" stop="20261006074000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G2</title>
+    <sub-title lang="en">South Africa v Australia G2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/m19iqh.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006074000 +0000" stop="20261006080000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G3</title>
+    <sub-title lang="en">South Africa v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lbuuav.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006080000 +0000" stop="20261006090000 +0000" channel="foxcricket.in">
+    <title lang="en">Keepin It Cricket</title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006090000 +0000" stop="20261006110000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2009 SA v AUS 2nd Test</title>
+    <sub-title lang="en">2009 SA v AUS 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2011 SA v AUS 2nd Test</title>
+    <sub-title lang="en">2011 SA v AUS 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006120000 +0000" stop="20261006122000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: India v West Indies G1</title>
+    <sub-title lang="en">India v West Indies G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/2ifnrn.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006122000 +0000" stop="20261006124000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: India v West Indies Game 2</title>
+    <sub-title lang="en">India v West Indies Game 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ssot4g.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006124000 +0000" stop="20261006130000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: India v West Indies G3</title>
+    <sub-title lang="en">India v West Indies G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qcf5t4.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006130000 +0000" stop="20261006132000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: India v West Indies G3</title>
+    <sub-title lang="en">India v West Indies G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qcf5t4.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006132000 +0000" stop="20261006173000 +0000" channel="foxcricket.in">
+    <title lang="en">Live: T20: India v West Indies</title>
+    <sub-title lang="en">India v West Indies</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eqladw.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="foxcricket.in">
+    <title lang="en">Ashes Classic: 2002/03 1st Test</title>
+    <sub-title lang="en">2002/03 1st Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006180000 +0000" stop="20261006190000 +0000" channel="foxcricket.in">
+    <title lang="en">Ashes Classic: 2017/18 5th Test</title>
+    <sub-title lang="en">2017/18 5th Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006190000 +0000" stop="20261006200000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2020/21 AUS v IND 1st Test</title>
+    <sub-title lang="en">2020/21 AUS v IND 1st Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006200000 +0000" stop="20261006210000 +0000" channel="foxcricket.in">
+    <title lang="en">Ashes Classic: 2020/21 2nd Test</title>
+    <sub-title lang="en">2020/21 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006210000 +0000" stop="20261006220000 +0000" channel="foxcricket.in">
+    <title lang="en">TBA</title>
+    <sub-title lang="en">2020/21 3rd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/epktzq.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006220000 +0000" stop="20261006230000 +0000" channel="foxcricket.in">
+    <title lang="en">Ashes Classic: 2020/21 4th Test</title>
+    <sub-title lang="en">2020/21 4th Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006230000 +0000" stop="20261006232000 +0000" channel="foxcricket.in">
+    <title lang="en">T20 Mini: India v West Indies G1</title>
+    <sub-title lang="en">India v West Indies G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b4sic.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006232000 +0000" stop="20261006234000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G3</title>
+    <sub-title lang="en">South Africa v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lbuuav.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261006234000 +0000" stop="20261007000000 +0000" channel="foxcricket.in">
+    <title lang="en">T20 Mini: India v West Indies G1</title>
+    <sub-title lang="en">India v West Indies G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b4sic.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007000000 +0000" stop="20261007010000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2024/25 AUS v IND 1st Test</title>
+    <sub-title lang="en">2024/25 AUS v IND 1st Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007010000 +0000" stop="20261007020000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2024/25 AUS v IND 2nd Test</title>
+    <sub-title lang="en">2024/25 AUS v IND 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007020000 +0000" stop="20261007030000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2024/25 AUS v IND 3rd Test</title>
+    <sub-title lang="en">2024/25 AUS v IND 3rd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007030000 +0000" stop="20261007040000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2024/25 AUS v IND 4th Test</title>
+    <sub-title lang="en">2024/25 AUS v IND 4th Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007040000 +0000" stop="20261007050000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2024/25 AUS v IND 5th Test</title>
+    <sub-title lang="en">2024/25 AUS v IND 5th Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007050000 +0000" stop="20261007052000 +0000" channel="foxcricket.in">
+    <title lang="en">T20 Mini: India v West Indies G1</title>
+    <sub-title lang="en">India v West Indies G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b4sic.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007052000 +0000" stop="20261007054000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G3</title>
+    <sub-title lang="en">South Africa v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lbuuav.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007054000 +0000" stop="20261007060000 +0000" channel="foxcricket.in">
+    <title lang="en">T20 Mini: India v West Indies G1</title>
+    <sub-title lang="en">India v West Indies G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b4sic.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007060000 +0000" stop="20261007070000 +0000" channel="foxcricket.in">
+    <title lang="en">Keepin It Cricket</title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007070000 +0000" stop="20261007080000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2024/25 AUS v IND 4th Test</title>
+    <sub-title lang="en">2024/25 AUS v IND 4th Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007080000 +0000" stop="20261007090000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2025/26 Ashes 5th Test</title>
+    <sub-title lang="en">2025/26 Ashes 5th Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/q7wo47.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007090000 +0000" stop="20261007100000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2007/08 AUS v IND 2nd Test</title>
+    <sub-title lang="en">2007/08 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007100000 +0000" stop="20261007110000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2008/09 AUS v SA 3rd Test</title>
+    <sub-title lang="en">2008/09 AUS v SA 3rd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/rqlp50.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007110000 +0000" stop="20261007120000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2009/10 AUS v PAK 2nd Test</title>
+    <sub-title lang="en">2009/10 AUS v PAK 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/rqlp50.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007120000 +0000" stop="20261007130000 +0000" channel="foxcricket.in">
+    <title lang="en">Keepin It Cricket</title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007130000 +0000" stop="20261007140000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: AUS v BAN 2nd Test Day 1</title>
+    <sub-title lang="en">AUS v BAN 2nd Test Day 1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/yjlfca.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007140000 +0000" stop="20261007150000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: AUS v BAN 2nd Test Day 2</title>
+    <sub-title lang="en">AUS v BAN 2nd Test Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/nkd81m.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="foxcricket.in">
+    <title lang="en">SA20 Auction: 2026</title>
+    <sub-title lang="en">2026</sub-title>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007160000 +0000" stop="20261007170000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: AUS v BAN 1st Test</title>
+    <sub-title lang="en">AUS v BAN 1st Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007170000 +0000" stop="20261007180000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: AUS v BAN 2nd Test Day 1</title>
+    <sub-title lang="en">AUS v BAN 2nd Test Day 1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/yjlfca.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007180000 +0000" stop="20261007190000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: AUS v BAN 2nd Test Day 2</title>
+    <sub-title lang="en">AUS v BAN 2nd Test Day 2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/nkd81m.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007190000 +0000" stop="20261007200000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2019/20 AUS v NZL 1st Test</title>
+    <sub-title lang="en">2019/20 AUS v NZL 1st Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007200000 +0000" stop="20261007210000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2019/20 AUS v NZL 2nd Test</title>
+    <sub-title lang="en">2019/20 AUS v NZL 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007210000 +0000" stop="20261007220000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2019/20 AUS v NZL 3rd Test</title>
+    <sub-title lang="en">2019/20 AUS v NZL 3rd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007220000 +0000" stop="20261007230000 +0000" channel="foxcricket.in">
+    <title lang="en">Keepin It Cricket</title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007230000 +0000" stop="20261007232000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G1</title>
+    <sub-title lang="en">South Africa v Australia G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v6oz66.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007232000 +0000" stop="20261007234000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G2</title>
+    <sub-title lang="en">South Africa v Australia G2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/m19iqh.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261007234000 +0000" stop="20261008000000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G3</title>
+    <sub-title lang="en">South Africa v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lbuuav.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008000000 +0000" stop="20261008010000 +0000" channel="foxcricket.in">
+    <title lang="en">Ashes Classic: Mitchell Starc v ENG 2025</title>
+    <sub-title lang="en">Mitchell Starc v ENG 2025</sub-title>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008010000 +0000" stop="20261008020000 +0000" channel="foxcricket.in">
+    <title lang="en">AUSTRALIA V ENGLAND 2025/26 TEST: Secon</title>
+    <sub-title lang="en">Second Test</sub-title>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008020000 +0000" stop="20261008030000 +0000" channel="foxcricket.in">
+    <title lang="en">FOX CRICKET 2025/26 TEST DAY: The Ashes</title>
+    <sub-title lang="en">The Ashes 3rd Test</sub-title>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008030000 +0000" stop="20261008040000 +0000" channel="foxcricket.in">
+    <title lang="en">FOX CRICKET 2025/26 TEST DAY: The Ashes</title>
+    <sub-title lang="en">The Ashes 4th Test</sub-title>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008040000 +0000" stop="20261008050000 +0000" channel="foxcricket.in">
+    <title lang="en">Test: 2025/26 Ashes 5th Test</title>
+    <sub-title lang="en">2025/26 Ashes 5th Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/q7wo47.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008050000 +0000" stop="20261008060000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G1</title>
+    <sub-title lang="en">South Africa v Australia G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008060000 +0000" stop="20261008070000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G2</title>
+    <sub-title lang="en">South Africa v Australia G2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mocp1m.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008070000 +0000" stop="20261008080000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G3</title>
+    <sub-title lang="en">South Africa v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/urhp4f.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008080000 +0000" stop="20261008090000 +0000" channel="foxcricket.in">
+    <title lang="en">Keepin It Cricket</title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008090000 +0000" stop="20261008100000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2012/13 AUS v SA 2nd Test</title>
+    <sub-title lang="en">2012/13 AUS v SA 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008100000 +0000" stop="20261008110000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2008/09 AUS v SA 3rd Test</title>
+    <sub-title lang="en">2008/09 AUS v SA 3rd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/rqlp50.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008110000 +0000" stop="20261008120000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2011 SA v AUS 2nd Test</title>
+    <sub-title lang="en">2011 SA v AUS 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008120000 +0000" stop="20261008122000 +0000" channel="foxcricket.in">
+    <title lang="en">T20 Mini: India v West Indies G1</title>
+    <sub-title lang="en">India v West Indies G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b4sic.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008122000 +0000" stop="20261008124000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI Mini: South Africa v Australia G3</title>
+    <sub-title lang="en">South Africa v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lbuuav.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008124000 +0000" stop="20261008130000 +0000" channel="foxcricket.in">
+    <title lang="en">T20 Mini: India v West Indies G1</title>
+    <sub-title lang="en">India v West Indies G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b4sic.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008130000 +0000" stop="20261008140000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G1</title>
+    <sub-title lang="en">South Africa v Australia G1</sub-title>
+    <desc lang="en">Some big guns have flown over to join the team as the massive tour of South Africa begins in Durban.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008140000 +0000" stop="20261008150000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G2</title>
+    <sub-title lang="en">South Africa v Australia G2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mocp1m.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008150000 +0000" stop="20261008160000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G3</title>
+    <sub-title lang="en">South Africa v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/urhp4f.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008160000 +0000" stop="20261008170000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: Zimbabwe v Australia G1</title>
+    <sub-title lang="en">Zimbabwe v Australia G1</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/d7ptq7.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008170000 +0000" stop="20261008180000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: Zimbabwe v Australia G2</title>
+    <sub-title lang="en">Zimbabwe v Australia G2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ny46gg.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008180000 +0000" stop="20261008190000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: Zimbabwe v Australia G3</title>
+    <sub-title lang="en">Zimbabwe v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9gho0r.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008190000 +0000" stop="20261008193000 +0000" channel="foxcricket.in">
+    <title lang="en">Ashes Classic: 2006/07 2nd Test</title>
+    <sub-title lang="en">2006/07 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008193000 +0000" stop="20261008203000 +0000" channel="foxcricket.in">
+    <title lang="en">Ashes Classic: 1999/00 1st Test</title>
+    <sub-title lang="en">1999/00 1st Test</sub-title>
+    <desc lang="en">Australia v India and the Border-Gavaskar Trophy is one of the most prestigious bilaterals in all cricket. From Gavaskar, Tendulkar and Sharma to Border, Ponting and Cummins - We open the Fox Cr.</desc>
+    <date>2024</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008203000 +0000" stop="20261008213000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 1999/00 AUS v IND 2nd Test</title>
+    <sub-title lang="en">1999/00 AUS v IND 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008213000 +0000" stop="20261008223000 +0000" channel="foxcricket.in">
+    <title lang="en">TBA</title>
+    <sub-title lang="en">1999/00 3rd Test</sub-title>
+    <desc lang="en">TBA.</desc>
+    <date>2024</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/epktzq.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008223000 +0000" stop="20261008233000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G1</title>
+    <sub-title lang="en">South Africa v Australia G1</sub-title>
+    <desc lang="en">Some big guns have flown over to join the team as the massive tour of South Africa begins in Durban.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261008233000 +0000" stop="20261009003000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G2</title>
+    <sub-title lang="en">South Africa v Australia G2</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mocp1m.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009003000 +0000" stop="20261009013000 +0000" channel="foxcricket.in">
+    <title lang="en">ODI: South Africa v Australia G3</title>
+    <sub-title lang="en">South Africa v Australia G3</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/urhp4f.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009013000 +0000" stop="20261009023000 +0000" channel="foxcricket.in">
+    <title lang="en">Keepin It Cricket</title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009023000 +0000" stop="20261009033000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 1993/94 AUS v SA 2nd Test</title>
+    <sub-title lang="en">1993/94 AUS v SA 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009033000 +0000" stop="20261009043000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2012/13 AUS v SA 2nd Test</title>
+    <sub-title lang="en">2012/13 AUS v SA 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009043000 +0000" stop="20261009053000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2008/09 AUS v SA 3rd Test</title>
+    <sub-title lang="en">2008/09 AUS v SA 3rd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/rqlp50.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009053000 +0000" stop="20261009063000 +0000" channel="foxcricket.in">
+    <title lang="en">Test Classic: 2011 SA v AUS 2nd Test</title>
+    <sub-title lang="en">2011 SA v AUS 2nd Test</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009063000 +0000" stop="20261009073000 +0000" channel="foxcricket.in">
+    <title lang="en">Live: Test Matches 2026-27: South Afric</title>
+    <sub-title lang="en">South Africa v Australia 1st Test Day 1 Pre Game</sub-title>
+    <desc lang="en">Test Matches 2026-27.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009073000 +0000" stop="20261009093000 +0000" channel="foxcricket.in">
+    <title lang="en">Live: Test Matches 2026-27: South Afric</title>
+    <sub-title lang="en">South Africa v Australia 1st Test Day 1 Session 1</sub-title>
+    <desc lang="en">Test Matches 2026-27.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009093000 +0000" stop="20261009101000 +0000" channel="foxcricket.in">
+    <title lang="en">Live: Test Matches 2026-27: South Afric</title>
+    <sub-title lang="en">South Africa v Australia 1st Test Day 1 Big Break</sub-title>
+    <desc lang="en">Test Matches 2026-27.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009101000 +0000" stop="20261009121000 +0000" channel="foxcricket.in">
+    <title lang="en">Live: Test Matches 2026-27: South Afric</title>
+    <sub-title lang="en">South Africa v Australia 1st Test Day 1 Session 2</sub-title>
+    <desc lang="en">Test Matches 2026-27.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009121000 +0000" stop="20261009123000 +0000" channel="foxcricket.in">
+    <title lang="en">Live: Test Matches 2026-27: South Afric</title>
+    <sub-title lang="en">South Africa v Australia 1st Test Day 1 Tea Break</sub-title>
+    <desc lang="en">Test Matches 2026-27.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  
+<programme start="20261009123000 +0000" stop="20261009133000 +0000" channel="foxcricket.in">
+    <title lang="en">Live: Test Matches 2026-27: South Afric</title>
+    <sub-title lang="en">South Africa v Australia 1st Test Day 1 Session 3</sub-title>
+    <desc lang="en">Test Matches 2026-27.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -4893,6 +4786,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20261010114400 +0000" stop="20261010120800 +0000">
     <title lang="en">The Quick And The Curious</title>
     <sub-title lang="en">How To Walk On Water</sub-title>
@@ -5292,7 +5186,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261008011500 +0000" stop="20261008021500 +0000">
     <title lang="en">The Tom And Jerry Show</title>
     <sub-title lang="en">A. Belly Achin'/Dog Daze/Birds of a Feather/Vampire Mouse/Entering and Breaking</sub-title>
@@ -5838,6 +5731,7 @@
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20261009101500 +0000" stop="20261009111500 +0000">
     <title lang="en">The Amazing World Of Gumball</title>
     <sub-title lang="en">The Ex/The Weirdo/The Menu/The Uncle/The Heist</sub-title>
@@ -7288,7 +7182,6 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
     <episode-num system="onscreen">S1 E4834</episode-num>
   </programme>
-  
 <programme channel="sony.sab.in" start="20261008085600 +0000" stop="20261008092200 +0000">
     <title lang="en">Kyunki Papa Kehte Hain</title>
     <sub-title lang="en">Kyunki Papa Kehte Hain</sub-title>
@@ -7868,6 +7761,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch774_160_115" />
     <episode-num system="onscreen">S1 E110</episode-num>
   </programme>
+  
 <programme channel="sony.sab.in" start="20261009012100 +0000" stop="20261009014700 +0000">
     <title lang="en">Kyunki Papa Kehte Hain</title>
     <sub-title lang="en">Kyunki Papa Kehte Hain</sub-title>
@@ -9838,7 +9732,6 @@
     <country lang="en">US</country>
     <episode-num system="onscreen">S8 E3</episode-num>
   </programme>
-  
 <programme start="20261007123000 +0000" stop="20261007130000 +0000" channel="tlc.hd.in">
     <title lang="en">The Big Bang Theory</title>
     <sub-title lang="en">The Hook-Up Reverberation</sub-title>
@@ -11222,7 +11115,6 @@
     <country lang="en">US</country>
     <episode-num system="onscreen">S5 E15</episode-num>
   </programme>
-  
 <programme start="20261009153000 +0000" stop="20261009160000 +0000" channel="tlc.hd.in">
     <title lang="en">Young Sheldon</title>
     <sub-title lang="en">A Suitcase Full of Cash and a Yellow Clown Car</sub-title>
@@ -11743,6 +11635,7 @@
     <country lang="en">US</country>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
+  
 <programme start="20261010113000 +0000" stop="20261010120000 +0000" channel="tlc.hd.in">
     <title lang="en">The Big Bang Theory</title>
     <sub-title lang="en">The Table Polarization</sub-title>
@@ -13186,6 +13079,7 @@
     <country lang="en">US</country>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
+  
 <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="discovery.turbo.in">
     <title lang="en">Last Outpost</title>
     <sub-title lang="en">Alaskan Airboat &amp; ATV Gold Sluice</sub-title>
@@ -14083,7 +13977,6 @@
     <country lang="en">US</country>
     <episode-num system="onscreen">S10 E1</episode-num>
   </programme>
-  
 <programme start="20261007170000 +0000" stop="20261007173000 +0000" channel="discovery.science.in">
     <title lang="en">How It's Made</title>
     <sub-title lang="en">Armored Vehicles; Tension Fabric Buildings; Rowers</sub-title>
@@ -14303,6 +14196,7 @@
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F522207569,imi:071ea002bf9724e1aae90345158c6d1a2363d65b/posterTile?imageVersion=NFtupw&amp;w=200" />
     <country lang="en">IN</country>
   </programme>
+  
 <programme start="20261008060000 +0000" stop="20261008063000 +0000" channel="discovery.science.in">
     <title lang="en">Cruise TV with LoveitBookit</title>
     <desc lang="en">A one-stop shop for all things cruise, presenting the hottest destinations and the latest deals.</desc>
@@ -14853,7 +14747,6 @@
     <country lang="en">US</country>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  
 <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="discovery.science.in">
     <title lang="en">Codes and Conspiracies</title>
     <sub-title lang="en">Deadly Cults</sub-title>
@@ -16295,6 +16188,7 @@
     <country lang="en">NO</country>
     <episode-num system="onscreen">S10 E4</episode-num>
   </programme>
+  
 <programme start="20261009000000 +0000" stop="20261009010000 +0000" channel="national.geographic.hd.in">
     <title lang="en">Life Below Zero: Next Generation</title>
     <sub-title lang="en">Deep Roots</sub-title>
@@ -16831,6 +16725,7 @@
     <country lang="en">CA</country>
     <episode-num system="onscreen">S15 E1</episode-num>
   </programme>
+  
 <programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="national.geographic.hd.in">
     <title lang="en">Air Crash Investigation</title>
     <sub-title lang="en">Terror In San Francisco</sub-title>
@@ -17908,6 +17803,7 @@
     <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/intent/crid:~~2F~~2Fgn.tv~~2F9936435~~2FEP059895310001,imi:7e96fa91983652664ace6356558f4667f31b23e7/posterTile?imageVersion=Anes5A&amp;w=200" />
     <episode-num system="onscreen">S2013 E51001</episode-num>
   </programme>
+  
 <programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="nat.geo.wild.hd.in">
     <title lang="en">Croatias Coast - Endless and Wild</title>
     <desc lang="en">More than a mere holiday destination, the islands, mountains and forests of the Croatian coast reveal a world of unexpected wildlife and hidden natural treasures. Majestic raptors ride the winds while cicadas sing; geckos defy gravity and the blenny tidal pool-hops. In the mountains, the chamois, lynx and brown bears roam the Velebit range against the backdrop of the breathtaking Adriatic Sea.</desc>
@@ -18175,6 +18071,7 @@
     <country lang="en">DE</country>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
+  
 <programme start="20261010100000 +0000" stop="20261010110000 +0000" channel="nat.geo.wild.hd.in">
     <title lang="en">The Incredible Dr. Pol</title>
     <sub-title lang="en">Rock-a-Baa Baby</sub-title>
@@ -18527,7 +18424,6 @@
     <country lang="en">ZA</country>
     <episode-num system="onscreen">S2026 E12590</episode-num>
   </programme>
-  
 <programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Live: SA20</title>
     <sub-title lang="en">Season 5 Player Auction</sub-title>
@@ -19200,6 +19096,7 @@
     <episode-num system="onscreen">S2026 E101036</episode-num>
     <premiere lang="en" />
   </programme>
+  
 <programme start="20261010153000 +0000" stop="20261010154500 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">The Hundred</title>
     <sub-title lang="en">Women's Final: Trent Rockets v Sunrisers Leeds</sub-title>
@@ -20960,7 +20857,6 @@
       <value>1</value>
     </rating>
   </programme>
-  
 <programme start="20261009143000 +0000" stop="20261009150000 +0000" channel="cartoon.network.in">
     <title lang="en">Adventure Time: Side Quests</title>
     <sub-title lang="en">Son of the Goblin Queen</sub-title>
@@ -21966,6 +21862,7 @@
     <country lang="en">US</country>
     <episode-num system="onscreen">S7 E14</episode-num>
   </programme>
+  
 <programme start="20261007061000 +0000" stop="20261007070000 +0000" channel="mtv.in">
     <title lang="en">Teen Mom 2</title>
     <sub-title lang="en">100</sub-title>
@@ -22503,6 +22400,7 @@
     <country lang="en">US</country>
     <episode-num system="onscreen">S15 E157</episode-num>
   </programme>
+  
 <programme start="20261008110000 +0000" stop="20261008120000 +0000" channel="mtv.in">
     <title lang="en">Charmed</title>
     <sub-title lang="en">We're off to See the Wizard</sub-title>
@@ -23755,6 +23653,7 @@
     <episode-num system="onscreen">E34</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20261007133200 +0530" stop="20261007135500 +0530" channel="colors.hd.in">
     <title lang="hi-IN">&#2348;&#2366;&#2354;&#2367;&#2325;&#2366; &#2357;&#2343;&#2370; - &#2325;&#2325;&#2364;&#2330;&#2368; &#2313;&#2350;&#2352; &#2325;&#2375; &#2346;&#2325;&#2381;&#2325;&#2375; &#2352;&#2367;&#2358;&#2381;&#2340;&#2375;</title>
     <sub-title lang="hi-IN">Anandi, a child bride, married into an affluent family at a tender age, struggles to cope with the traditions. Soon, she overcomes multiple personal obstacles to emerge as an example for rural women</sub-title>
@@ -24636,7 +24535,6 @@
     <episode-num system="onscreen">E12</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261009095900 +0530" stop="20261009113700 +0530" channel="colors.hd.in">
     <title lang="hi-IN">&#2354;&#2366;&#2347;&#2381;&#2335;&#2352; &#2358;&#2375;&#2347;&#2381;&#2360; &#2309;&#2344;&#2354;&#2367;&#2350;&#2367;&#2335;&#2375;&#2337; &#2319;&#2306;&#2335;&#2352;&#2335;&#2375;&#2344;&#2350;&#2375;&#2306;&#2335;</title>
     <sub-title lang="hi-IN">Pawan Singh infuses the atmosphere with Bhojpuri charisma. Meanwhile, the kitchen transforms into a lively arena as rival teams craft Bihari cuisine amidst spirited competition</sub-title>
@@ -24979,7 +24877,6 @@
     <episode-num system="onscreen">E13</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261010000000 +0530" stop="20261010005800 +0530" channel="colors.hd.in">
     <title lang="hi-IN">&#2348;&#2367;&#2327; &#2348;&#2377;&#2360;</title>
     <sub-title lang="hi-IN">Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated</sub-title>
@@ -28202,7 +28099,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3b27152e27d914edad8f61d92a239157.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261008013000 +0530" stop="20261008020000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2344;&#2381;&#2351;&#2370;&#2395;</title>
     <sub-title lang="hi-IN">The hosts present a compilation of the latest updates and developments pertaining to politics, sports, social and economic news</sub-title>
@@ -28355,6 +28251,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/134efe01cd2621cef66ccff8144a37fc.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261008085000 +0530" stop="20261008090500 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2349;&#2366;&#2327;&#2381;&#2351; &#2330;&#2325;&#2381;&#2352;</title>
     <sub-title lang="hi-IN">A renowned astrologer provides remedial measures for various problems people face based on their zodiac signs and the position of the planets</sub-title>
@@ -28691,6 +28588,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9cddcd397d87a5d8ed8bb4be7b77b715.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261008233500 +0530" stop="20261008235959 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2350;&#2369;&#2306;&#2348;&#2312; &#2350;&#2375;&#2335;&#2381;&#2352;&#2379;</title>
     <sub-title lang="hi-IN">The host presents the latest news updates and developments based on social, political, and economic issues from across Mumbai</sub-title>
@@ -29720,6 +29618,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e7b75de33bcbd25701a591baee7eaffb.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261010220000 +0530" stop="20261010223000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2360;&#2381;&#2346;&#2375;&#2358;&#2354; &#2346;&#2381;&#2352;&#2379;&#2327;&#2381;&#2352;&#2366;&#2350;</title>
     <sub-title lang="hi-IN">Bringing the best in television</sub-title>
@@ -30430,7 +30329,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fd1be42c5009ea5ea73fe319d226a483.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261010180000 +0530" stop="20261010190000 +0530" channel="b4u.music.in">
     <title lang="hi-IN">&#2348;&#2370;&#2350; &#2348;&#2377;&#2325;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">A comprehensive compilation of various foot-tapping dance tracks from Bollywood films composed by different artists played back to back</sub-title>
@@ -31457,7 +31355,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e8ba87ad25d4d980493378f0cf032b3e.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261009195800 +0530" stop="20261009203000 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2361;&#2392;&#2368;&#2392;&#2340; &#2325;&#2381;&#2351;&#2366; &#2361;&#2376;</title>
     <desc lang="hi-IN">Haqiqat Kya Hai.</desc>
@@ -31609,6 +31506,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e528aadf01426b050ac2fe8284b28288.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261010060000 +0530" stop="20261010062800 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2332;&#2366;&#2327;&#2379; &#2311;&#2306;&#2337;&#2367;&#2351;&#2366;</title>
     <sub-title lang="hi-IN">The host presents the latest updates and developments regarding various social, political and economic issues in a detailed manner</sub-title>
@@ -33078,6 +32976,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ac1467a232b49adf34001457536cd6b7.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261009040700 +0530" stop="20261009050000 +0530" channel="animal.planet.hd.world.in">
     <title lang="en-GB">Viper Queens</title>
     <desc lang="en-GB">Velvet the Gaboon viper and Therma the rattlesnake are two mothers facing different challenges in extreme, contrasting landscapes.</desc>
@@ -34530,7 +34429,6 @@
     <episode-num system="onscreen">E56</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261009062000 +0530" stop="20261009070000 +0530" channel="set.hd.in">
     <title lang="hi-IN">&#2348;&#2375;&#2360;&#2381;&#2335; &#2321;&#2398; &#2325;&#2381;&#2352;&#2366;&#2311;&#2350; &#2346;&#2375;&#2335;&#2381;&#2352;&#2379;&#2354;</title>
     <sub-title lang="hi-IN">A compilation of the best cases investigated in 'Crime Patrol' showcases people from different walks of life falling victim to the vices of others or their own</sub-title>
@@ -36321,6 +36219,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/43fd2db4f49312b1450d1539a8374d6d.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261010030000 +0530" stop="20261010033000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2352;&#2366;&#2340; &#2349;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -36608,7 +36507,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/04ed5cd680f81c5f9b24cda49b27cc7f.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261010210000 +0530" stop="20261010213000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2361;&#2366;&#2313;&#2360;&#2347;&#2369;&#2354;</title>
     <desc lang="hi-IN">A comprehensive compilation of melodious and hit Bollywood songs from the 90s to 2000s is played back-to-back to enthrall the audience.</desc>
@@ -36773,6 +36671,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/dfc56d2cff518a4e5b4707a41139a68e.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261007063000 +0530" stop="20261007070000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">Bhaktinaad</title>
     <sub-title lang="mr-IN">A compilation of some of the most famous devotional songs are played back to back in order to help the audience find spirituality</sub-title>
@@ -39008,6 +38907,7 @@
     <episode-num system="onscreen">E1</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20261008135100 +0530" stop="20261008144000 +0530" channel="discovery.hd.world.in">
     <title lang="en-GB">Ed Stafford's Rite of Passage</title>
     <sub-title lang="en-GB">Ed visits the Hamar cattle herders of Ethiopia to witness a unique rite of passage. Later, he explores their ancient culture as the tribe's young men must successfully jump over a line of bulls</sub-title>
@@ -41698,7 +41598,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1a945db34709481a601e0bcba74c1bcb.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261008100000 +0530" stop="20261008110000 +0530" channel="discovery.science.in">
     <title lang="en-GB">Bering Sea Gold</title>
     <sub-title lang="en-GB">After securing a lucrative claim, Shawn Pomrenke has a plan to become the leading miner in Nome. And, Zeke Tenhoff works on an ambitious sailboat</sub-title>
@@ -42641,6 +42540,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0a9ae9e61a9dc082b3af78c8bf751e38.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261007130000 +0530" stop="20261007160000 +0530" channel="mastiii.in">
     <title lang="hi-IN">&#2319;&#2357;&#2352;&#2327;&#2381;&#2352;&#2368;&#2344; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">A comprehensive compilation of some of the most popular songs from evergreen Bollywood films composed by famous artists and musicians</sub-title>
@@ -43370,7 +43270,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/71a7203d97dae30fe85d3642863646e1.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261007190000 +0530" stop="20261007193000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2360;&#2369;&#2346;&#2352; &#2360;&#2381;&#2357;&#2376;&#2327;</title>
     <desc lang="hi-IN">A curated collection of timeless and iconic songs, featuring renowned artists and musicians, is played in rapid succession.</desc>
@@ -44570,6 +44469,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f3d918c541b2c643675a798f3a3c8c4b.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261010203000 +0530" stop="20261010210000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2358;&#2366;&#2351;&#2352;&#2367;&#2332;&#2381;&#2350;</title>
     <desc lang="hi-IN">A comprehensive compilation of soothing and melodious songs performed by popular artists and musicians is played back-to-back.</desc>
@@ -44601,7 +44501,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/144c7cdf54e9ccc095b77f97e005982a.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261010220000 +0530" stop="20261010223000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2350;&#2381;&#2351;&#2370;&#2332;&#2367;&#2325; &#2311;&#2343;&#2352; &#2361;&#2376;</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the hit songs composed by renowned artists and musicians is played back-to-back along with some popular jokes.</desc>
@@ -44679,7 +44578,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2652a140894d68c2c8728854cd9eeaba.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261007100000 +0530" stop="20261007110000 +0530" channel="zoom.in">
     <title lang="hi-IN">&#2354;&#2366;&#2311;&#2325;&#2381;&#2360; &#2348;&#2332;&#2366;&#2323;</title>
     <sub-title lang="hi-IN">Viewers from across the country vote for some of their most favourite songs on social media, which are played back to back</sub-title>
@@ -44830,6 +44728,7 @@
     <episode-num system="onscreen">E2</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20261008120000 +0530" stop="20261008130000 +0530" channel="zoom.in">
     <title lang="hi-IN">&#2332;&#2370;&#2350;&#2381;&#2348;&#2366;&#2360;&#2381;&#2335;&#2367;&#2325; &#2335;&#2377;&#2346; 10</title>
     <sub-title lang="hi-IN">An extensive compilation of some of the catchiest foot-tapping hits from various musical artists is played back to back in order to entertain the audience</sub-title>
@@ -46604,6 +46503,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f0d1739d61d70497a3494fcb6ac2c062.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261010170000 +0530" stop="20261010173000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">Bade-Chote's Playlist</title>
     <desc lang="pa-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -46764,7 +46664,6 @@
     <episode-num system="onscreen">E9</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261007034700 +0530" stop="20261007053900 +0530" channel="mnx.hd.in">
     <title lang="en-GB">Snowpiercer</title>
     <desc lang="en-GB">New power dynamics emerge amongst the survivors of the second ice age when they board a train travelling across the globe.</desc>
@@ -48312,7 +48211,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b66df009782f1bf51ce27df13c2fbc26.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261010150000 +0530" stop="20261010163000 +0530" channel="cn.hd+.english.in">
     <title lang="en-GB">Ben 10</title>
     <desc lang="en-GB">Ben Tennyson discovers a wristwatch which contains the Omnitrix. While he figures out its powers, he uses that to transform himself into various alien species.</desc>
@@ -48523,7 +48421,6 @@
     <episode-num system="onscreen">E26</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261007143000 +0530" stop="20261007155000 +0530" channel="mtv.hd.in">
     <title lang="hi-IN">&#2360;&#2381;&#2346;&#2381;&#2354;&#2367;&#2335;&#2381;&#2360;&#2357;&#2367;&#2354;&#2366;</title>
     <sub-title lang="hi-IN">The couples get ready and arrive for their first dates in the love den, sharing heartfelt moments. Further, Splitsvilla contestants gather for a unique task</sub-title>
@@ -48710,7 +48607,6 @@
     <episode-num system="onscreen">E2493</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261008090000 +0530" stop="20261008100000 +0530" channel="mtv.hd.in">
     <title lang="hi-IN">&#2346;&#2306;&#2346; &#2309;&#2346; &#2350;&#2377;&#2352;&#2381;&#2344;&#2367;&#2306;&#2327;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">A comprehensive compilation of energetic and popular songs performed by various renowned artists and musicians, played back to back</sub-title>
@@ -49593,6 +49489,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fd1a6063e02f825df746c8b7d1036f8a.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261007210000 +0530" stop="20261007222600 +0530" channel="romedy.now.in">
     <title lang="en-GB">Mune</title>
     <desc lang="en-GB">Necross, the former guardian of the sun, turns evil and steals it. Now, Mune, Glim and Sohone, three friends, must work together to retrieve it from him.</desc>
@@ -50036,7 +49933,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/15e7d9d34571c2d5826d275429a6f138.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261010084900 +0530" stop="20261010103100 +0530" channel="romedy.now.in">
     <title lang="en-GB">Movie</title>
     <desc lang="en-GB">Bringing the best in television.</desc>
@@ -50469,7 +50365,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/50e03eb2bd00d4f8b70c9b6c584ac93e.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261007203000 +0530" stop="20261007203500 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">Cricket Fillers</title>
     <desc lang="en-GB">A compilation of memorable moments from prestigious cricket matches featuring incredible performances of renowned cricketers.</desc>
@@ -52108,7 +52003,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/915c546e3a54f30efaa3ebc4529d4341.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261007153000 +0530" stop="20261007160000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2310;&#2312;&#2360;&#2368;&#2360;&#2368; &#2325;&#2381;&#2352;&#2367;&#2325;&#2375;&#2335; &#2357;&#2352;&#2381;&#2354;&#2381;&#2337; &#2325;&#2346; &#2361;&#2366;&#2311;&#2354;&#2366;&#2311;&#2335;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">Highlights of the matches played during the ICC Cricket World Cup, wherein international teams compete to win the coveted title</sub-title>
@@ -52611,6 +52505,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261008173000 +0530" stop="20261008174500 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2319;&#2347;&#2335;&#2368;&#2348;&#2368; &#2319;&#2325;&#2381;&#2360;&#2325;&#2381;&#2354;&#2370;&#2360;&#2367;&#2357;</title>
     <desc lang="hi-IN">FTB Exclusive.</desc>
@@ -52803,7 +52698,6 @@
     <episode-num system="onscreen">E42</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261009020000 +0530" stop="20261009023000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2335;&#2368;20 &#2325;&#2381;&#2352;&#2367;&#2325;&#2375;&#2335;</title>
     <sub-title lang="hi-IN">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match</sub-title>
@@ -52949,6 +52843,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261009090000 +0530" stop="20261009093000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2335;&#2368;20 &#2325;&#2381;&#2352;&#2367;&#2325;&#2375;&#2335;</title>
     <sub-title lang="hi-IN">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match</sub-title>
@@ -53683,7 +53578,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7c15c5668b56b72a827a93be0c00c1e3.jpg" />
     <premiere />
   </programme>
-  
 <programme channel="zee.tv.hd.in" start="20261007093000 +0530" stop="20261007100000 +0530">
     <title lang="en">Dilon Ki Ram Leela</title>
     <desc lang="en">Despite being from an affluent family, Leela longs for her distant father's love. She finds comfort and healing in her strong bond with Ram.</desc>
@@ -54911,6 +54805,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p12519462_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">E2</episode-num>
   </programme>
+  
 <programme channel="zoom.in" start="20261007110000 +0530" stop="20261007130000 +0530">
     <title lang="en">PYAAR HITS</title>
     <desc lang="en">A compilation of some of the most iconic songs based on the theme of love, composed by popular artists and musicians, is played back-to-back.</desc>
@@ -55055,7 +54950,6 @@
     <category lang="en">Film</category>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_502,h_282,c_scale,f_webp,q_auto:eco/resources//list/AndxplorHDShirinFarhadKiTohNikalPadi857523b0005f7c80e1466b87bb80f69425568a.jpg" />
   </programme>
-  
 <programme channel="and.xplorhd.in" start="20261007064200 +0530" stop="20261007080300 +0530">
     <title lang="en">Shirin Farhad Ki Toh Nikal Padi</title>
     <desc lang="en">Farhad's mother disapproves of Shirin, complicating potential marriage.</desc>
@@ -56152,6 +56046,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7d626b4732386418b68e932e6f357eba.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9x.jalwa.in" start="20261009000000 +0530" stop="20261009003000 +0530">
     <title lang="hi-IN">&#2352;&#2366;&#2340; &#2349;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -56407,6 +56302,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a0b079d7bbea9b5a30ff2a38ad5920b9.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9x.jalwa.in" start="20261009160000 +0530" stop="20261009163000 +0530">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2350;&#2375;&#2354;&#2379;&#2337;&#2368; &#2357;&#2366;&#2354;&#2368; &#2357;&#2366;&#2311;&#2348;</title>
     <desc lang="hi-IN">A comprehensive compilation of melodious and soulful movie songs, composed by talented musicians is played to enthrall the audience.</desc>
@@ -56590,7 +56486,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/43fd2db4f49312b1450d1539a8374d6d.jpg" />
     <premiere />
   </programme>
-  
 <programme channel="9x.jalwa.in" start="20261010033000 +0530" stop="20261010040000 +0530">
     <title lang="hi-IN">&#2352;&#2366;&#2340; &#2349;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -57508,6 +57403,7 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p28546039_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="nick.hd+.in" start="20261007180000 +0530" stop="20261007183000 +0530">
     <title lang="en">Chikoo Aur Bunty</title>
     <desc lang="en">Two brothers, Chikoo and Bunty, engage in constant banter and rivalry while avoiding being caught by their parents and teachers.</desc>
@@ -58420,7 +58316,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p11997863_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  
 <programme channel="nick.jr.in" start="20261008013000 +0530" stop="20261008020000 +0530">
     <title lang="en">Shimmer and Shine</title>
     <desc lang="en">Astronauts Leah and Zac are on a quest to speak to an alien. Shimmer and Shine send an alien right into her garden so she can talk to one face to face.</desc>
@@ -60080,6 +59975,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8862533_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E3574</episode-num>
   </programme>
+  
 <programme channel="sab.hd.in" start="20261007130000 +0530" stop="20261007133000 +0530">
     <title lang="en">Hastinapur Ke Veer</title>
     <desc lang="en">Five noble Pandava brothers bravely unite to combat ruthless injustice threatening their peaceful kingdom. Furthermore, their unwavering devotion to dharma secures total victory.</desc>
@@ -62236,6 +62132,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p16637272_b_h9_ag.jpg?lock=880x660" />
     <episode-num system="onscreen">S5 E9</episode-num>
   </programme>
+  
 <programme channel="sony.bbc.earth.hd.in" start="20261007191400 +0530" stop="20261007201300 +0530">
     <title lang="en">Asia</title>
     <desc lang="en">In the remote reaches of Asia's frozen north, creatures must overcome unique challenges, finding exceptional ways to thrive in a hostile world that pushes life to its very limits.</desc>
@@ -64295,6 +64192,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p12558002_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E122</episode-num>
   </programme>
+  
 <programme channel="sony.pal.in" start="20261008072400 +0530" stop="20261008074800 +0530">
     <title lang="en">Chidiya Ghar</title>
     <desc lang="en">Babuji teaches everyone the importance of practice, and how practice makes a man perfect. Everyone tries to say a difficult line repeatedly but fail to do so.</desc>
@@ -71666,6 +71564,7 @@
     <category lang="en">Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p17713096_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.2.hindi.hd.in" start="20261007163500 +0530" stop="20261007165000 +0530">
     <title lang="en">2026: 1st T20: India vs. West Indies; T20 Cricket</title>
     <desc lang="en">Professional players from different cricketing teams play in the Twenty20 format, competing against each other to win the match.</desc>
@@ -71842,7 +71741,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p223336_b_h9_af.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="star.sports.2.hindi.hd.in" start="20261008080000 +0530" stop="20261008081500 +0530">
     <title lang="en">Follow The Blues</title>
     <desc lang="en">The Indian cricket team's camaraderie, teamwork, and passion for cricket is on display in an insider's view of all the on and off-field activities.</desc>
@@ -72264,7 +72162,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p29374322_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="star.sports.3.in" start="20261008031500 +0530" stop="20261008033000 +0530">
     <title lang="en">Premier League Highlights</title>
     <desc lang="en">Highlights of the Premier League matches, where professional football teams compete against each other to win the championship title.</desc>
@@ -72858,7 +72755,6 @@
     <category lang="en">Football</category>
     <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
-  
 <programme channel="star.sports.select.2.hd.in" start="20261007110000 +0530" stop="20261007113000 +0530">
     <title lang="en">Ind vs Eng, 2nd ODI; IDFC FIRST Bank India vs England ODI 2025 Highlights</title>
     <desc lang="en">Highlights of the official teams of India and England competing against each other in a One Day International cricket match in 2025.</desc>
@@ -73294,6 +73190,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p26841298_b_h9_ac.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E197</episode-num>
   </programme>
+  
 <programme channel="star.utsav.in" start="20261007110000 +0530" stop="20261007120000 +0530">
     <title lang="en">Chhoo Kar Mere Mann Ko</title>
     <desc lang="en">Deepa leads a tough life in a tradition-bound society that judges her based on skin colour. As luck would have it, she crosses paths with a doctor who helps her redefine beauty through their love.</desc>
@@ -74193,7 +74090,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p25677167_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  
 <programme channel="sony.yay.in" start="20261007110200 +0530" stop="20261007110900 +0530">
     <title lang="en">Oggy and the Cockroaches: Next Generation</title>
     <desc lang="en">Oggy is going on a date with Olivia and asks Jack to take care of Piya.</desc>
@@ -75373,6 +75269,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p26316173_b_h9_ae.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E449</episode-num>
   </programme>
+  
 <programme channel="sony.yay.in" start="20261008001800 +0530" stop="20261008002500 +0530">
     <title lang="en">Shin Chan</title>
     <desc lang="en">When Hiroshi's client is invited to dinner, Misae forgets to buy ingredients for the meal and sends Shin-chan to purchase them.</desc>
@@ -76219,6 +76116,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.khel.in" start="20261007140000 +0530" stop="20261007143000 +0530">
     <title lang="en">South Africa Champions vs West Indies Champions; World Championship of Legends Cricket</title>
     <desc lang="en">This is Sport - Cricket Category.</desc>
@@ -76721,7 +76619,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p14962553_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S16 E5</episode-num>
   </programme>
-  
 <programme channel="tlc.hd.in" start="20261007190000 +0530" stop="20261007200000 +0530">
     <title lang="en">Harry Potter: Wizards of Baking</title>
     <desc lang="en">The bakers must create a 4-foot-tall showpiece inspired by Albus Dumbledore's office items.</desc>
@@ -76994,6 +76891,7 @@
     <category lang="en">Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p28730395_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="tv9.kannada.in" start="20261007110000 +0530" stop="20261007113000 +0530">
     <title lang="en">Breaking News</title>
     <desc lang="en">The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the globe.</desc>
@@ -77257,6 +77155,7 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p29077764_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="tv9.kannada.in" start="20261008040000 +0530" stop="20261008043000 +0530">
     <title lang="en">News Bulletin</title>
     <desc lang="en">The host presents the latest regional, national and international news of the day and provides up-to-date information on current events.</desc>
@@ -78439,7 +78338,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p28306541_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  
 <programme channel="zee.anmol.in" start="20261007223000 +0530" stop="20261007230000 +0530">
     <title lang="en">Jagriti - Ek Nayi Subah</title>
     <desc lang="en">Akash tries to show Jagriti a way to earn money by selling fruits. Geeta and her daughter, Sapna, on the other hand arrive.</desc>
@@ -79525,7 +79423,6 @@
     <category lang="en">Thriller</category>
     <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
-  
 <programme channel="zee.classic.in" start="20261008015000 +0530" stop="20261008035000 +0530">
     <title lang="en">Narsingh Avatar</title>
     <desc lang="en">This is Film - Drama Category.</desc>
@@ -81120,7 +81017,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E1000</episode-num>
   </programme>
-  
 <programme channel="and.tv.hd.in" start="20261008070000 +0530" stop="20261008080000 +0530">
     <title lang="en">Comedy Circus Ka Jadoo</title>
     <desc lang="en">Stand-up comedians from across India perform their routines to entertain the audience and judges evaluate their performance.</desc>
@@ -82739,7 +82635,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p32645000_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  
 <programme channel="animal.planet.hd.world.in" start="20261007102000 +0530" stop="20261007111500 +0530">
     <title lang="en">The Great Rhino Robbery</title>
     <desc lang="en">Investigators find themselves locked in a race against time to dismantle the international criminal network before their ruthlessness leads to the rhino being hunted to extinction.</desc>
@@ -83235,7 +83130,6 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p8317082_b_h9_ad.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="b4u.music.in" start="20261008000000 +0530" stop="20261008020000 +0530">
     <title lang="en">Bajao</title>
     <desc lang="en">Tune in to Bajao to watch what's new and what's cool. Bringing you some of the latest, hottest and exclusive tracks every day.</desc>
@@ -83325,6 +83219,7 @@
     <category lang="en">Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p809737_b_h9_af.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="b4u.movies.in" start="20261008030000 +0530" stop="20261008060000 +0530">
     <title lang="en">Movie</title>
     <desc lang="en">Bringing the best in television.</desc>
@@ -83633,6 +83528,7 @@
     <category lang="en">Entertainment</category>
     <icon src="https://dtil.tmsimg.com/assets/p16979308_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="cartoon.network.in" start="20261007100000 +0530" stop="20261007102000 +0530">
     <title lang="en">Larva</title>
     <desc lang="en">Two curious little worms explore the objects that they daily come across in their world which is located under the ground.</desc>
@@ -83831,7 +83727,6 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p32838797_b_h9_ad.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261007230000 +0530" stop="20261007233000 +0530">
     <title lang="en">Regular Show: The Lost Tapes</title>
     <desc lang="en">A blue jay named Mordecai and a raccoon called Rigby work as groundskeepers at a local park and get into surreal misadventures whenever they attempt to slack off.</desc>
@@ -84370,6 +84265,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p12002812_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E315</episode-num>
   </programme>
+  
 <programme channel="colors.hd.in" start="20261007150600 +0530" stop="20261007152600 +0530">
     <title lang="en">Thapki Pyar Ki</title>
     <desc lang="en">Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
@@ -84720,6 +84616,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p32050463_b_h9_ac.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E192</episode-num>
   </programme>
+  
 <programme channel="colors.hd.in" start="20261007223000 +0530" stop="20261007235100 +0530">
     <title lang="en">Bigg Boss</title>
     <desc lang="en">Yung and Mahi's bond is tested when the latter supports a rival, while Amrapali voices out Lovepreet's loyalty.</desc>
@@ -85304,7 +85201,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p20340324_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S4 E7</episode-num>
   </programme>
-  
 <programme channel="colors.infinity.hd.in" start="20261007194000 +0530" stop="20261007200000 +0530">
     <title lang="en">The Neighborhood</title>
     <desc lang="en">Tina finds it difficult to manage her responsibilities at Calvin's auto shop because of her growing baking business. Later, Malcolm postpones ending his relationship with his girlfriend.</desc>
@@ -85667,7 +85563,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p7892396_b_h9_ac.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  
 <programme channel="colors.infinity.hd.in" start="20261008070000 +0530" stop="20261008080000 +0530">
     <title lang="en">Elsbeth</title>
     <desc lang="en">Quinn, the young CEO of a location-based crime alert app, kills a journalist and uses her app to divert authorities using a phony killer. Soon, Wagner hatches a plan to fight the D.O.J. investigation.</desc>
@@ -85784,6 +85679,7 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p10077400_b_h9_cy.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="colors.rishtey.in" start="20261007103100 +0530" stop="20261007105900 +0530">
     <title lang="en">Motu Patlu</title>
     <desc lang="en">Best friends Motu and Patlu live in Furfuri Nagar. When they land in the most hilarious situations, Motu is the one who generally creates problems, while Patlu tries to solve them.</desc>
@@ -86838,7 +86734,6 @@
     <category lang="en">Drama</category>
     <icon src="https://dtil.tmsimg.com/assets/p31427341_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="dangal.in" start="20261007103000 +0530" stop="20261007110000 +0530">
     <title lang="en">Hamari Bhabhi Number 1</title>
     <desc lang="en">This is TV Show - Drama Category.</desc>
@@ -87157,7 +87052,6 @@
     <category lang="en">Drama</category>
     <icon src="https://dtil.tmsimg.com/assets/p28026253_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="dangal.in" start="20261008030500 +0530" stop="20261008073000 +0530">
     <title lang="en">Ram Ratan Dhan Payo</title>
     <desc lang="en">A curated compilation of different prayers, hymns and holy songs in devotion to the Hindu deities is played back to back.</desc>
@@ -87283,6 +87177,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p31082129_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="dd.sports.in" start="20261007160000 +0530" stop="20261007170000 +0530">
     <title lang="en">Hockey Match; Khelo India Tribal Games</title>
     <desc lang="en">This is Sport - Multi-Sport Event Category.</desc>
@@ -88647,6 +88542,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p32516336_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S14 E22</episode-num>
   </programme>
+  
 <programme channel="discovery.kids.in" start="20261007162100 +0530" stop="20261007163300 +0530">
     <title lang="en">Titoo</title>
     <desc lang="en">Titoo, an inspiring eight-year-old boy, wishes to help everyone in need. However, his attempts only get him into trouble.</desc>
@@ -91027,6 +90923,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p24752193_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S28</episode-num>
   </programme>
+  
 <programme channel="discovery.turbo.in" start="20261007085900 +0530" stop="20261007092400 +0530">
     <title lang="en">Dallas Car Sharks</title>
     <desc lang="en">Competing car dealers outbid each other as they buy used cars at auctions, refurbish them and sell them at profitable prices.</desc>
@@ -94210,6 +94107,7 @@
     <category lang="en">History</category>
     <icon src="https://dtil.tmsimg.com/assets/p30769367_b_h9_ai.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="nat.geo.wild.hd.in" start="20261007213400 +0530" stop="20261007221800 +0530">
     <title lang="en">The Incredible Honey Badger</title>
     <desc lang="en">The filmmaker sheds light on the honey badger's reign in Africa's wilderness, revealing how these audacious creatures develop their legendary toughness and become supreme in their habitat.</desc>
@@ -96099,7 +95997,6 @@
     <category lang="pl">magazyn poradnikowy</category>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  
 <programme channel="travelxp.hd.in" start="20261006010000 -0500" stop="20261006013000 -0500">
     <title lang="pl">Viajar Peru</title>
     <sub-title lang="pl">Amazonas 1, Peru</sub-title>
@@ -96465,6 +96362,7 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20261007000000 -0500" stop="20261007003000 -0500">
     <title lang="pl">Viajar Peru</title>
     <sub-title lang="pl">Amazonas 1, Peru</sub-title>
@@ -96664,7 +96562,6 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  
 <programme channel="travelxp.hd.in" start="20261007123000 -0500" stop="20261007130000 -0500">
     <title lang="pl">City Breaks</title>
     <sub-title lang="pl">Bukhara, Uzbekistan</sub-title>
@@ -97311,6 +97208,7 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20261009050000 -0500" stop="20261009053000 -0500">
     <title lang="pl">Viajar Peru</title>
     <sub-title lang="pl">Lake Titicaca, Peru</sub-title>
@@ -97590,6 +97488,7 @@
     <category lang="pl">magazyn kulinarny</category>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20261009223000 -0500" stop="20261009230000 -0500">
     <title lang="pl">Unbound</title>
     <sub-title lang="pl">Radovljica, Slovenia</sub-title>
@@ -97788,7 +97687,6 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  
 <programme channel="travelxp.hd.in" start="20261010110000 -0500" stop="20261010113000 -0500">
     <title lang="pl">With Love From Mauritius</title>
     <sub-title lang="pl">Episode No. 1</sub-title>
@@ -98016,7 +97914,6 @@
     <category lang="pl">Kindersendung</category>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  
 <programme channel="nick.in" start="20261006005500 -0500" stop="20261006013000 -0500">
     <title lang="pl">DORA 4</title>
     <sub-title lang="pl">Wo sind die magischen Instrumente? / Herrn Bananes Gro&#223;es Puppentheater</sub-title>
@@ -99216,7 +99113,6 @@
     <category lang="pl">Animationsserie</category>
     <episode-num system="onscreen">E19</episode-num>
   </programme>
-  
 <programme channel="nick.in" start="20261008103500 -0500" stop="20261008110000 -0500">
     <title lang="pl">Willkommen bei den Louds 7</title>
     <sub-title lang="pl">Geburtstag - nein, danke / Nachsitzen mit Zach</sub-title>
@@ -99557,7 +99453,6 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E36</episode-num>
   </programme>
-  
 <programme channel="nick.in" start="20261009051500 -0500" stop="20261009054500 -0500">
     <title lang="pl">SpongeBob Schwammkopf 7</title>
     <title lang="xx">SpongeBob SquarePants</title>
@@ -100221,6 +100116,7 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
+  
 <programme channel="nick.in" start="20261010115000 -0500" stop="20261010121500 -0500">
     <title lang="pl">SpongeBob Schwammkopf 14</title>
     <title lang="xx">SpongeBob SquarePants: We Heart Hoops / SpongeChovy</title>
@@ -100404,7 +100300,6 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  
 <programme channel="nick.in" start="20261010220000 -0500" stop="20261010222000 -0500">
     <title lang="pl">SpongeBob Schwammkopf 8</title>
     <title lang="xx">SpongeBob SquarePants</title>
@@ -101072,7 +100967,6 @@
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  
 <programme channel="national.geographic.hd.in" start="20261008095500 -0500" stop="20261008105500 -0500">
     <title lang="pl">Odkopa&#263; histori&#281;</title>
     <title lang="xx">Buried Evidence</title>
@@ -102402,6 +102296,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S19</episode-num>
   </programme>
+  
 <programme channel="tlc.hd.in" start="20261008230000 -0500" stop="20261008233000 -0500">
     <title lang="pl">Salon sukien &#347;lubnych: Wielka Brytania</title>
     <title lang="xx">Say Yes to the Dress UK 2</title>
@@ -103645,6 +103540,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <date>2011</date>
     <category lang="pl">film sensacyjny</category>
   </programme>
+  
 <programme channel="bollywood.hd.in" start="20261009185500 -0500" stop="20261009205000 -0500">
     <title lang="pl">1982. Mi&#322;o&#347;&#263; czy ma&#322;&#380;e&#324;stwo</title>
     <title lang="xx">1982 - A Love Marriage</title>
@@ -104458,7 +104354,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S6E43</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261006123500 -0500" stop="20261006125500 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 6</title>
     <title lang="xx">The Amazing World of Gumball 6</title>
@@ -104542,6 +104437,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E10</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20261006143000 -0500" stop="20261006144000 -0500">
     <title lang="pl">Pora na przygod&#281;: Misje poboczne</title>
     <title lang="xx">Adventure Time: Side Quests</title>
@@ -104976,6 +104872,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E37</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20261006230000 -0500" stop="20261006231000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa</title>
     <title lang="xx">The Amazing World of Gumball</title>
@@ -105117,7 +105014,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S7E41</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261007022000 -0500" stop="20261007022500 -0500">
     <title lang="pl">Totalna Pora&#380;ka: Przedszkolaki 3</title>
     <title lang="xx">Total Dramarama 3</title>
@@ -106927,6 +106823,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S6E43</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20261008155500 -0500" stop="20261008160500 -0500">
     <title lang="pl">Pora na przygod&#281;</title>
     <title lang="xx">Adventure Time</title>
@@ -107524,7 +107421,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">E33</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261009032500 -0500" stop="20261009034000 -0500">
     <title lang="pl">Lana D&#322;ugobroda</title>
     <title lang="xx">Lana Longbeard</title>
@@ -108403,6 +108299,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E27</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20261009213000 -0500" stop="20261009214000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 3</title>
     <title lang="xx">The Amazing World of Gumball 3</title>
@@ -108861,7 +108758,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E23</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261010064000 -0500" stop="20261010065000 -0500">
     <title lang="pl">Zwariowane melodie: Kresk&#243;wki</title>
     <title lang="xx">Looney Tunes Cartoons</title>
@@ -108901,6 +108797,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
+  
 <programme channel="cartoon.network.in" start="20261010072500 -0500" stop="20261010074500 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa</title>
     <title lang="xx">The Amazing World of Gumball</title>
@@ -110063,7 +109960,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">program rozrywkowy</category>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20261007050000 -0500" stop="20261007060000 -0500">
     <title lang="pl">Niemiecka budowlanka</title>
     <title lang="xx">Building Germany</title>
@@ -110141,6 +110037,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S23</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20261007123000 -0500" stop="20261007130000 -0500">
     <title lang="pl">Jak to jest zrobione</title>
     <title lang="xx">How It's Made 23</title>
@@ -110393,6 +110290,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S23</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20261008113000 -0500" stop="20261008120000 -0500">
     <title lang="pl">Jak to jest zrobione</title>
     <title lang="xx">How It's Made 23</title>
@@ -111068,7 +110966,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <date>2020</date>
     <category lang="pl">serial dokumentalny</category>
   </programme>
-  
 <programme channel="discovery.science.in" start="20261010160000 -0500" stop="20261010170000 -0500">
     <title lang="pl">Kl&#261;twa Tr&#243;jk&#261;ta Bermudzkiego</title>
     <title lang="xx">Curse of the Bermuda Triangle</title>
@@ -111145,6 +111042,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S16E4</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20261010223000 -0500" stop="20261010230000 -0500">
     <title lang="pl">Zwyk&#322;e rzeczy - niezwyk&#322;e wynalazki 16</title>
     <title lang="xx">How Do They Do It?</title>
@@ -111687,6 +111585,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E141</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20261006155000 -0500" stop="20261006160000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -112132,7 +112031,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E55</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261007044500 -0500" stop="20261007050000 -0500">
     <title lang="pl">Psia Brygada 3</title>
     <title lang="xx">Pupstruction: Splits 3</title>
@@ -112395,7 +112293,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E148</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261007130000 -0500" stop="20261007131000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -112921,7 +112818,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261008043000 -0500" stop="20261008044500 -0500">
     <title lang="pl">Psia Brygada 3</title>
     <title lang="xx">Pupstruction: Splits 3</title>
@@ -113450,7 +113346,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E109</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261008214500 -0500" stop="20261008215000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -114246,7 +114141,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E118</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261009213000 -0500" stop="20261009214000 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -114326,6 +114220,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E89</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20261009223500 -0500" stop="20261009230000 -0500">
     <title lang="pl">Spidey i superkumple 4</title>
     <title lang="xx">Spidey and His Amazing Friends 4</title>
@@ -115039,7 +114934,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S4E94</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261010223500 -0500" stop="20261010230000 -0500">
     <title lang="pl">Spidey i superkumple 4</title>
     <title lang="xx">Spidey and His Amazing Friends 4</title>
@@ -116021,7 +115915,6 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S6E139</episode-num>
   </programme>
-  
 <programme channel="disney.channel.in" start="20261007142000 -0500" stop="20261007145000 -0500">
     <title lang="pl">Greenowie w wielkim mie&#347;cie 3</title>
     <title lang="xx">Big City Greens 3</title>
@@ -116087,6 +115980,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
+  
 <programme channel="disney.channel.in" start="20261007164500 -0500" stop="20261007165500 -0500">
     <title lang="pl">Dziewczyna, ch&#322;opak, itd</title>
     <title lang="xx">Boy Girl Dog Cat Mouse Cheese</title>
@@ -116857,6 +116751,7 @@ Po &#347;mierci Stalina mo&#380;liwe sta&#322;o si&#281; wprowadzenie reform w Z
     <category lang="pl">serial komediowy</category>
     <episode-num system="onscreen">S4E61</episode-num>
   </programme>
+  
 <programme channel="disney.channel.in" start="20261008191000 -0500" stop="20261008193500 -0500">
     <title lang="pl">Raven na chacie 4</title>
     <title lang="xx">Raven's Home 4</title>
@@ -117801,7 +117696,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  
 <programme channel="disney.channel.in" start="20261010062000 -0500" stop="20261010065000 -0500">
     <title lang="pl">Fineasz i Ferb 4</title>
     <title lang="xx">Phineas and Ferb</title>
@@ -119047,6 +118941,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="sony.max.2.in" start="20261008204400 +0000" stop="20261008231400 +0000">
     <title lang="en">Janam Se Pahle</title>
     <desc lang="en">Kishen has murdered three people but is unaware of the crime because of his mental condition. Radha, a defence lawyer tries to save him.</desc>
@@ -121185,7 +121080,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <icon src="https://images.metadata.sky.com/pd-image/02345d46-c56d-4a59-9800-03087ea559ff/16-9" />
     <episode-num system="xmltv_ns">0.697.</episode-num>
   </programme>
-  
 <programme channel="zee.tv.hd.in" start="20261006023000 +0000" stop="20261006030000 +0000">
     <title lang="en">Tumm Se Tumm Tak</title>
     <desc lang="en">Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
@@ -123040,7 +122934,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>U</value>
     </rating>
   </programme>
-  
 <programme channel="skysp.cricket.in" start="20261007093000 +0000" stop="20261007094500 +0000">
     <title lang="en">Women's: Hundred Final</title>
     <desc lang="en">The winners of the 2026 Women's Hundred are crowned in the final at Lord's as SunRisers Leeds, this year's defending champions, take on the table-topping Trent Rockets. (16.</desc>
@@ -124565,6 +124458,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <category lang="en">Specialist</category>
     <category lang="en">Shopping</category>
   </programme>
+  
 <programme channel="tlc.hd.in" start="20261008060000 +0000" stop="20261008063000 +0000">
     <title lang="en">The Middle</title>
     <sub-title lang="en">While You Were Sleeping</sub-title>
@@ -124764,7 +124658,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <icon src="https://images.metadata.sky.com/pd-image/cb2c82a9-096e-44ec-91a5-456643a9785e/16-9" />
     <episode-num system="xmltv_ns">4.12.</episode-num>
   </programme>
-  
 <programme channel="tlc.hd.in" start="20261008160000 +0000" stop="20261008163000 +0000">
     <title lang="en">The Big Bang Theory</title>
     <sub-title lang="en">The Anxiety Optimization</sub-title>
@@ -125943,6 +125836,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/373a563a-00ef-4f73-bbd1-e9b601069899/16-9" />
   </programme>
+  
 <programme channel="aaj.tak.in" start="20261007193000 +0000" stop="20261007200000 +0000">
     <title lang="en">Khabardar</title>
     <desc lang="en">Khabardar is a people-first campaign spotlighting issues that truly matter, Anchored by Sweta Singh.</desc>
@@ -126510,6 +126404,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/4519b1f6-c378-40fd-a410-8fda24dda98c/16-9" />
   </programme>
+  
 <programme channel="aaj.tak.in" start="20261009070000 +0000" stop="20261009073000 +0000">
     <title lang="en">Aajtak News</title>
     <desc lang="en">Aaj Tak News program on current developments across the world.</desc>
@@ -127084,6 +126979,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>U</value>
     </rating>
   </programme>
+  
 <programme channel="b4u.movies.in" start="20261009164400 +0000" stop="20261009202300 +0000">
     <title lang="en">Baadshah</title>
     <desc lang="en">Raj, a small-time private detective who is desperate for a big break, gets drawn into a political conspiracy when he is hired to rescue a hostage.</desc>
@@ -127641,6 +127537,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <category lang="en">Entertainment</category>
     <icon src="https://images.metadata.sky.com/pd-image/45d9657f-24d5-40aa-8805-36b023ddeaaf/16-9" />
   </programme>
+  
 <programme channel="b4u.music.in" start="20261007220000 +0000" stop="20261007230000 +0000">
     <title lang="en">Boom Box</title>
     <desc lang="en">Boom Box is all about the foot-tapping, dance tracks, playing the very best of the club hits to be released out of Bollywood.</desc>
@@ -128128,7 +128025,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <category lang="en">Entertainment</category>
     <icon src="https://images.metadata.sky.com/pd-image/25a30460-2615-4def-bac7-39b8d9f2260b/16-9" />
   </programme>
-  
 <programme channel="b4u.music.in" start="20261009173000 +0000" stop="20261009180000 +0000">
     <title lang="en">Pinkvilla</title>
     <desc lang="en">Bollywood and TV stars lifestyle, gossip and fashion.</desc>
@@ -129346,6 +129242,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="colors.hd.in" start="20261008052500 +0000" stop="20261008055000 +0000">
     <title lang="en">Bareilly Ki Bacchan</title>
     <desc lang="en">Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family.</desc>
@@ -129645,6 +129542,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="colors.hd.in" start="20261008190000 +0000" stop="20261008193000 +0000">
     <title lang="en">Bareilly Ki Bacchan</title>
     <desc lang="en">Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family.</desc>
@@ -129943,6 +129841,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="colors.hd.in" start="20261009092500 +0000" stop="20261009095500 +0000">
     <title lang="en">Tuu Juliet Jatt Di</title>
     <desc lang="en">Another portrayal of the same heartfelt love journey, highlighting charm, humor, and the small emotional conflicts that slowly build into meaningful relationships.</desc>
@@ -130307,7 +130206,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <icon src="https://images.metadata.sky.com/pd-image/632532ff-750a-4b8b-a16b-1d2ad9d3a6a0/16-9" />
     <episode-num system="xmltv_ns">12.8.</episode-num>
   </programme>
-  
 <programme channel="mtv.hd.in" start="20261006080000 +0000" stop="20261006090000 +0000">
     <title lang="en">Catfish: The TV Show</title>
     <desc lang="en">Nev and co-host Jane Carrey help aspiring sugarbaby Mike choose between his LA life of leisure and his affection for the mysterious Joey, a broke mechanic he fell in love with on Grindr.</desc>
@@ -132572,6 +132470,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>TVG</value>
     </rating>
   </programme>
+  
 <programme channel="willow.cricket.hd.in" start="20261008180000 +0000" stop="20261008190000 +0000">
     <title lang="en">Cricket Highlights</title>
     <sub-title lang="en">India vs. Afghanistan: 2nd ODI</sub-title>
@@ -133211,6 +133110,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
     <episode-num system="onscreen">S1 E8</episode-num>
     <previously-shown />
   </programme>
+  
 <programme channel="national.geographic.hd.in" start="20261006060000 +0000" stop="20261006065800 +0000">
     <title lang="en">Discovered By Disaster</title>
     <sub-title lang="en">Wrecks, Ruins, and Relics</sub-title>
@@ -139024,6 +138924,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>MA 15+</value>
     </rating>
   </programme>
+  
 <programme channel="vh1.hd.in" start="20261008160000 +0000" stop="20261008163000 +0000">
     <title lang="en">Nick Cannon Presents: Wild 'n Out</title>
     <sub-title lang="en">Ari Fletcher; Rodney Perry</sub-title>
@@ -139327,7 +139228,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
       <value>6</value>
     </rating>
   </programme>
-  
 <programme channel="vh1.hd.in" start="20261008220000 +0000" stop="20261008223000 +0000">
     <title lang="en">Everybody Hates Chris</title>
     <sub-title lang="en">Everybody Hates Jail</sub-title>
@@ -141078,6 +140978,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261008121500 +0700" stop="20261008124000 +0700" channel="tlc.hd.in">
     <title lang="en">Extreme Couponing</title>
   </programme>
+  
 <programme start="20261008124000 +0700" stop="20261008133000 +0700" channel="tlc.hd.in">
     <title lang="en">My 600-lb Life</title>
   </programme>
@@ -141841,7 +141742,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261006144500 +0700" stop="20261006150500 +0700" channel="disney.channel.in">
     <title lang="en">Phineas And Ferb</title>
   </programme>
-  
 <programme start="20261006150500 +0700" stop="20261006152500 +0700" channel="disney.channel.in">
     <title lang="en">Miraculous Tales of Ladybug &amp; Cat Noir</title>
   </programme>
@@ -142229,7 +142129,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261008014000 +0700" stop="20261008020500 +0700" channel="disney.channel.in">
     <title lang="en">Phineas And Ferb</title>
   </programme>
-  
 <programme start="20261008020500 +0700" stop="20261008022500 +0700" channel="disney.channel.in">
     <title lang="en">Phineas And Ferb</title>
   </programme>
@@ -142329,6 +142228,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261008105000 +0700" stop="20261008105500 +0700" channel="disney.channel.in">
     <title lang="en">Zombies: Addison's Monster Mystery</title>
   </programme>
+  
 <programme start="20261008105500 +0700" stop="20261008110000 +0700" channel="disney.channel.in">
     <title lang="en">Zombies: Addison's Monster Mystery</title>
   </programme>
@@ -143064,7 +142964,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261007212500 +0700" stop="20261007213000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
-  
 <programme start="20261007213000 +0700" stop="20261007214000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -143488,7 +143387,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261008233500 +0700" stop="20261009000000 +0700" channel="disney.junior.in">
     <title lang="en">Superkitties</title>
   </programme>
-  
 <programme start="20261009000000 +0700" stop="20261009002500 +0700" channel="disney.junior.in">
     <title lang="en">Mickey Mouse Clubhouse</title>
   </programme>
@@ -143592,6 +143490,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261009055500 +0700" stop="20261009061500 +0700" channel="disney.junior.in">
     <title lang="en">Superkitties</title>
   </programme>
+  
 <programme start="20261009061500 +0700" stop="20261009063000 +0700" channel="disney.junior.in">
     <title lang="en">Superkitties: Su-purr Charged</title>
   </programme>
@@ -143911,7 +143810,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261010010500 +0700" stop="20261010011000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
-  
 <programme start="20261010011000 +0700" stop="20261010012000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -144015,6 +143913,7 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261010083000 +0700" stop="20261010085500 +0700" channel="disney.junior.in">
     <title lang="en">Robogobo</title>
   </programme>
+  
 <programme start="20261010085500 +0700" stop="20261010090500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -144330,7 +144229,6 @@ Fretka i Stefa id&#261; na wyk&#322;ad o technikach przewodzenia. Podczas prelek
 <programme start="20261011042500 +0700" stop="20261011045000 +0700" channel="disney.junior.in">
     <title lang="en">Mickey Mouse Clubhouse</title>
   </programme>
-  
 <programme start="20261011045000 +0700" stop="20261011051500 +0700" channel="disney.junior.in">
     <title lang="en">Mickey Mouse Clubhouse</title>
   </programme>
