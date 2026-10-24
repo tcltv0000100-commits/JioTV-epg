@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="filtered_epg" date="20261024161011 +0000">
+<tv generator-info-name="filtered_epg" date="20261024181731 +0000">
 <channel id="star.life.in">
     <display-name lang="sq">Star Life</display-name>
     <url>http://www.ipko.com</url>
@@ -3681,6 +3681,7 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch211_160_115" />
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20261025170200 +0000" stop="20261025172400 +0000">
     <title lang="en">Mark Rober's Revengineers</title>
     <sub-title lang="en">Fast Food And The Furious</sub-title>
@@ -4795,7 +4796,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261024094500 +0000" stop="20261024101500 +0000">
     <title lang="en">Teen Titans Go!</title>
     <sub-title lang="en">Halloween V Christmas/Costume Contest</sub-title>
@@ -9197,6 +9197,7 @@
     <category lang="en">Comedy/Stand-up comedy</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch793_160_115" />
   </programme>
+  
 <programme channel="star.gold.in" start="20261026170000 +0000" stop="20261026185000 +0000">
     <title lang="en">1920 London</title>
     <desc lang="en">When her husband Veer falls under the deadly spell of a demonic witch, Princess Shivangi turns to her former lover Jai, an exorcist, to break the sinister curse before time runs out. Release Year: 2016 Director: Tinu Suresh Desai.</desc>
@@ -9368,7 +9369,6 @@
     <country lang="en">GB</country>
     <episode-num system="onscreen">S2025 E120376</episode-num>
   </programme>
-  
 <programme start="20261024090000 +0000" stop="20261024120000 +0000" channel="sky.sports.cricket.hd.ie">
     <title lang="en">Women's Big Bash</title>
     <sub-title lang="en">Melbourne Renegades v Perth Scorchers</sub-title>
@@ -12498,6 +12498,7 @@
     <episode-num system="onscreen">E11</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20261025070000 +0530" stop="20261025073000 +0530" channel="travelxp.hd.in">
     <title lang="en-GB">Backpack</title>
     <sub-title lang="en-GB">Sabrina is in Tiberias, known for its natural hot springs, where she visits the Sea of Galilee. In Nazareth she visits the cave of Mary, ending with Via Dolorosa in Jerusalem</sub-title>
@@ -13019,7 +13020,6 @@
     <episode-num system="onscreen">E11</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261026053000 +0530" stop="20261026060000 +0530" channel="travelxp.hd.in">
     <title lang="en-GB">Quest</title>
     <desc lang="en-GB">The host, Alex Outhwaite, travels the length and breadth of India on a quest to find, sample and recreate recipes thought to be forgotten that once were cherished for centuries.</desc>
@@ -14497,6 +14497,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/6b3669edf4c629fadb657725c16670a8.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261024230000 +0530" stop="20261024233000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2325;&#2361;&#2366;&#2344;&#2368;</title>
     <sub-title lang="hi-IN">The host sheds light on the life journeys of prominent personalities from various industries, laying emphasis on their achievements and milestones</sub-title>
@@ -14676,6 +14677,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1b101373f4a3ebc9e3a92148fefe3b74.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261025070500 +0530" stop="20261025073000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2349;&#2366;&#2327;&#2381;&#2351; &#2358;&#2376;&#2354;&#2375;&#2306;&#2342;&#2381;&#2352; &#2346;&#2366;&#2306;&#2337;&#2375; &#2325;&#2375; &#2360;&#2366;&#2341;</title>
     <sub-title lang="hi-IN">Shailendra Pandey, a learned astrologer, gives his predictions based on people's horoscopes and offers astrological solutions for leading a harmonious life</sub-title>
@@ -15895,7 +15897,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/719780c773167b63decf7a0cb2ff5cb4.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261027123000 +0530" stop="20261027130000 +0530" channel="aaj.tak.in">
     <title lang="hi-IN">&#2348;&#2381;&#2352;&#2375;&#2325;&#2367;&#2306;&#2327; &#2344;&#2381;&#2351;&#2370;&#2332;&#2364;</title>
     <sub-title lang="hi-IN">The host presents numerous top stories, latest happenings and significant updates from the national and international front</sub-title>
@@ -17068,7 +17069,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c24d57ec543c01c4a38f783e6d84619d.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261024062800 +0530" stop="20261024065800 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2332;&#2366;&#2327;&#2379; &#2311;&#2306;&#2337;&#2367;&#2351;&#2366;</title>
     <sub-title lang="hi-IN">The host presents the latest updates and developments regarding various social, political and economic issues in a detailed manner</sub-title>
@@ -18085,6 +18085,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/10ce8ea98025c2d7e220eb71734cc0ba.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261027075700 +0530" stop="20261027085800 +0530" channel="india.tv.in">
     <title lang="hi-IN">&#2352;&#2379;&#2327;&#2379; &#2360;&#2375; &#2332;&#2306;&#2327; &#2360;&#2381;&#2357;&#2366;&#2350;&#2368; &#2352;&#2366;&#2350;&#2342;&#2375;&#2357; &#2325;&#2375; &#2360;&#2306;&#2327;</title>
     <sub-title lang="hi-IN">Baba Ramdev discusses the negative consequences of obesity in human beings and demonstrates several exercises to combat the problem</sub-title>
@@ -18423,7 +18424,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0899b828f471f980b3bfa189b1e19434.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261025020000 +0530" stop="20261025030000 +0530" channel="music.india.in">
     <title lang="hi-IN">&#2354;&#2357; &#2325;&#2344;&#2376;&#2325;&#2381;&#2358;&#2344;</title>
     <sub-title lang="hi-IN">In a romantic mood or plainly missing your special someone, tune in and explore some of the choicest of most love numbers</sub-title>
@@ -19319,6 +19319,7 @@
     <episode-num system="onscreen">E3</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20261025200100 +0530" stop="20261025210100 +0530" channel="animal.planet.hd.world.in">
     <title lang="en-GB">Wild Assassins</title>
     <sub-title lang="en-GB">Explores how the most venomous creatures, including Sydney Funnel Web spider and the Diamondback rattlesnake, hunt their preys and survive in the wild</sub-title>
@@ -19554,7 +19555,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c283c0bf49a6ce7443671dcc91fb8d9d.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261026140000 +0530" stop="20261026150000 +0530" channel="animal.planet.hd.world.in">
     <title lang="en-GB">Pride Rules</title>
     <sub-title lang="en-GB">Come full circle as the dry season descends and the Waterfront Pride enjoys good hunting and renewed confidence in their territory. Then celebrate the success of former outsider Einstein, who gets down to business as the king of his very own pride</sub-title>
@@ -19806,7 +19806,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2c64851614f6d9bca16e7ab3305f657f.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261027101800 +0530" stop="20261027111300 +0530" channel="animal.planet.hd.world.in">
     <title lang="en-GB">Fight for Territory</title>
     <desc lang="en-GB">Biological instinct is driven by three things: the desire to stay alive, to find food and to breed. But to do all these things, animals first need a home. Out in the wilderness a safe place to call home can be the difference between life and death. A place to secure meals, raise their families and hide from danger. Ideal spots are in short supply and well worth fighting for!</desc>
@@ -21671,7 +21670,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d2d0fa8027882dbb964f6164d82061cf.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261024133000 +0530" stop="20261024140000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2360;&#2369;&#2346;&#2352; &#2360;&#2381;&#2357;&#2376;&#2327;</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the latest and popular songs composed by various artists and bands is played back to back.</desc>
@@ -22183,6 +22181,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/324a984e34ce6608890d1120f86dda60.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261025213000 +0530" stop="20261025220000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2361;&#2366;&#2313;&#2360;&#2347;&#2369;&#2354;</title>
     <desc lang="hi-IN">A comprehensive compilation of melodious and hit Bollywood songs from the 90s to 2000s is played back-to-back to enthrall the audience.</desc>
@@ -22438,6 +22437,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d2d0fa8027882dbb964f6164d82061cf.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261026133000 +0530" stop="20261026140000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2360;&#2369;&#2346;&#2352; &#2360;&#2381;&#2357;&#2376;&#2327;</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the latest and popular songs composed by various artists and bands is played back to back.</desc>
@@ -22693,6 +22693,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/324a984e34ce6608890d1120f86dda60.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261027053000 +0530" stop="20261027060000 +0530" channel="9x.jalwa.in">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2361;&#2366;&#2313;&#2360;&#2347;&#2369;&#2354;</title>
     <desc lang="hi-IN">A comprehensive compilation of melodious and hit Bollywood songs from the 90s to 2000s is played back-to-back to enthrall the audience.</desc>
@@ -23303,7 +23304,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a43fc9f5cefd4d7e411523625cbebefe.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261024173000 +0530" stop="20261024180000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">&#2348;&#2381;&#2352;&#2375;&#2325;&#2354;&#2375;&#2360; - &#2333;&#2325;&#2366;&#2360; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="mr-IN">A comprehensive compilation of some of the most popular songs sung by renowned artistes in various music genres is played back to back</sub-title>
@@ -23474,6 +23474,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/56596f7c4d5e4fa10eff221d7ab66fc0.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261025030000 +0530" stop="20261025033000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">&#2360;&#2377;&#2354;&#2367;&#2337; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="mr-IN">A compilation of some of the greatest hits songs in popular Bollywood movies featuring renowned singers, musicians and artists</sub-title>
@@ -24166,7 +24167,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a43fc9f5cefd4d7e411523625cbebefe.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261026173000 +0530" stop="20261026180000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">&#2348;&#2381;&#2352;&#2375;&#2325;&#2354;&#2375;&#2360; - &#2333;&#2325;&#2366;&#2360; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="mr-IN">A comprehensive compilation of some of the most popular songs sung by renowned artistes in various music genres is played back to back</sub-title>
@@ -24337,7 +24337,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/56596f7c4d5e4fa10eff221d7ab66fc0.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261027030000 +0530" stop="20261027033000 +0530" channel="9x.jhakaas.in">
     <title lang="mr-IN">&#2360;&#2377;&#2354;&#2367;&#2337; &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <sub-title lang="mr-IN">A compilation of some of the greatest hits songs in popular Bollywood movies featuring renowned singers, musicians and artists</sub-title>
@@ -25641,7 +25640,6 @@
     <episode-num system="onscreen">E3</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261026120000 +0530" stop="20261026125200 +0530" channel="discovery.hd.world.in">
     <title lang="en-GB">Man vs. Wild</title>
     <sub-title lang="en-GB">Adventurer Bear Grylls survives the Pacific Ocean, encountering coral reefs, rip currents, and relentless surf and comes face to face with sharks</sub-title>
@@ -26764,7 +26762,6 @@
     <episode-num system="onscreen">E3</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261025130000 +0530" stop="20261025140000 +0530" channel="tlc.hd.in">
     <title lang="en-GB">Restaurant: Impossible</title>
     <sub-title lang="en-GB">Chef Robert Irvine has to address two major issues at Pasion Latin Fusion, tension between co-owner Monica and the main investor, her brother-in-law, and a menu that's leaving customers confused and frustrated</sub-title>
@@ -27868,6 +27865,7 @@
     <episode-num system="onscreen">E8</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20261024160000 +0530" stop="20261024170000 +0530" channel="discovery.science.in">
     <title lang="en-GB">Curse of the Bermuda Triangle</title>
     <sub-title lang="en-GB">The Witchcraft is one of the strangest disappearances from the Bermuda Triangle. An expedition leads to a shocking discovery on the sea floor</sub-title>
@@ -28254,7 +28252,6 @@
     <episode-num system="onscreen">E3</episode-num>
     <premiere />
   </programme>
-  
 <programme start="20261025200000 +0530" stop="20261025210000 +0530" channel="discovery.science.in">
     <title lang="en-GB">Ancient Unexplained Files</title>
     <sub-title lang="en-GB">Archaeologists make a shocking discovery when the perfectly preserved remains of three children are unearthed from the frozen mountains of Argentina; experts investigate the bizarre circumstances behind this grisly scene</sub-title>
@@ -29060,6 +29057,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/3d89912e819d329ed4499133f243a0a2.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261024040000 +0530" stop="20261024043000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2352;&#2366;&#2340; &#2349;&#2366;&#2352;</title>
     <desc lang="hi-IN">A compilation of some of the most popular Hindi songs by famous recording artists, played in succession for everyone to enjoy.</desc>
@@ -30043,6 +30041,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/5c8b0d9b6e8ab1e5abfb84d05c92d130.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261026163000 +0530" stop="20261026170000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2360;&#2369;&#2346;&#2352; &#2360;&#2381;&#2357;&#2376;&#2327;</title>
     <desc lang="hi-IN">A curated collection of timeless and iconic songs, featuring renowned artists and musicians, is played in rapid succession.</desc>
@@ -30290,6 +30289,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/334d138dd20e42aa5f314915ec8c7899.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261027073000 +0530" stop="20261027080000 +0530" channel="9xm.in">
     <title lang="hi-IN">9&#2319;&#2325;&#2381;&#2360;&#2319;&#2350; &#2347;&#2364;&#2367;&#2335; - &#2361;&#2367;&#2335;&#2381;&#2360;</title>
     <desc lang="hi-IN">A curated collection of super hit Bollywood songs from popular movies is played back-to-back to kick-start your morning with energy.</desc>
@@ -31862,6 +31862,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/104abdd97191dea37425b96670077b11.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261025180000 +0530" stop="20261025183000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">Yaaran Di Gedi</title>
     <desc lang="pa-IN">A comprehensive compilation of popular songs composed and performed by talented artists is played back-to-back to entertain the audience.</desc>
@@ -32133,7 +32134,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/42844a7e42223d07c6049b6fe0cc8489.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261026110000 +0530" stop="20261026113000 +0530" channel="9x.tashan.in">
     <title lang="pa-IN">9x Tashan Super Swag</title>
     <desc lang="pa-IN">A comprehensive compilation of some of the hottest and foot-tapping Punjabi songs by renowned music artists is played back to back to entertain the audience.</desc>
@@ -33109,6 +33109,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/103e60428a660497685870c95f2bc093.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261026032500 +0530" stop="20261026033200 +0530" channel="mnx.hd.in">
     <title lang="en-GB">The Love Laugh Live Show</title>
     <desc lang="en-GB">The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
@@ -33467,6 +33468,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/03118fc628ac589f89c985d6459795d0.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261024020000 +0530" stop="20261024030000 +0530" channel="cn.hd+.english.in">
     <title lang="en-GB">Ben 10</title>
     <desc lang="en-GB">Ben Tennyson discovers a wristwatch which contains the Omnitrix. While he figures out its powers, he uses that to transform himself into various alien species.</desc>
@@ -33957,6 +33959,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/03118fc628ac589f89c985d6459795d0.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261026030000 +0530" stop="20261026040000 +0530" channel="cn.hd+.english.in">
     <title lang="en-GB">Ben 10</title>
     <desc lang="en-GB">Ben Tennyson discovers a wristwatch which contains the Omnitrix. While he figures out its powers, he uses that to transform himself into various alien species.</desc>
@@ -34788,6 +34791,7 @@
     <episode-num system="onscreen">E1</episode-num>
     <premiere />
   </programme>
+  
 <programme start="20261025205000 +0530" stop="20261025215000 +0530" channel="mtv.hd.in">
     <title lang="hi-IN">&#2360;&#2381;&#2346;&#2381;&#2354;&#2367;&#2335;&#2381;&#2360;&#2357;&#2367;&#2354;&#2366;</title>
     <sub-title lang="hi-IN">Uorfi Javed's team excels in a task, which earns her a special power. However, she ignores her teammates' suggestions on implementing the said power</sub-title>
@@ -36109,7 +36113,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8bb5cbc057ba07afa6c17e2d9d8a18d2.jpg" />
     <premiere />
   </programme>
-  
 <programme start="20261024050000 +0530" stop="20261024060000 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">ICC World T20 Highlights</title>
     <desc lang="en-GB">Highlighting the major moments from the ICC T20 world cup. The presenter covers everything from the soaring sixes to game changing wickets.</desc>
@@ -36387,6 +36390,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/be0d0b2b5474090fc002c4643f09afb9.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261024153000 +0530" stop="20261024160000 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">World Championship of Legends Cricket</title>
     <desc lang="en-GB">World Championship of Legends Cricket.</desc>
@@ -37214,6 +37218,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/be0d0b2b5474090fc002c4643f09afb9.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261026023000 +0530" stop="20261026030000 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">One-Day International Cricket</title>
     <desc lang="en-GB">An extensive and thorough coverage of one-day cricket matches contested by various international teams from across the globe.</desc>
@@ -37488,6 +37493,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/a9971ce9882e89f71739a5fb7b42bb2c.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261026141500 +0530" stop="20261026143000 +0530" channel="star.sports.2.hindi.hd.in">
     <title lang="en-GB">CKC Women's Highlights</title>
     <desc lang="en-GB">CKC Women's Highlights.</desc>
@@ -40038,6 +40044,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/521ca6b3595fee192cccbf77abede5c3.jpg" />
     <premiere />
   </programme>
+  
 <programme start="20261027033000 +0530" stop="20261027040000 +0530" channel="star.sports.khel.in">
     <title lang="hi-IN">&#2325;&#2381;&#2352;&#2367;&#2325;&#2375;&#2335; &#2361;&#2366;&#2311;&#2354;&#2366;&#2311;&#2335;&#2381;&#2360;</title>
     <sub-title lang="hi-IN">Highlights of a cricket match wherein teams compete against each other in order to emerge victorious and win the coveted title</sub-title>
@@ -40549,6 +40556,7 @@
     <category lang="en">Film</category>
     <icon src="https://akamaividz2.zee5.com/image/upload/w_502,h_282,c_scale,f_webp,q_auto:eco/resources//list/xplorHDCabaret90945415fd187058fc463ab1be7760818231a9.jpg" />
   </programme>
+  
 <programme channel="and.xplorhd.in" start="20261025063100 +0530" stop="20261025082800 +0530">
     <title lang="en">Rang Rasiya</title>
     <desc lang="en">A young and talented Raja Ravi Varma trains under the king of Kerala. He moves to British-era Bombay and meets Sugandha, who initially discredits his artwork but later becomes his muse.</desc>
@@ -40839,6 +40847,7 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/324a984e34ce6608890d1120f86dda60.jpg" />
     <premiere />
   </programme>
+  
 <programme channel="9x.jalwa.in" start="20261024053000 +0530" stop="20261024060000 +0530">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2361;&#2366;&#2313;&#2360;&#2347;&#2369;&#2354;</title>
     <desc lang="hi-IN">A comprehensive compilation of melodious and hit Bollywood songs from the 90s to 2000s is played back-to-back to enthrall the audience.</desc>
@@ -41094,7 +41103,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/324a984e34ce6608890d1120f86dda60.jpg" />
     <premiere />
   </programme>
-  
 <programme channel="9x.jalwa.in" start="20261024213000 +0530" stop="20261024220000 +0530">
     <title lang="hi-IN">&#2332;&#2354;&#2357;&#2366; &#2361;&#2366;&#2313;&#2360;&#2347;&#2369;&#2354;</title>
     <desc lang="hi-IN">A comprehensive compilation of melodious and hit Bollywood songs from the 90s to 2000s is played back-to-back to enthrall the audience.</desc>
@@ -41350,7 +41358,6 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/d2d0fa8027882dbb964f6164d82061cf.jpg" />
     <premiere />
   </programme>
-  
 <programme channel="9x.jalwa.in" start="20261025133000 +0530" stop="20261025140000 +0530">
     <title lang="hi-IN">&#2360;&#2369;&#2346;&#2352; &#2360;&#2381;&#2357;&#2376;&#2327;</title>
     <desc lang="hi-IN">A comprehensive compilation of some of the latest and popular songs composed by various artists and bands is played back to back.</desc>
@@ -43709,7 +43716,6 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p13003425_b_h9_aa.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="pogo.in" start="20261022083000 +0530" stop="20261022090000 +0530">
     <title lang="en">Chhota Bheem</title>
     <desc lang="en">Bheem is an extremely brave, strong and intelligent young boy. He often manages to solve everyone's problems which endears him to the townspeople of Dholakpur.</desc>
@@ -44992,7 +44998,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p8862533_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E3641</episode-num>
   </programme>
-  
 <programme channel="sab.hd.in" start="20261022120000 +0530" stop="20261022123000 +0530">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">Bhide grows suspicious of his neighbours, suspecting they are shielding Popatlal. Meanwhile, the residents struggle to keep the secret under intense pressure.</desc>
@@ -46272,6 +46277,7 @@
     <category lang="en">Animation</category>
     <icon src="https://dtil.tmsimg.com/assets/p8494570_b_h9_ay.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="sony.bbc.earth.hd.in" start="20261022004000 +0530" stop="20261022012900 +0530">
     <title lang="en">Ganges</title>
     <desc lang="en">The filmmaker explores the Ganges as it reaches the Bay of Bengal, shaping the world's largest delta and revealing the powerful connection between land, water and life.</desc>
@@ -49069,6 +49075,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p8862533_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E1660</episode-num>
   </programme>
+  
 <programme channel="sony.sab.in" start="20261022080000 +0530" stop="20261022083000 +0530">
     <title lang="en">Taarak Mehta Ka Ooltah Chashmah</title>
     <desc lang="en">Surbhi tells her husband that she and her son will go with him on one condition: he must leave his parents to be with his wife and son. Her in-laws are shocked when their son agrees.</desc>
@@ -50313,7 +50320,6 @@
     <category lang="en">Golf</category>
     <icon src="https://dtil.tmsimg.com/assets/p29383279_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="sony.sports.ten.2.hd.in" start="20261022180000 +0530" stop="20261022200000 +0530">
     <title lang="en">FC Bayern M&#252;nchen vs. Arsenal; UEFA Champions League Soccer</title>
     <desc lang="en">Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.</desc>
@@ -50354,7 +50360,6 @@
     <category lang="en">Football</category>
     <icon src="https://dtil.tmsimg.com/assets/p8218144_b_h9_ad.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="sony.sports.ten.3.hd.in" start="20261022003000 +0530" stop="20261022023000 +0530">
     <title lang="en">Live - FC Bayern M&#252;nchen vs. Arsenal; UEFA Champions League Soccer</title>
     <desc lang="en">Professional football clubs from around Europe compete against each other in the UEFA Champions League to win the prestigious trophy.</desc>
@@ -51092,7 +51097,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p34140819_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  
 <programme channel="star.gold.in" start="20261022003000 +0530" stop="20261022030000 +0530">
     <title lang="en">Movie</title>
     <desc lang="en">This is Film - Drama Category.</desc>
@@ -53505,7 +53509,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p8509066_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="star.sports.2.hindi.hd.in" start="20261022010000 +0530" stop="20261022013000 +0530">
     <title lang="en">ICC CWC Highlights</title>
     <desc lang="en">Highlights of the matches played during the ICC Cricket World Cup, a quadrennial ODI tournament, wherein international teams compete to win.</desc>
@@ -54133,6 +54136,7 @@
     <category lang="en">Sport</category>
     <icon src="https://dtil.tmsimg.com/assets/p33655002_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.3.in" start="20261022090500 +0530" stop="20261022093000 +0530">
     <title lang="en">ICC WT20 Highlights</title>
     <desc lang="en">Highlights from the matches held during the ICC World T20 championship wherein international cricket teams compete against each other for the title.</desc>
@@ -54388,7 +54392,6 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p8509066_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="star.sports.3.in" start="20261022190000 +0530" stop="20261022191500 +0530">
     <title lang="en">2nd T20: India vs. Zimbabwe; Women's T20 Cricket</title>
     <desc lang="en">Professional women's cricket teams compete against each other to emerge victorious in the ICC Women's T20 World Cup and claim the coveted title.</desc>
@@ -54636,6 +54639,7 @@
     <category lang="en">Cricket</category>
     <icon src="https://dtil.tmsimg.com/assets/p8414564_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="star.sports.select.1.hd.in" start="20261022120000 +0530" stop="20261022123000 +0530">
     <title lang="en">Tottenham Hotspur v Chelsea; Premier League: Match Highlights</title>
     <desc lang="en">Premier League match highlights show top goals, best plays and key moments, while these exciting clips sum up games and keep fans updated on the league.</desc>
@@ -55822,6 +55826,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29552416_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="showbox.in" start="20261022150000 +0530" stop="20261022153000 +0530">
     <title lang="en">Lit5</title>
     <desc lang="en">A comprehensive compilation of the popular and famous songs of various genres by reputed artists is played back to back.</desc>
@@ -56061,6 +56066,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p26316173_b_h9_ae.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E454</episode-num>
   </programme>
+  
 <programme channel="sony.yay.in" start="20261022005100 +0530" stop="20261022005700 +0530">
     <title lang="en">Shin Chan</title>
     <desc lang="en">Shin-chan and his family visit the Hinabita Hot Spring Inn for a relaxing vacation. However, Shin-chan commits mischief.</desc>
@@ -56766,6 +56772,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p26316173_b_h9_ae.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E40</episode-num>
   </programme>
+  
 <programme channel="sony.yay.in" start="20261022074700 +0530" stop="20261022075500 +0530">
     <title lang="en">Shin Chan</title>
     <desc lang="en">A five-year-old boy, has many misadventures due to his peculiar antics, while his parents and tutors try to discipline him.</desc>
@@ -59980,7 +59987,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p20400177_b_h9_aj.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E1233</episode-num>
   </programme>
-  
 <programme channel="zee.anmol.in" start="20261022173000 +0530" stop="20261022180000 +0530">
     <title lang="en">Bhagya Lakshmi</title>
     <desc lang="en">Lakshmi expresses her fierce protectiveness towards her family. She is then tasked with planning Shalu's wedding as the daughter-in-law of the household.</desc>
@@ -61144,6 +61150,7 @@
     <category lang="en">Thriller</category>
     <icon src="https://dtil.tmsimg.com/assets/p182267_v_h9_aa.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="and.pictures.hd.in" start="20261022060000 +0530" stop="20261022080000 +0530">
     <title lang="en">Manikarnika</title>
     <desc lang="en">After the death of her husband and child, Lakshmibai takes over the throne of Jhansi and defends the kingdom against the tyranny of the East India Company.</desc>
@@ -62360,7 +62367,6 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29741356_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="9x.jhakaas.in" start="20261022073000 +0530" stop="20261022080000 +0530">
     <title lang="en">Jhakaas Fit Hits</title>
     <desc lang="en">A compilation of some of the most popular and melodious songs sung and composed by talented artists is played back-to-back.</desc>
@@ -62619,7 +62625,6 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p29972579_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="9x.tashan.in" start="20261022043000 +0530" stop="20261022050000 +0530">
     <title lang="en">Saari Raat</title>
     <desc lang="en">A comprehensive compilation of some of the most popular Bollywood soundtracks produced by various artists is played back-to-back to entertain the audience.</desc>
@@ -63298,7 +63303,6 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p28418558_b_h9_ah.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="aaj.tak.in" start="20261022070500 +0530" stop="20261022073000 +0530">
     <title lang="en">Bhagya Shailendra Pandey Ke Saath</title>
     <desc lang="en">Shailendra Pandey, a learned astrologer, gives his predictions based on people's horoscopes and offers astrological solutions for leading a harmonious life.</desc>
@@ -63570,7 +63574,6 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p19471710_b_h9_ai.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="aaj.tak.in" start="20261022202500 +0530" stop="20261022205500 +0530">
     <title lang="en">Special Report</title>
     <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
@@ -64949,6 +64952,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p27449172_b_h9_ad.jpg?lock=880x660" />
     <episode-num system="onscreen">S3 E7</episode-num>
   </programme>
+  
 <programme channel="colors.hd.in" start="20261022115100 +0530" stop="20261022133200 +0530">
     <title lang="en">Laughter Chefs Unlimited Entertainment</title>
     <desc lang="en">Pawan Singh infuses the atmosphere with Bhojpuri charisma. Meanwhile, the kitchen transforms into a lively arena as rival teams craft Bihari cuisine amidst spirited competition.</desc>
@@ -66173,7 +66177,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p31434545_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  
 <programme channel="colors.rishtey.in" start="20261022090600 +0530" stop="20261022093400 +0530">
     <title lang="en">PAW Patrol</title>
     <desc lang="en">A group of six rescue dogs, led by a tech-savvy boy named Ryder, have come together to form a pack. Together they embark on adventures and work as a team in order to protect the community.</desc>
@@ -67516,6 +67519,7 @@
     <category lang="en">Music</category>
     <icon src="https://dtil.tmsimg.com/assets/p28409730_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  
 <programme channel="dhoom.music.in" start="20261022153000 +0530" stop="20261022160000 +0530">
     <title lang="en">Dhoom LIVE</title>
     <desc lang="en">A comprehensive compilation of the latest hits and popular soundtracks produced by various acclaimed musicians is played, live.</desc>
@@ -68863,7 +68867,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p26974808_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E26</episode-num>
   </programme>
-  
 <programme channel="discovery.kids.in" start="20261022150300 +0530" stop="20261022151500 +0530">
     <title lang="en">Titoo</title>
     <desc lang="en">Stage performer Chhupa Rustom uses a magical photo frame to imprison Titoo and his companions. Later, Titoo breaks free with their assistance and stops Rustom before the frame is sold.</desc>
@@ -69207,7 +69210,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p32516336_b_h9_aa.jpg?lock=880x660" />
     <episode-num system="onscreen">S14 E26</episode-num>
   </programme>
-  
 <programme channel="discovery.kids.in" start="20261022200200 +0530" stop="20261022201500 +0530">
     <title lang="en">Titoo</title>
     <desc lang="en">Titoo comes up with a plan to get free burgers from his school canteen. However, he gets filled with gas when he eats too much.</desc>
@@ -69947,7 +69949,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p31524395_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S30 E9</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20261022090000 +0530" stop="20261022100000 +0530">
     <title lang="en">Ghost Adventures</title>
     <desc lang="en">An estate haunted by rumours of secret rituals in the basement and a double homicide next door.</desc>
@@ -71511,7 +71512,6 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p28547197_b_h9_ab.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="india.tv.in" start="20261022062800 +0530" stop="20261022065800 +0530">
     <title lang="en">Jaago India</title>
     <desc lang="en">The host presents the latest updates and developments regarding various social, political and economic issues in a detailed manner.</desc>
@@ -72740,7 +72740,6 @@
     <category lang="en">Others</category>
     <icon src="https://dtil.tmsimg.com/assets/p19292889_b_h9_al.jpg?lock=880x660" />
   </programme>
-  
 <programme channel="nat.geo.wild.hd.in" start="20261022150000 +0530" stop="20261022160000 +0530">
     <title lang="en">Animal Fight Club</title>
     <desc lang="en">Violent battles take place among deadly predators to claim their rights in the wild, highlighting underestimated moments that distinguish champions from losers.</desc>
@@ -72992,7 +72991,6 @@
     <icon src="https://dtil.tmsimg.com/assets/p25056397_b_h9_ab.jpg?lock=880x660" />
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  
 <programme channel="national.geographic.hd.in" start="20261022120000 +0530" stop="20261022130000 +0530">
     <title lang="en">Reaching the Unreached</title>
     <desc lang="en">Heroic Indian doctors provide a lifeline to remote communities through a unique floating hospital in the Himalayan region.</desc>
@@ -73433,7 +73431,6 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  
 <programme channel="travelxp.hd.in" start="20261024160000 -0500" stop="20261024163000 -0500">
     <title lang="pl">Backpack Azerbaijan</title>
     <sub-title lang="pl">Baku</sub-title>
@@ -73712,6 +73709,7 @@
     <category lang="pl">magazyn turystyczny</category>
     <episode-num system="onscreen">E52</episode-num>
   </programme>
+  
 <programme channel="travelxp.hd.in" start="20261025093000 -0500" stop="20261025100000 -0500">
     <title lang="pl">See My Home California</title>
     <sub-title lang="pl">Big Sur</sub-title>
@@ -76740,6 +76738,7 @@
     <category lang="pl">Zeichentrickserie</category>
     <episode-num system="onscreen">E18</episode-num>
   </programme>
+  
 <programme channel="nick.in" start="20261026065500 -0500" stop="20261026072000 -0500">
     <title lang="pl">Die Casagrandes</title>
     <title lang="xx">The Casagrandes: The Two of Clubs / Vacation Daze</title>
@@ -78797,7 +78796,6 @@
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  
 <programme channel="national.geographic.hd.in" start="20261024140000 -0500" stop="20261024150000 -0500">
     <title lang="pl">Odkopa&#263; histori&#281;</title>
     <title lang="xx">Buried Evidence</title>
@@ -79328,6 +79326,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
+  
 <programme channel="national.geographic.hd.in" start="20261026160000 -0500" stop="20261026170000 -0500">
     <title lang="pl">Katastrofa w przestworzach: Raport specjalny</title>
     <title lang="xx">Air Crash Investigation Special Report 3</title>
@@ -81192,6 +81191,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <date>2013</date>
     <category lang="pl">film sensacyjny</category>
   </programme>
+  
 <programme channel="bollywood.hd.in" start="20261024195000 -0500" stop="20261024225500 -0500">
     <title lang="pl">Kr&#243;l dramatu</title>
     <title lang="xx">Nautanki Saala!</title>
@@ -81994,6 +81994,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <date>2002</date>
     <category lang="pl">melodramat</category>
   </programme>
+  
 <programme channel="bollywood.hd.in" start="20261028123500 -0500" stop="20261028150000 -0500">
     <title lang="pl">Biel</title>
     <title lang="xx">White</title>
@@ -82643,7 +82644,6 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261024120000 -0500" stop="20261024121000 -0500">
     <title lang="pl">Pora na przygod&#281;: Misje poboczne</title>
     <title lang="xx">Adventure Time: Side Quests</title>
@@ -86606,7 +86606,6 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E13</episode-num>
   </programme>
-  
 <programme channel="cartoon.network.in" start="20261027231000 -0500" stop="20261027232000 -0500">
     <title lang="pl">Niesamowity &#347;wiat Gumballa 3</title>
     <title lang="xx">The Amazing World of Gumball 3</title>
@@ -87924,6 +87923,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S26</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20261024113000 -0500" stop="20261024120000 -0500">
     <title lang="pl">Jak to jest zrobione</title>
     <title lang="xx">How It's Made 26</title>
@@ -88189,7 +88189,6 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  
 <programme channel="discovery.science.in" start="20261025063000 -0500" stop="20261025070000 -0500">
     <title lang="pl">Jak to jest zrobione - samochody marze&#324; 2</title>
     <title lang="xx">How It's Made: Dream Cars 2</title>
@@ -89006,6 +89005,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial dokumentalny</category>
     <episode-num system="onscreen">S13E17</episode-num>
   </programme>
+  
 <programme channel="discovery.science.in" start="20261028013000 -0500" stop="20261028020000 -0500">
     <title lang="pl">Zwyk&#322;e rzeczy - niezwyk&#322;e wynalazki</title>
     <title lang="xx">How Do They Do It? 13</title>
@@ -89777,6 +89777,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E43</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20261024183000 -0500" stop="20261024190000 -0500">
     <title lang="pl">Spidey i superkumple 2</title>
     <title lang="xx">Spidey and His Amazing Friends 2</title>
@@ -90043,6 +90044,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S1E30</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20261025014000 -0500" stop="20261025015000 -0500">
     <title lang="pl">Blue</title>
     <title lang="xx">Bluey</title>
@@ -90299,6 +90301,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E26</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20261025094500 -0500" stop="20261025094600 -0500">
     <title lang="pl">Butik Minnie 3</title>
     <title lang="xx">Minnie's Bow Toons</title>
@@ -90830,7 +90833,6 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S3E143</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261025224000 -0500" stop="20261025224500 -0500">
     <title lang="pl">Blue 3</title>
     <title lang="xx">Bluey 3</title>
@@ -91363,6 +91365,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E68</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20261026140000 -0500" stop="20261026141000 -0500">
     <title lang="pl">Blue 2</title>
     <sub-title lang="pl">Wytworna restauracja</sub-title>
@@ -91892,6 +91895,7 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E5</episode-num>
   </programme>
+  
 <programme channel="disney.junior.in" start="20261027053000 -0500" stop="20261027060000 -0500">
     <title lang="pl">Psia Brygada 2</title>
     <title lang="xx">Pupstruction</title>
@@ -92157,7 +92161,6 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E80</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261027140000 -0500" stop="20261027141000 -0500">
     <title lang="pl">Blue 2</title>
     <sub-title lang="pl">Biblioteka</sub-title>
@@ -92952,7 +92955,6 @@ Rekonstrukcja pierwszej doby po awarii. 26 kwietnia 1986 roku wybuch niszczy czw
     <category lang="pl">serial animowany</category>
     <episode-num system="onscreen">S2E92</episode-num>
   </programme>
-  
 <programme channel="disney.junior.in" start="20261028140000 -0500" stop="20261028141000 -0500">
     <title lang="pl">Blue 2</title>
     <sub-title lang="pl">Kibel</sub-title>
@@ -97293,6 +97295,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
       <value>PG</value>
     </rating>
   </programme>
+  
 <programme channel="sony.max.2.in" start="20261026044200 +0000" stop="20261026070000 +0000">
     <title lang="en">Anjane Mein</title>
     <desc lang="en">Raja, a young boy, is separated from his parents in a train accident and taken in by a circus troupe. Years later, when an evil man hatches a heist, it is up to Raja to stop him.</desc>
@@ -98746,7 +98749,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
       <value>PG</value>
     </rating>
   </programme>
-  
 <programme channel="sony.sab.in" start="20261025200000 +0000" stop="20261025203000 +0000">
     <title lang="en">Kyunki Papa Kehte Hain</title>
     <desc lang="en">After their parents' tragic death, five siblings must grow up overnight. Eldest brother Pawan shoulders the massive responsibility of running the house and raising his younger brothers and sisters.</desc>
@@ -100747,7 +100749,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <icon src="https://images.metadata.sky.com/pd-image/bae47853-2e1f-47bc-b377-8a3818a78a7d/16-9" />
     <episode-num system="onscreen">10</episode-num>
   </programme>
-  
 <programme channel="skysp.cricket.in" start="20261023090000 +0000" stop="20261023100000 +0000">
     <title lang="en">The Test Within</title>
     <desc lang="en">Trace the rich and often turbulent history of the South Africa men's Test cricket team, from its early days in the late 19th century to its modern status as a global powerhouse.</desc>
@@ -102019,6 +102020,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <category lang="en">Specialist</category>
     <category lang="en">Shopping</category>
   </programme>
+  
 <programme channel="tlc.hd.in" start="20261024060000 +0000" stop="20261024063000 +0000">
     <title lang="en">Young Sheldon</title>
     <sub-title lang="en">Eagle Feather, String Bean</sub-title>
@@ -103073,7 +103075,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <icon src="https://images.metadata.sky.com/pd-image/7ad18f1b-4e6d-45ab-be0f-749e40a093d0/16-9" />
     <episode-num system="xmltv_ns">11.16.</episode-num>
   </programme>
-  
 <programme channel="tlc.hd.in" start="20261026193000 +0000" stop="20261026200000 +0000">
     <title lang="en">The Big Bang Theory</title>
     <sub-title lang="en">The Laureate Accumulation</sub-title>
@@ -103355,7 +103356,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/d86f6aba-52a3-4ad2-9d7b-9028f0378f5d/16-9" />
   </programme>
-  
 <programme channel="aaj.tak.in" start="20261023143000 +0000" stop="20261023150000 +0000">
     <title lang="en">Saas Bahu Betiyan</title>
     <desc lang="en">Aajtak Entertainment show on Indian TV programs.</desc>
@@ -104219,7 +104219,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/f38fc31e-4921-493b-bbf1-7bc41a72567e/16-9" />
   </programme>
-  
 <programme channel="aaj.tak.in" start="20261025213000 +0000" stop="20261025220000 +0000">
     <title lang="en">Black And White</title>
     <desc lang="en">Special news coverage, thorough analysis &amp; diverse perspectives, Anchored by Anjana Om Kashyap.</desc>
@@ -104507,7 +104506,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <category lang="en">World Affairs</category>
     <icon src="https://images.metadata.sky.com/pd-image/d843cc91-3b8c-41ef-bb98-2d5470de0d16/16-9" />
   </programme>
-  
 <programme channel="aaj.tak.in" start="20261026153000 +0000" stop="20261026160000 +0000">
     <title lang="en">Saas Bahu Betiyan</title>
     <desc lang="en">Aajtak Entertainment show on Indian TV programs.</desc>
@@ -105939,6 +105937,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <category lang="en">Entertainment</category>
     <icon src="https://images.metadata.sky.com/pd-image/15d690e5-4017-415e-9f0a-38c31066f071/16-9" />
   </programme>
+  
 <programme channel="b4u.music.in" start="20261026083000 +0000" stop="20261026103000 +0000">
     <title lang="en">Aawaaz De Kahan Hai</title>
     <desc lang="en">Compilation of classic hit Hindi film songs.</desc>
@@ -108066,6 +108065,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <icon src="https://images.metadata.sky.com/pd-image/a4b064f9-1736-42df-b76c-9e1bf8de1b18/16-9" />
     <episode-num system="xmltv_ns">14.233.</episode-num>
   </programme>
+  
 <programme channel="mtv.hd.in" start="20261023160000 +0000" stop="20261023170000 +0000">
     <title lang="en">Charmed</title>
     <desc lang="en">Grams comes to the manor for a Wiccan birthing ceremony, for Wyatt, and the sisters find out that she has brought a memory from her past, a former lover who wants to kill the Charmed Ones.</desc>
@@ -110849,7 +110849,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
     <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  
 <programme channel="national.geographic.hd.in" start="20261023110000 +0000" stop="20261023113000 +0000">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
@@ -113243,6 +113242,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
       <value>14+</value>
     </rating>
   </programme>
+  
 <programme channel="national.geographic.hd.in" start="20261026190000 +0000" stop="20261026200000 +0000">
     <title lang="en">Incas: The Rise and Fall</title>
     <sub-title lang="en">The Great Expansion</sub-title>
@@ -115262,6 +115262,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
       <value>16</value>
     </rating>
   </programme>
+  
 <programme channel="vh1.hd.in" start="20261024200000 +0000" stop="20261024203000 +0000">
     <title lang="en">Nick Cannon Presents: Wild 'n Out</title>
     <sub-title lang="en">O.T Genasis; Nate Robinson</sub-title>
@@ -116866,7 +116867,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
       <value>14</value>
     </rating>
   </programme>
-  
 <programme channel="vh1.hd.in" start="20261026073000 +0000" stop="20261026080000 +0000">
     <title lang="en">Nick Cannon Presents: Wild 'n Out</title>
     <sub-title lang="en">Floribama Shore Cast</sub-title>
@@ -118074,6 +118074,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261025010000 +0700" stop="20261025020000 +0700" channel="tlc.hd.in">
     <title lang="en">The Bad Skin Clinic</title>
   </programme>
+  
 <programme start="20261025020000 +0700" stop="20261025030000 +0700" channel="tlc.hd.in">
     <title lang="en">Dr. Pimple Popper</title>
   </programme>
@@ -118601,6 +118602,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261026085000 +0700" stop="20261026090000 +0700" channel="supersport.school.hd.in">
     <title lang="en">Derby Days Series</title>
   </programme>
+  
 <programme start="20261026090000 +0700" stop="20261026100000 +0700" channel="supersport.school.hd.in">
     <title lang="en">Elevate Water Polo on 216</title>
   </programme>
@@ -118804,7 +118806,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261024125000 +0700" stop="20261024131500 +0700" channel="disney.channel.in">
     <title lang="en">The Doomies</title>
   </programme>
-  
 <programme start="20261024131500 +0700" stop="20261024134000 +0700" channel="disney.channel.in">
     <title lang="en">The Doomies</title>
   </programme>
@@ -119204,7 +119205,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261026052000 +0700" stop="20261026054000 +0700" channel="disney.channel.in">
     <title lang="en">Wizards Beyond Waverly Place</title>
   </programme>
-  
 <programme start="20261026054000 +0700" stop="20261026060000 +0700" channel="disney.channel.in">
     <title lang="en">Stuck In The Middle</title>
   </programme>
@@ -119244,6 +119244,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261026084000 +0700" stop="20261026090000 +0700" channel="disney.channel.in">
     <title lang="en">Stuck In The Middle</title>
   </programme>
+  
 <programme start="20261026090000 +0700" stop="20261026092000 +0700" channel="disney.channel.in">
     <title lang="en">Bunk'd: Learning The Ropes</title>
   </programme>
@@ -119599,7 +119600,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261027161000 +0700" stop="20261027163500 +0700" channel="disney.channel.in">
     <title lang="en">Stuck In The Middle</title>
   </programme>
-  
 <programme start="20261027163500 +0700" stop="20261027170000 +0700" channel="disney.channel.in">
     <title lang="en">Stuck In The Middle</title>
   </programme>
@@ -119639,6 +119639,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261027195000 +0700" stop="20261027201500 +0700" channel="disney.channel.in">
     <title lang="en">Phineas And Ferb</title>
   </programme>
+  
 <programme start="20261027201500 +0700" stop="20261027204000 +0700" channel="disney.channel.in">
     <title lang="en">Miraculous Tales of Ladybug &amp; Cat Noir</title>
   </programme>
@@ -120026,7 +120027,6 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261025005500 +0700" stop="20261025010500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
-  
 <programme start="20261025010500 +0700" stop="20261025011000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -120070,6 +120070,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261025034500 +0700" stop="20261025035000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
+  
 <programme start="20261025035000 +0700" stop="20261025040000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
@@ -120493,6 +120494,7 @@ Jeremiasz bierze udzia&#322; w reklamie sanda&#322;&#243;w. Fretka martwi si&#28
 <programme start="20261026034000 +0700" stop="20261026034500 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
+  
 <programme start="20261026034500 +0700" stop="20261026035000 +0700" channel="disney.junior.in">
     <title lang="en">Bluey</title>
   </programme>
